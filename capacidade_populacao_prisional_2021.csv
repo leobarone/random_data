@@ -1,0 +1,3100 @@
+ano;nome_do_estabelecimento;uf;x1_3_capacidade_do_estabelecimento_presos_provisorios_total;x4_1_populacao_prisional_total
+2021;NÚCLEO DE MONITORAMENTO ELETRÔNICO DOMICILIAR DE BRASILÉIA;AC;NA;39
+2021;NÚCLEO DE MONITORAMENTO ELETRÔNICO DOMICILIAR DE CRUZEIRO DO SUL;AC;NA;123
+2021;NÚCLEO DE MONITORAMENTO ELETRÔNICO DOMICILIAR DE FEIJÓ;AC;NA;119
+2021;NÚCLEO DE MONITORAMENTO ELETRONICO DOMICILIAR DE SENA MADUREIRA;AC;NA;166
+2021;NÚCLEO DE MONITORAMENTO ELETRÔNICO DOMICILIAR DE TARAUACÁ;AC;NA;132
+2021;UNIDADE DE MONITORAMENTO ELETRÔNICO DOMICILIAR DE PRESOS;AC;NA;1131
+2021;UNIDADE DE RECOLHIMENTO PROVISÓRIO;AC;749;686
+2021;UNIDADE DE REGIME FECHADO FEMININO;AC;32;249
+2021;UNIDADE DE REGIME FECHADO N1;AC;0;1536
+2021;UNIDADE DE REGIME FECHADO N2;AC;1;99
+2021;UNIDADE DE REGIME SEMIABERTO N1;AC;0;41
+2021;UNIDADE PENITENCIARIA DO QUINARI;AC;NA;470
+2021;UNIDADE PENITENCIARIA EVARISTO DE MORAES;AC;161;515
+2021;UNIDADE PENITENCIÁRIA FEMININA DE TARAUACÁ;AC;NA;184
+2021;UNIDADE PENITENCIÁRIA GUIMARÃES LIMA;AC;18;24
+2021;UNIDADE PENITENCIARIA MANOEL NERI DA SILVA;AC;200;662
+2021;UNIDADE PENITENCIARIA MOACIR PRADO;AC;238;633
+2021;UNIDADE PENITENCIARIA N07;AC;0;17
+2021;CASA DE CUSTÓDIA DE MACEIÓ;AL;240;461
+2021;CENTRO DE MONITORAMENTO ELETRÔNICO DE PRESOS - DOMICILIAR;AL;NA;887
+2021;CENTRO PSIQUIÁTRICO JUDICIÁRIO PEDRO MARINHO SURUAGY;AL;NA;107
+2021;COLÔNIA AGROINDUSTRIAL SÃO LEONARDO - DOMICILIAR;AL;NA;4744
+2021;ESTABELECIMENTO PRISIONAL DE SEGURANÇA MÉDIA PROFESSOR CYRIDIÃO DURVAL E SILVA;AL;404;919
+2021;ESTABELECIMENTO PRISIONAL FEMININO SANTA LUZIA;AL;110;150
+2021;NÚCLEO RESSOCIALIZADOR DA CAPITAL;AL;NA;83
+2021;PENITENCIÁRIA DE SEGURANÇA MÁXIMA;AL;NA;706
+2021;PENITENCIÁRIA MASCULINA BALDOMERO CAVALCANTI DE OLIVEIRA;AL;NA;1343
+2021;PRESÍDIO DE SEGURANÇA MÁXIMA;AL;192;164
+2021;PRESÍDIO DO AGRESTE;AL;960;958
+2021;CASA DO ALBERGADO - Capital - Domiciliar;AM;0;1089
+2021;CENTRAL DE RECEBIMENTO E TRIAGEM;AM;20;20
+2021;CENTRO DE DETENÇÃO PROVISORIA DE MANAUS - DOMICILIAR;AM;0;84
+2021;CENTRO DE DETENÇÃO PROVISÓRIA DE MANAUS II;AM;571;883
+2021;CENTRO DE DETENÇÃO PROVISÓRIA DE MANAUS II - DOMICILIAR;AM;0;7
+2021;CENTRO DE DETENÇÃO PROVISORIO DE MANAUS - Capital;AM;548;1026
+2021;CENTRO DE DETENÇÃO PROVISÓRIO FEMININO - Capital;AM;180;130
+2021;CENTRO DE DETENÇÃO PROVISÓRIO FEMININO - DOMICILIAR;AM;0;50
+2021;CENTRO DE OPERAÇÕES E CONTROLE - MONITORAMENTO ELETRÔNICO - DOMICILIAR;AM;NA;1569
+2021;COMPAJ - SEMIABERTO MASCULINO - Capital - MONITORAMENTO ELETRÔNICO - DOMICILIAR;AM;NA;4383
+2021;COMPAJ FECHADO - DOMICILIAR;AM;0;51
+2021;COMPAJ-FECHADO - Capital;AM;NA;1012
+2021;ENFERMARIA PSQUIATRICA - Capital;AM;0;15
+2021;ENFERMARIA PSQUIATRICA - DOMICILIAR;AM;0;1
+2021;INSTITUTO PENAL ANTONIO TRINDADE - Capital;AM;496;703
+2021;INSTITUTO PENAL ANTONIO TRINDADE - DOMICILIAR;AM;0;3
+2021;UNIDADE  PRISIONAL DO PURAQUEQUARA - Capital;AM;614;909
+2021;UNIDADE PRISIONAL DE COARI;AM;0;200
+2021;UNIDADE PRISIONAL DE COARI - DOMICILIAR;AM;NA;68
+2021;UNIDADE PRISIONAL DE HUMAITÁ;AM;18;82
+2021;UNIDADE PRISIONAL DE HUMAITÁ - DOMICILIAR;AM;NA;82
+2021;UNIDADE PRISIONAL DE ITACOATIARA - FECHADO;AM;60;121
+2021;UNIDADE PRISIONAL DE ITACOATIARA - FECHADO - DOMICILIAR;AM;0;1
+2021;UNIDADE PRISIONAL DE MAUÉS;AM;NA;42
+2021;UNIDADE PRISIONAL DE MAUÉS - DOMICILIAR;AM;NA;90
+2021;UNIDADE PRISIONAL DE PARINTINS;AM;18;46
+2021;UNIDADE PRISIONAL DE PARINTINS - DOMICILIAR;AM;0;106
+2021;UNIDADE PRISIONAL DE TABATINGA;AM;70;149
+2021;UNIDADE PRISIONAL DE TABATINGA - DOMICILIAR;AM;NA;239
+2021;UNIDADE PRISIONAL DE TEFÉ;AM;42;99
+2021;UNIDADE PRISIONAL DE TEFÉ - DOMICILIAR;AM;NA;89
+2021;UNIDADE PRISIONAL DO PURAQUEQUARA - DOMICILIAR;AM;0;52
+2021;UNIDADE PRISIONAL MISTA - ITACOATIARA;AM;NA;2
+2021;UNIDADE PRISIONAL MISTA - ITACOATIARA - DOMICILIAR;AM;0;62
+2021;UNIDADE PRISIONAL SEMIABERTO FEMININO - MONITORAMENTO ELETRÔNICO - DOMICILIAR;AM;NA;266
+2021;CCE - Centro de Custódia Especial;AP;7;14
+2021;CCO - Centro de Custódia do Oiapoque;AP;52;26
+2021;Central de Monitoramento Eletrônico Domiciliar;AP;NA;304
+2021;Centro de Custódia |Novo Horizonte;AP;0;17
+2021;COCEC - COORDENADORIA DO CENTRO DE CUSTÓDIA - CADEÃO;AP;400;789
+2021;COLPE - Colônia Penal;AP;NA;255
+2021;COPEF - Penitenciária Feminina;AP;47;83
+2021;COPEMA - Penitenciária Masculina;AP;NA;1317
+2021;Cadeia Pública de Salvador;BA;832;975
+2021;Casa do Albergado e Egresso;BA;NA;54
+2021;Central de Monitoração Eletrônica de Pessoas - Monitoramento Eletrônico Domiciliar;BA;NA;1177
+2021;Central Médica Penitenciária;BA;NA;4
+2021;Centro de Observação Penal;BA;NA;115
+2021;Colônia Agrícola Lafayete Coutinho;BA;NA;251
+2021;Colônia Penal de Simões Filho;BA;NA;220
+2021;Conjunto Penal Advogado Nilton Gonçalves - Vitória da Conquista;BA;48;189
+2021;Conjunto Penal de Barreiras;BA;252;513
+2021;Conjunto Penal de Eunápolis;BA;228;523
+2021;Conjunto Penal de Feira de Santana;BA;730;1729
+2021;Conjunto Penal de Itabuna;BA;258;910
+2021;Conjunto Penal de Jequié;BA;NA;573
+2021;Conjunto Penal de Juazeiro;BA;0;1094
+2021;Conjunto Penal de Lauro de Freitas;BA;NA;435
+2021;Conjunto Penal de Paulo Afonso;BA;288;468
+2021;Conjunto Penal de Serrinha;BA;144;497
+2021;Conjunto Penal de Teixeira de Freitas;BA;138;559
+2021;Conjunto Penal de Valença;BA;238;284
+2021;Conjunto Penal de Vitória da Conquista;BA;403;820
+2021;Conjunto Penal Feminino;BA;NA;99
+2021;Conjunto Penal Masculino de Salvador;BA;295;612
+2021;Hospital de Custódia e Tratamento;BA;60;173
+2021;Penitenciária Lemos Brito;BA;NA;1291
+2021;Presídio de Salvador;BA;784;809
+2021;Presídio Regional Ariston Cardoso - Ilhéus;BA;180;101
+2021;Unidade Prisional Extraordinária;BA;NA;8
+2021;CÉLULA DE MONITORAÇÃO ELETRÔNICA DE PESSOAS DOMICILIAR;CE;NA;7062
+2021;HOSPITAL E SANATÓRIO PRISIONAL PROFESSOR OTÁVIO LOBO;CE;NA;14
+2021;INSTITUTO PSIQUIÁTRICO GOVERNADOR STÊNIO GOMES;CE;NA;161
+2021;NÚCLEO DA CASA DO ALBERGADO DOMICILIAR;CE;NA;6006
+2021;UNIDADE PRISIONAL  DO CEDRO;CE;70;52
+2021;UNIDADE PRISIONAL AGENTE PENITENCIÁRIO LUCIANO ANDRADE LIMA;CE;450;935
+2021;UNIDADE PRISIONAL DE ACOPIARA;CE;47;46
+2021;UNIDADE PRISIONAL DE AQUIRAZ;CE;370;1795
+2021;UNIDADE PRISIONAL DE CARIDADE;CE;34;417
+2021;UNIDADE PRISIONAL DE ENSINO, CAPACITAÇÃO E TRABALHO DE ITAITINGA;CE;912;102
+2021;UNIDADE PRISIONAL DE FORTIM;CE;34;60
+2021;UNIDADE PRISIONAL DE GRANJA;CE;28;47
+2021;UNIDADE PRISIONAL DE ICO;CE;47;125
+2021;UNIDADE PRISIONAL DE NOVO ORIENTE;CE;36;23
+2021;UNIDADE PRISIONAL DE TRAIRI;CE;54;49
+2021;UNIDADE PRISIONAL DE TRIAGEM E OBSERVAÇÃO CRIMINOLOGICA;CE;372;1132
+2021;UNIDADE PRISIONAL DESEMBARGADOR FRANCISCO ADALBERTO OLIVEIRA BARROS LEAL;CE;408;856
+2021;UNIDADE PRISIONAL ELIAS ALVES DA SILVA;CE;936;2170
+2021;UNIDADE PRISIONAL FEMININA DE SOBRAL;CE;57;74
+2021;UNIDADE PRISIONAL FEMININA DESEMBARGADORA AURI MOURA COSTA;CE;NA;838
+2021;UNIDADE PRISIONAL FEMININA DO CRATO;CE;101;100
+2021;UNIDADE PRISIONAL FRANCISCO HELIO VIANA DE ARAUJO;CE;NA;1476
+2021;UNIDADE PRISIONAL IRMÃ IMELDA LIMA PONTES;CE;163;263
+2021;UNIDADE PRISIONAL MASCULINA DE JUAZEIRO DO NORTE;CE;277;651
+2021;UNIDADE PRISIONAL PROFESSOR CLODOALDO PINTO;CE;922;2116
+2021;UNIDADE PRISIONAL PROFESSOR JOSÉ JUCÁ NETO;CE;351;1851
+2021;UNIDADE PRISIONAL PROFESSOR JOSÉ SOBREIRA AMORIM;CE;NA;1790
+2021;UNIDADE PRISIONAL PROFESSOR OLAVO OLIVEIRA II;CE;625;1770
+2021;UNIDADE PRISIONAL REGIONAL DE SOBRAL;CE;NA;1644
+2021;UNIDADE PRISIONAL REGIONAL DO CARIRI;CE;0;969
+2021;UNIDADE PRISIONAL VASCO DAMASCENO WEYNE;CE;1032;2159
+2021;CENTRO DE DETENÇÃO PROVISÓRIA I;DF;1723;1588
+2021;CENTRO DE DETENÇÃO PROVISÓRIA II;DF;1600;1525
+2021;CENTRO DE INTERNAMENTO E REEDUCAÇÃO;DF;0;3827
+2021;CENTRO DE PROGRESSÃO PENITENCIÁRIA;DF;NA;1475
+2021;CENTRO INTEGRADO DE MONITORAMENTO ELETRÔNICO - DOMICILIAR;DF;0;984
+2021;GERÊNCIA DE FISCALIZAÇÃO DE CUSTODIADOS - DOMICILIAR;DF;NA;11061
+2021;PENITENCIÁRIA DO DISTRITO FEDERAL I;DF;0;3180
+2021;PENITENCIÁRIA DO DISTRITO FEDERAL II;DF;NA;3275
+2021;PENITENCIÁRIA FEMININA DO DISTRITO FEDERAL;DF;128;702
+2021;CASCUVV - CASA DE CUSTÓDIA DE VILA VELHA;ES;NA;439
+2021;CASCUVV - CASA DE CUSTÓDIA DE VILA VELHA - DOMICILIAR;ES;NA;3
+2021;CDPA - CENTRO DE DETENÇÃO PROVISÓRIA DE ARACRUZ;ES;246;439
+2021;CDPCI - CENTRO DE DETENÇÃO PROVISÓRIA DE CACHOEIRO DE ITAPEMIRIM;ES;236;486
+2021;CDPCOL - CENTRO DE DETENÇÃO PROVISÓRIA DE COLATINA;ES;535;721
+2021;CDPCOL - CENTRO DE DETENÇÃO PROVISÓRIA DE COLATINA - DOMICILIAR;ES;NA;3
+2021;CDPG - CENTRO DE DETENÇÃO PROVISÓRIA DE GUARAPARI;ES;580;956
+2021;CDPM - CENTRO DE DETENÇÃO PROVISÓRIA DE MARATAÍZES;ES;236;351
+2021;CDPS - CENTRO DE DETENÇÃO PROVISÓRIA DE SERRA;ES;548;814
+2021;CDPSDN - CENTRO DE DETENÇÃO PROVISÓRIA DE SÃO DOMINGOS DO NORTE;ES;236;374
+2021;CDPSM - CENTRO DE DETENÇÃO PROVISÓRIA DE SÃO MATEUS;ES;352;617
+2021;CDPSM - CENTRO DE DETENÇÃO PROVISÓRIA DE SÃO MATEUS - DOMICILIAR;ES;NA;5
+2021;CDPV 2 - CENTRO DE DETENÇÃO PROVISÓRIA DE VIANA 2;ES;904;1228
+2021;CDPV 2 - CENTRO DE DETENÇÃO PROVISÓRIA DE VIANA 2 - DOMICILIAR;ES;NA;3
+2021;CDPVV - CENTRO DE DETENÇÃO PROVISÓRIA DE VILA VELHA;ES;534;1004
+2021;CDPVV - CENTRO DE DETENÇÃO PROVISÓRIA DE VILA VELHA - DOMICILIAR;ES;0;1
+2021;CDRL - CENTRO DE DETENÇÃO DE RESSOCIALIZAÇÃO DE LINHARES;ES;NA;773
+2021;CPFC - CENTRO PRISIONAL FEMININO DE CARIACICA;ES;174;434
+2021;CPFC - CENTRO PRISIONAL FEMININO DE CARIACICA - DOMICILIAR;ES;1;73
+2021;CPFCI - CENTRO PRISIONAL FEMININO DE CACHOEIRO DE ITAPEMIRIM;ES;72;198
+2021;CPFCI - CENTRO PRISIONAL FEMININO DE CACHOEIRO DE ITAPEMIRIM - DOMICILIAR;ES;NA;21
+2021;CPFCOL - CENTRO PRISIONAL FEMININO DE COLATINA;ES;174;300
+2021;CPFCOL - CENTRO PRISIONAL FEMININO DE COLATINA - DOMICILIAR;ES;NA;21
+2021;CTV - CENTRO DE TRIAGEM DE VIANA;ES;176;379
+2021;DIRETORIA DE MOVIMENTAÇÃO CARCERÁRIA E MONITORAMENTO ELETRÔNICO - DOMICILIAR;ES;NA;485
+2021;PAES - PENITENCIÁRIA AGRÍCOLA DO ESPÍRITO SANTO;ES;NA;662
+2021;PEVV 1 - PENITENCIÁRIA ESTADUAL DE VILA VELHA 1 - DOMICILIAR;ES;NA;2
+2021;PEVV 2 - PENITENCIÁRIA ESTADUAL DE VILA VELHA 2;ES;NA;1403
+2021;PEVV 3 - PENITENCIÁRIA ESTADUAL DE VILA VELHA 3;ES;NA;1206
+2021;PEVV 5 - PENITENCIÁRIA ESTADUAL DE VILA VELHA 5;ES;136;1403
+2021;PEVV 5 - PENITENCIÁRIA ESTADUAL DE VILA VELHA 5 - DOMICILIAR;ES;NA;2
+2021;PEVV 1 - PENITENCIÁRIA ESTADUAL DE VILA VELHA 1;ES;620;1284
+2021;PRBSF - PENITENCIÁRIA REGIONAL DE BARRA DE SÃO FRANCISCO;ES;NA;218
+2021;PRBSF - PENITENCIÁRIA REGIONAL DE BARRA DE SÃO FRANCISCO - DOMICILIAR;ES;NA;2
+2021;PRCI - PENITENCIÁRIA REGIONAL DE CACHOEIRO DE ITAPEMIRIM;ES;NA;1048
+2021;PRCI - PENITENCIÁRIA REGIONAL DE CACHOEIRO DE ITAPEMIRIM - DOMICILIAR;ES;0;2
+2021;PRL - PENITENCIÁRIA REGIONAL DE LINHARES;ES;40;762
+2021;PRL - PENITENCIÁRIA REGIONAL DE LINHARES - DOMICILIAR;ES;NA;1
+2021;PRSM - PENITENCIÁRIA REGIONAL DE SÃO MATEUS;ES;44;661
+2021;PRSM - PENITENCIÁRIA REGIONAL DE SÃO MATEUS - DOMICILIAR;ES;NA;6
+2021;PSC - PENITENCIÁRIA SEMIABERTA DE CARIACICA;ES;NA;361
+2021;PSMA 1 - PENITENCIÁRIA DE SEGURANÇA MÁXIMA 1;ES;NA;1076
+2021;PSMA 2 - PENITENCIÁRIA DE SEGURANÇA MÁXIMA 2;ES;NA;152
+2021;PSMCOL - PENITENCIÁRIA SEMIABERTA MASCULINA DE COLATINA;ES;NA;316
+2021;PSME 1 - PENITENCIÁRIA DE SEGURANÇA MÉDIA 1;ES;NA;262
+2021;PSME 2 - PENITENCIÁRIA DE SEGURANÇA MÉDIA 2;ES;86;204
+2021;PSMECOL - PENITENCIÁRIA SEGURANÇA MÉDIA DE COLATINA;ES;NA;580
+2021;PSVV - PENITENCIÁRIA SEMIABERTA DE VILA VELHA;ES;NA;1639
+2021;UCTP - UNIDADE DE CUSTÓDIA E TRATAMENTO PSIQUIÁTRICO;ES;13;65
+2021;Casa de Prisão Provisória de Aparecida de Goiânia;GO;2482;2696
+2021;Casa de Prisão Provisória de Formosa;GO;66;321
+2021;Casa de Prisão Provisória de Luziânia;GO;110;305
+2021;Casa de Prisão Provisória de Rio Verde;GO;317;485
+2021;Casa do Albergado Ministro Guimarães Natal / Triagem;GO;NA;15
+2021;Central de Triagem de Aparecida de Goiânia;GO;212;214
+2021;Colônia Agroindustrial do Regime Semiaberto/ Triagem;GO;218;173
+2021;Penitenciária Coronel Odenir Guimarães;GO;NA;1045
+2021;"Penitenciária Feminina ""Consuelo Nasser""";GO;NA;72
+2021;Penitenciária Masculina de Luziânia;GO;NA;446
+2021;Seção Integrada de Monitoração/Domiciliar;GO;NA;4946
+2021;Unidade Prisional  Estadual de Formosa;GO;0;300
+2021;Unidade Prisional Especial de Planaltina;GO;NA;222
+2021;Unidade Prisional Especial Núcleo de Custódia;GO;NA;62
+2021;Unidade Prisional Estadual de Aguas Lindas;GO;NA;279
+2021;Unidade Prisional Estadual de Anápolis;GO;NA;248
+2021;Unidade Prisional Feminina de Corumbaíba;GO;32;50
+2021;Unidade Prisional Goianésia;GO;NA;302
+2021;Unidade Prisional Regional  de Corumbá;GO;18;75
+2021;Unidade Prisional Regional  de Inhumas;GO;53;115
+2021;Unidade Prisional Regional  de Rialma;GO;28;104
+2021;Unidade Prisional Regional  de Sanclerlândia;GO;39;74
+2021;Unidade Prisional Regional de  Caiapônia;GO;24;82
+2021;Unidade Prisional Regional de Acreúna;GO;8;131
+2021;Unidade Prisional Regional de Águas Lindas;GO;100;714
+2021;Unidade Prisional Regional de Alexânia;GO;30;241
+2021;Unidade Prisional Regional de Alto Paraiso;GO;30;79
+2021;Unidade Prisional Regional de Anápolis;GO;NA;634
+2021;Unidade Prisional Regional de Anicuns;GO;40;48
+2021;Unidade Prisional Regional de Aragarças;GO;43;152
+2021;Unidade Prisional Regional de Bela Vista;GO;0;118
+2021;Unidade Prisional Regional de Buriti Alegre;GO;23;48
+2021;Unidade Prisional Regional de Cachoeira Alta;GO;14;112
+2021;Unidade Prisional Regional de Caldas Novas;GO;NA;845
+2021;Unidade Prisional Regional de Campos Belos;GO;46;90
+2021;Unidade Prisional Regional de Catalão;GO;172;293
+2021;Unidade Prisional Regional de Ceres;GO;87;118
+2021;Unidade Prisional Regional de Cidade Ocidental;GO;24;292
+2021;Unidade Prisional Regional de Cristalina;GO;35;90
+2021;Unidade Prisional Regional de Edéia;GO;32;97
+2021;Unidade Prisional Regional de Estrela do Norte;GO;15;36
+2021;Unidade Prisional Regional de Goianápolis;GO;NA;86
+2021;Unidade Prisional Regional de Goianira;GO;25;95
+2021;Unidade Prisional Regional de Goiás;GO;NA;111
+2021;Unidade Prisional Regional de Goiatuba;GO;46;165
+2021;Unidade Prisional Regional de Indiara;GO;20;167
+2021;Unidade Prisional Regional de Ipameri;GO;43;112
+2021;Unidade Prisional Regional de Iporá;GO;NA;243
+2021;Unidade Prisional Regional de Itaberaí;GO;68;124
+2021;Unidade Prisional Regional de Itapuranga;GO;60;76
+2021;Unidade Prisional Regional de Itauçu;GO;17;71
+2021;Unidade Prisional Regional de Itumbiara;GO;302;356
+2021;Unidade Prisional Regional de Jaraguá;GO;98;137
+2021;Unidade Prisional Regional de Jataí;GO;226;429
+2021;Unidade Prisional Regional de Joviânia;GO;4;25
+2021;Unidade Prisional Regional de Jussara;GO;20;145
+2021;Unidade Prisional Regional de Minaçu;GO;68;160
+2021;Unidade Prisional Regional de Mineiros;GO;219;441
+2021;Unidade Prisional Regional de Morrinhos;GO;21;277
+2021;Unidade Prisional Regional de Mozarlândia;GO;31;121
+2021;Unidade Prisional Regional de Niquelândia;GO;NA;175
+2021;Unidade Prisional Regional de Nova Crixás;GO;32;44
+2021;Unidade Prisional Regional de Novo Gama;GO;70;173
+2021;Unidade Prisional Regional de Padre Bernardo;GO;98;144
+2021;Unidade Prisional Regional de Palmeiras de Goiás;GO;40;108
+2021;Unidade Prisional Regional de Paranaiguara;GO;42;53
+2021;Unidade Prisional Regional de Piracanjuba;GO;72;147
+2021;Unidade Prisional Regional de Pires do Rio;GO;61;113
+2021;Unidade Prisional Regional de Planaltina de Goiás;GO;120;598
+2021;Unidade Prisional Regional de Pontalina;GO;51;100
+2021;Unidade Prisional Regional de Porangatu;GO;100;163
+2021;Unidade Prisional Regional de Posse;GO;24;128
+2021;Unidade Prisional Regional de Quirinópolis;GO;14;269
+2021;Unidade Prisional Regional de Rio Verde;GO;0;330
+2021;Unidade Prisional Regional de Rubiataba;GO;32;115
+2021;Unidade Prisional Regional de Santa Helena;GO;16;207
+2021;Unidade Prisional Regional de Santo Antônio do Descoberto;GO;64;778
+2021;Unidade Prisional Regional de São Luis de Montes Belos;GO;34;184
+2021;Unidade Prisional Regional de São Miguel do Araguaia;GO;32;169
+2021;Unidade Prisional Regional de Senador Canedo;GO;82;150
+2021;Unidade Prisional Regional de Serranópolis;GO;51;25
+2021;Unidade Prisional Regional de Silvânia;GO;56;106
+2021;Unidade Prisional Regional de Simolândia;GO;32;136
+2021;Unidade Prisional Regional de Trindade;GO;0;206
+2021;Unidade Prisional Regional de Uruaçu;GO;NA;216
+2021;Unidade Prisional Regional de Uruana;GO;25;85
+2021;Unidade Prisional Regional de Valparaíso;GO;223;279
+2021;Unidade Prisional Regional de Vianópolis;GO;20;70
+2021;Unidade Prisional Regional Feminina de Barro Alto;GO;35;54
+2021;Unidade Prisional Regional feminina de Orizona;GO;102;88
+2021;Unidade Prisional Regional semiaberto de Luziânia;GO;0;262
+2021;Unidade Regional Prisional Feminina de Araçú;GO;27;64
+2021;Unidade Regional Prisional Feminina de Formosa;GO;NA;48
+2021;Unidade Regional Prisional Feminina de Israelândia;GO;33;58
+2021;Unidade Regional Prisional Feminina de Luziânia;GO;50;125
+2021;Unidade Regional Prisional Semiaberto de Rio Verde;GO;0;256
+2021;Associação de Proteção e Assistência aos Condenados de Bacabal;MA;NA;26
+2021;Associação de Proteção e Assistência aos Condenados de Imperatriz;MA;NA;52
+2021;Associação de Proteção e Assistência aos Condenados de Itapecuru Mirim;MA;NA;39
+2021;Associação de Proteção e Assistência aos Condenados de Pedreiras;MA;NA;98
+2021;Associação de Proteção e Assistência aos Condenados de São Luís;MA;NA;30
+2021;Associação de Proteção e Assistência aos Condenados de Timon;MA;NA;81
+2021;Associação de Proteção e Assistência aos Condenados de Viana;MA;NA;53
+2021;Casa de Assistência ao Albergado e Egresso de São Luís;MA;NA;20
+2021;Centro de Observação Criminológica e Triagem de São Luís (Complexo de Pedrinhas);MA;228;188
+2021;Penitenciária Regional de Governador Nunes Freire;MA;30;43
+2021;Penitenciária Regional de Imperatriz;MA;NA;296
+2021;Penitenciária Regional de Pedreiras;MA;100;295
+2021;Penitenciária Regional de Pinheiro;MA;172;518
+2021;Penitenciária Regional de São Luís;MA;210;914
+2021;Penitenciária Regional de Timon;MA;NA;268
+2021;Supervisão de Monitoramento Eletrônico Domiciliar;MA;NA;1390
+2021;Unidade Prisional de Ressocialização de Açailândia;MA;100;281
+2021;Unidade Prisional de Ressocialização de Bacabal;MA;165;309
+2021;Unidade Prisional de Ressocialização de Balsas;MA;100;201
+2021;Unidade Prisional de Ressocialização de Barra do Corda;MA;15;66
+2021;Unidade Prisional de Ressocialização de Carolina;MA;32;23
+2021;Unidade Prisional de Ressocialização de Caxias;MA;57;269
+2021;Unidade Prisional de Ressocialização de Chapadinha;MA;58;264
+2021;Unidade Prisional de Ressocialização de Codó;MA;176;266
+2021;Unidade Prisional de Ressocialização de Colinas;MA;90;85
+2021;Unidade Prisional de Ressocialização de Coroatá;MA;115;227
+2021;Unidade Prisional de Ressocialização de Cururupu;MA;58;91
+2021;Unidade Prisional de Ressocialização de Davinópolis;MA;56;172
+2021;Unidade Prisional de Ressocialização de Grajaú;MA;30;65
+2021;Unidade Prisional de Ressocialização de Imperatriz;MA;289;528
+2021;Unidade Prisional de Ressocialização de Itapecuru-Mirim;MA;134;188
+2021;Unidade Prisional de Ressocialização de Paço do Lumiar;MA;NA;51
+2021;Unidade Prisional de Ressocialização de Pinheiro;MA;NA;158
+2021;Unidade Prisional de Ressocialização de Porto Franco;MA;99;97
+2021;Unidade Prisional de Ressocialização de Presidente Dutra;MA;NA;121
+2021;Unidade Prisional de Ressocialização de Rosário;MA;100;228
+2021;Unidade Prisional de Ressocialização de Santa Inês;MA;120;169
+2021;Unidade Prisional de Ressocialização de São João dos Patos;MA;120;130
+2021;Unidade Prisional de Ressocialização de São Luís 1 (Complexo de Pedrinhas);MA;NA;470
+2021;Unidade Prisional de Ressocialização de São Luís 2 (Complexo de Pedrinhas);MA;NA;867
+2021;Unidade Prisional de Ressocialização de São Luís 3 (Complexo de Pedrinhas);MA;140;424
+2021;Unidade Prisional de Ressocialização de São Luís 4 (Complexo de Pedrinhas);MA;40;111
+2021;Unidade Prisional de Ressocialização de São Luís 5 (Complexo de Pedrinhas);MA;NA;706
+2021;Unidade Prisional de Ressocialização de São Luís 6 (Complexo de Pedrinhas);MA;600;816
+2021;Unidade Prisional de Ressocialização de Timon;MA;166;385
+2021;Unidade Prisional de Ressocialização de Tutóia;MA;12;54
+2021;Unidade Prisional de Ressocialização de Viana;MA;36;151
+2021;Unidade Prisional de Ressocialização de Zé Doca;MA;70;124
+2021;Unidade Prisional de Ressocialização do Anil;MA;NA;137
+2021;Unidade Prisional de Ressocialização do Monte Castelo;MA;NA;87
+2021;Unidade Prisional de Ressocialização do Olho D'Água;MA;NA;129
+2021;Unidade Prisional de Ressocialização Feminina (Complexo de Pedrinhas);MA;150;295
+2021;Unidade Prisional de Segurança Máxima;MA;NA;30
+2021;Apac  Itabirito;MG;0;32
+2021;Apac Alfenas I;MG;0;57
+2021;Apac Araxá I;MG;0;96
+2021;Apac Arcos I;MG;0;41
+2021;Apac Belo Horizonte I;MG;0;108
+2021;Apac Campo Belo I;MG;0;105
+2021;Apac Caratinga I;MG;0;130
+2021;Apac Conceição de Alagoas I;MG;NA;19
+2021;Apac Conselheiro Lafaiete I;MG;NA;260
+2021;Apac Conselheiro Lafaiete II;MG;0;41
+2021;APAC DE VARGINHA;MG;NA;16
+2021;APAC DE VISCONDE DO RIO BRANCO I;MG;NA;28
+2021;Apac Frutal I;MG;NA;252
+2021;Apac Frutal II;MG;NA;64
+2021;Apac Governador Valadares I;MG;NA;48
+2021;Apac Inhapim I;MG;NA;69
+2021;Apac Itabira;MG;NA;56
+2021;Apac Itaúna I;MG;0;170
+2021;Apac Itaúna II;MG;0;31
+2021;Apac Ituiutaba I;MG;0;80
+2021;Apac Januária I;MG;0;75
+2021;Apac Lagoa da Prata I;MG;0;115
+2021;Apac Manhuaçu I;MG;NA;129
+2021;Apac Manhumirim I;MG;NA;49
+2021;Apac Nova Lima I;MG;0;91
+2021;Apac Paracatu I;MG;0;171
+2021;Apac Passos I;MG;0;184
+2021;Apac Patos de Minas I;MG;NA;74
+2021;Apac Patrocínio I;MG;NA;135
+2021;Apac Pedra Azul I;MG;NA;38
+2021;Apac Perdões I;MG;NA;60
+2021;Apac Pirapora I;MG;NA;142
+2021;Apac Pouso Alegre I;MG;NA;199
+2021;Apac Pouso Alegre II;MG;0;26
+2021;Apac Rio Piracicaba I;MG;0;50
+2021;Apac Salinas I;MG;NA;28
+2021;Apac Santa Bárbara I;MG;NA;50
+2021;Apac Santa Luzia I;MG;NA;156
+2021;Apac Santa Maria do Suaçuí I;MG;NA;44
+2021;Apac São João Del Rei I;MG;NA;314
+2021;Apac São João Del Rei II;MG;0;61
+2021;Apac Sete Lagoas I;MG;NA;95
+2021;Apac Teófilo Otoni I;MG;NA;23
+2021;Apac Viçosa I;MG;NA;50
+2021;Casa de Custódia do Policial Penal e Agente de Seg;MG;60;87
+2021;Casa do Albergado de Belo Horizonte I;MG;0;60
+2021;Casa do Albergado de Juiz de Fora I - José Alencar Rogêdo;MG;NA;77
+2021;Centro de Apoio Médico e Pericial de Ribeirão das Neves I;MG;110;29
+2021;Centro de Referência à Gestante Privada de Liberdade;MG;75;21
+2021;Centro de Remanejamento Provisório de Belo Horizonte I;MG;410;747
+2021;Centro de Remanejamento Provisório de Betim I;MG;404;811
+2021;Centro de Remanejamento Provisório de Contagem I;MG;92;64
+2021;Centro de Remanejamento Provisório de Governador Valadares I;MG;284;586
+2021;Centro de Remanejamento Provisório de Ipatinga I;MG;313;268
+2021;Centro de Ressocialização e Pré-Soltura de Ribeirão das Neves I - José Abranches Gonçalves;MG;NA;79
+2021;Complexo Público Privado de Ribeirão das Neves I;MG;0;672
+2021;Complexo Público Privado de Ribeirão das Neves II;MG;0;640
+2021;Complexo Público Privado de Ribeirão das Neves III;MG;NA;812
+2021;Hospital de Custódia de tratamento Psiquiátrico de Barbacena I - Jorge vaz;MG;NA;116
+2021;Penitenciária de Belo Horizonte I;MG;64;406
+2021;Penitenciária de Carmo do Parnaíba I;MG;25;539
+2021;Penitenciária de Contagem I - Nelson Hungria;MG;347;2486
+2021;Penitenciária de Formiga I;MG;31;639
+2021;Penitenciária de Governador Valadares I - Francisco Floriano de Paula;MG;NA;1251
+2021;Penitenciária de Ipaba I - Dênio Moreira de Carvalho;MG;114;1234
+2021;Penitenciária de Juiz de Fora I - José Edson Cavalieri;MG;36;1023
+2021;Penitenciária de Juiz de Fora II;MG;139;970
+2021;Penitenciária de Muriaé I;MG;86;840
+2021;Penitenciária de Pará de Minas I - Doutor Pio Soares Canedo;MG;2;735
+2021;Penitenciária de Patrocínio I;MG;NA;899
+2021;Penitenciária de Ponte Nova I;MG;0;1031
+2021;Penitenciária de Ribeirão das Neves I - José Maria Alkimin;MG;24;1986
+2021;Penitenciária de São Joaquim de Bicas I - Professor Jason Soares de Albergaria;MG;9;258
+2021;Penitenciária de Segurança Máxima de Francisco Sá I;MG;NA;480
+2021;Penitenciária de Teófilo Otoni I;MG;NA;260
+2021;Penitenciária de Três Corações I;MG;126;1204
+2021;Penitenciária de Uberaba I;MG;NA;1367
+2021;Penitenciária de Uberlândia I - Professor João Pimenta Da Veiga;MG;NA;427
+2021;Penitenciária de Unaí I - Agostinho de Oliveira Júnior;MG;21;881
+2021;Presídio de Abaeté I;MG;79;113
+2021;Presídio de Abre Campo I;MG;74;187
+2021;Presídio de Açucena I;MG;30;139
+2021;Presídio de Águas Formosas I;MG;20;117
+2021;Presídio de Aimorés I;MG;36;101
+2021;Presídio de Além Paraíba I;MG;57;130
+2021;Presídio de Alfenas I;MG;190;521
+2021;Presídio de Almenara I;MG;60;187
+2021;Presídio de Andradas I;MG;81;160
+2021;Presídio de Andrelândia I;MG;27;47
+2021;Presídio de Araçuaí I;MG;63;128
+2021;Presídio de Araguari I;MG;168;322
+2021;Presídio de Araxá I;MG;108;278
+2021;Presídio de Arcos I;MG;67;146
+2021;Presídio de Barão de Cocais I;MG;64;173
+2021;Presídio de Barbacena I;MG;96;315
+2021;Presídio de Bicas I;MG;69;114
+2021;Presídio de Boa Esperança I;MG;46;157
+2021;Presídio de Bocaiúva I;MG;57;111
+2021;Presídio de Bom Despacho I;MG;75;147
+2021;Presídio de Bom Sucesso I;MG;44;69
+2021;Presídio de Botelhos I;MG;47;94
+2021;Presídio de Buritis I;MG;51;110
+2021;Presídio de Caeté I;MG;46;100
+2021;Presídio de Campo Belo I;MG;24;166
+2021;Presídio de Campos Gerais I;MG;36;156
+2021;Presídio de Canápolis I;MG;113;84
+2021;Presídio de Capelinha I;MG;66;131
+2021;Presídio de Carangola I;MG;60;940
+2021;Presídio de Caratinga I;MG;100;423
+2021;Presídio de Carlos Chagas I;MG;45;109
+2021;Presídio de Cataguases I;MG;97;265
+2021;Presídio de Congonhas I;MG;102;211
+2021;Presídio de Conselheiro Lafaiete I;MG;102;218
+2021;Presídio de Conselheiro Pena I;MG;79;111
+2021;Presídio de Corinto I;MG;65;101
+2021;Presídio de Coromandel I - Sargento Jorge;MG;79;104
+2021;Presídio de Coronel Fabriciano I;MG;92;394
+2021;Presídio de Curvelo I;MG;54;296
+2021;Presídio de Diamantina I;MG;113;169
+2021;Presídio de Divinópolis I;MG;275;647
+2021;Presídio de Dores do Indaiá I;MG;54;65
+2021;Presídio de Elói Mendes I;MG;42;47
+2021;Presídio de Ervália I;MG;55;3
+2021;Presídio de Eugenópolis I;MG;36;106
+2021;Presídio de Extrema I;MG;40;74
+2021;Presídio de Frutal I;MG;114;240
+2021;Presídio de Guanhães I;MG;101;133
+2021;Presídio de Guaranésia I;MG;116;321
+2021;Presídio de Ibirité I;MG;80;127
+2021;Presídio de Inhapim I;MG;78;181
+2021;Presídio de Itacarambi I;MG;34;68
+2021;Presídio de Itajubá I;MG;175;697
+2021;Presídio de Itamarandiba I;MG;35;95
+2021;Presídio de Itambacuri I;MG;73;160
+2021;Presídio de Itaobim I;MG;34;62
+2021;Presídio de Itapagipe I;MG;40;117
+2021;Presídio de Itaúna I;MG;34;112
+2021;Presídio de Ituiutaba I;MG;204;255
+2021;Presídio de Jaboticatubas I;MG;38;79
+2021;Presídio de Jacinto I;MG;34;68
+2021;Presídio de Janaúba I;MG;142;315
+2021;Presídio de Januária I;MG;40;120
+2021;Presídio de Jequitinhonha I;MG;80;177
+2021;Presídio de João Monlevade I;MG;98;192
+2021;Presídio de João Pinheiro I;MG;173;280
+2021;Presídio de Juatuba I;MG;60;168
+2021;Presídio de Lagoa Da Prata I;MG;132;162
+2021;Presídio de Lagoa Santa I;MG;43;87
+2021;Presídio de Lavras I;MG;83;195
+2021;Presídio de Leopoldina I;MG;52;123
+2021;Presídio de Luz I;MG;92;124
+2021;Presídio de Machado I;MG;69;169
+2021;Presídio de Malacacheta I;MG;48;83
+2021;Presídio de Manga I;MG;63;150
+2021;Presídio de Manhuaçu I;MG;94;208
+2021;Presídio de Manhumirim I;MG;130;203
+2021;Presídio de Mantena I;MG;106;176
+2021;Presídio de Mariana I;MG;68;154
+2021;Presídio de Matias Barbosa I;MG;60;86
+2021;Presídio de Monte Azul I;MG;47;113
+2021;Presídio de Monte Carmelo I;MG;59;140
+2021;Presídio de Monte Santo de Minas I;MG;107;178
+2021;Presídio de Montes Claros I;MG;25;565
+2021;Presídio de Muriaé I;MG;44;162
+2021;Presídio de Nanuque I;MG;109;158
+2021;Presídio de Nepomuceno I;MG;34;89
+2021;Presídio de Nova Era I;MG;49;110
+2021;Presídio de Nova Lima I;MG;95;158
+2021;Presídio de Nova Serrana I;MG;90;300
+2021;Presídio de Novo Cruzeiro I;MG;33;99
+2021;Presídio de Oliveira I - Dr . Nelson Pires;MG;46;218
+2021;Presídio de Ouro Preto I;MG;33;182
+2021;Presídio de Paracatu I;MG;239;272
+2021;Presídio de Passos I;MG;99;289
+2021;Presídio de Patos de Minas I;MG;195;258
+2021;Presídio de Peçanha I;MG;77;123
+2021;Presídio de Pedra Azul I;MG;47;110
+2021;Presídio de Pedro Leopoldo I;MG;65;131
+2021;Presídio de Perdizes I;MG;50;110
+2021;Presídio de Pirapora I;MG;86;197
+2021;Presídio de Pitangui I;MG;86;148
+2021;Presídio de Piumhi I;MG;78;181
+2021;Presídio de Poços de Caldas I;MG;74;168
+2021;Presídio de Pompéu I;MG;46;138
+2021;Presídio de Porteirinha I;MG;63;87
+2021;Presídio de Pouso Alegre I;MG;353;842
+2021;Presídio de Prata I;MG;50;83
+2021;Presídio de Presidente Olegário I- Elzi Alves de Oliveira;MG;63;63
+2021;Presídio de Resende Costa I;MG;24;21
+2021;Presídio de Ribeirão das Neves I;MG;391;2009
+2021;Presídio de Ribeirão das Neves II - Inspetor José Martinho Drumond;MG;778;2387
+2021;Presídio de Rio Pardo de Minas I;MG;27;100
+2021;Presídio de Rio Pomba I;MG;83;140
+2021;Presídio de Sacramento I;MG;76;144
+2021;Presídio de Salinas I;MG;37;122
+2021;Presídio de Santa Luzia I;MG;48;122
+2021;Presídio de Santa Rita do Sapucaí I;MG;73;81
+2021;Presídio de Santa Vitória I;MG;50;62
+2021;Presídio de Santos Dumont I;MG;76;166
+2021;Presídio de São Domingos do Prata I;MG;59;105
+2021;Presídio de São Francisco I;MG;56;93
+2021;Presídio de São João Da Ponte I;MG;34;89
+2021;Presídio de São João Del Rei I;MG;298;711
+2021;Presídio de São João Evangelista I;MG;52;98
+2021;Presídio de São Joaquim de Bicas I;MG;406;1137
+2021;Presídio de São Joaquim de Bicas II;MG;430;993
+2021;Presídio de São Lourenço I;MG;278;328
+2021;Presídio de São Sebastião do Paraíso I;MG;53;327
+2021;Presídio de Serro I;MG;73;120
+2021;Presídio de Sete Lagoas I - Promotor José Costa;MG;304;643
+2021;Presídio de Taiobeiras I;MG;30;19
+2021;Presídio de Tarumirim I;MG;62;87
+2021;Presídio de Teófilo Otoni I;MG;129;701
+2021;Presídio de Timóteo I;MG;164;160
+2021;Presídio de Três Marias I;MG;24;68
+2021;Presídio de Tupaciguara I;MG;88;76
+2021;Presídio de Turmalina I;MG;28;56
+2021;Presídio de Ubá I;MG;122;325
+2021;Presídio de Uberlândia I;MG;628;1758
+2021;Presídio de Unaí I;MG;109;173
+2021;Presídio de Varginha I;MG;68;263
+2021;Presídio de Várzea Da Palma I;MG;24;105
+2021;Presídio de Vespasiano I;MG;202;217
+2021;Presídio de Viçosa I;MG;129;223
+2021;Presídio de Visconde do Rio Branco I;MG;127;183
+2021;Presídio Montes Claros II;MG;801;1270
+2021;Presídio de Três Pontas I - Rita de Cássia da Luz;MG;41;183
+2021;Unidade Gestora de Monitoração Eletrônica de Belo Horizonte I - DOMICILIAR;MG;NA;5570
+2021;Centro de Triagem Anizio Lima;MS;NA;186
+2021;Centro Penal Agro Industrial da Gameleira;MS;NA;1023
+2021;"Colônia Penal Industrial ""Paracelso de Lima Vieira Jesus""";MS;NA;398
+2021;"Estabelecimento Penal ""Jair Ferreira de Carvalho""";MS;NA;2371
+2021;"Estabelecimento Penal ""Máximo Romero"" de Jardim";MS;NA;325
+2021;Estabelecimento Penal de Amambaí;MS;NA;202
+2021;Estabelecimento Penal de Aquidauana;MS;NA;194
+2021;Estabelecimento Penal de Bataguassu;MS;0;159
+2021;Estabelecimento Penal de Cassilândia;MS;NA;183
+2021;Estabelecimento Penal de Corumbá;MS;0;638
+2021;Estabelecimento Penal de Paranaíba;MS;NA;407
+2021;Estabelecimento Penal de Regime Aberto e Casa do Albergado de Campo Grande;MS;0;471
+2021;Estabelecimento Penal de Regime Semiaberto Aberto e Assistência ao Albergado  de Aquidauana;MS;NA;324
+2021;Estabelecimento Penal de Regime Semiaberto Aberto e Assistência ao Albergado  Paranaíba;MS;0;264
+2021;Estabelecimento Penal de Regime Semiaberto Aberto e Assistência ao Albergado de Amambai;MS;NA;144
+2021;Estabelecimento Penal de Regime Semiaberto Aberto e Assistência ao Albergado de Dourados;MS;NA;517
+2021;Estabelecimento Penal de Regime Semiaberto de Ponta Porã;MS;NA;502
+2021;Estabelecimento Penal de Regime Semiaberto, Aberto e Assistência ao Albergado de Naviraí;MS;NA;270
+2021;Estabelecimento Penal de Rio Brilhante;MS;0;294
+2021;"Estabelecimento Penal Feminino ""Carlos Alberto Jonas Giordano"" Corumbá";MS;NA;114
+2021;"Estabelecimento Penal Feminino ""Irmã Irma Zorzi""";MS;NA;303
+2021;Estabelecimento Penal Feminino de Ponta Porã;MS;NA;139
+2021;Estabelecimento Penal Feminino de Regime Semiaberto, Aberto e Assistência ao Albergado de Campo Grande;MS;0;117
+2021;Estabelecimento Penal Feminino de Regime Semiaberto, Aberto e Assistência ao Albergado de Dourados;MS;0;90
+2021;Estabelecimento Penal Feminino de Rio Brilhante;MS;NA;101
+2021;Estabelecimento Penal Feminino De São Gabriel do Oeste;MS;NA;59
+2021;Estabelecimento Penal Feminino de Três Lagoas;MS;NA;103
+2021;Estabelecimento Penal Feminino Luiz Pereira da Silva;MS;0;82
+2021;Estabelecimento Penal Masculino de Coxim;MS;NA;318
+2021;Estabelecimento Penal Masculino de Regime Fechado de  Nova Andradina;MS;NA;173
+2021;Estabelecimento Penal Masculino de Regime Fechado de Caarapo;MS;42;82
+2021;Estabelecimento Penal Masculino de Regime Fechado de Ivinhema;MS;NA;147
+2021;Estabelecimento Penal Masculino de Regime Semiaberto, Aberto e Assistência ao Albergado de Coxim;MS;NA;20
+2021;Instituto Penal de Campo Grande;MS;110;1581
+2021;Penitenciária de Dois Irmãos Buriti;MS;NA;534
+2021;Penitenciaria de Segurança Máxima de Naviraí;MS;0;689
+2021;Penitenciária de Segurança Média de Três Lagoas;MS;19;704
+2021;Penitenciária Estadual de Dourados;MS;160;2554
+2021;Penitenciária Estadual Masculina de Regime Fechado da Gameleira;MS;NA;526
+2021;Presídio de Trânsito;MS;356;575
+2021;Unidade Mista de Monitoramento Virtual Estadual - DOMICILIAR;MS;NA;2312
+2021;"Unidade Penal ""Ricardo Brandão""";MS;NA;592
+2021;CADEIA PÚBLICA DE ALTA FLORESTA;MT;65;172
+2021;CADEIA PÚBLICA DE ALTO ARAGUAIA;MT;92;95
+2021;CADEIA PÚBLICA DE ARAPUTANGA;MT;84;72
+2021;CADEIA PÚBLICA DE ARENÁPOLIS;MT;87;78
+2021;CADEIA PÚBLICA DE BARRA DO BUGRES;MT;74;264
+2021;CADEIA PÚBLICA DE BARRA DO GARÇAS;MT;0;224
+2021;CADEIA PÚBLICA DE CÁCERES;MT;240;486
+2021;CADEIA PÚBLICA DE CAMPO NOVO DO PARECIS;MT;126;146
+2021;CADEIA PÚBLICA DE CHAPADA DOS GUIMARÃES;MT;101;54
+2021;CADEIA PÚBLICA DE COLNIZA;MT;0;70
+2021;CADEIA PÚBLICA DE COMODORO;MT;38;90
+2021;CADEIA PÚBLICA DE DIAMANTINO;MT;41;67
+2021;CADEIA PÚBLICA DE JACIARA;MT;120;107
+2021;CADEIA PÚBLICA DE JUARA;MT;141;110
+2021;CADEIA PÚBLICA DE MIRASSOL D´OESTE;MT;48;262
+2021;CADEIA PÚBLICA DE NOBRES;MT;45;74
+2021;CADEIA PÚBLICA DE NOVA MUTUM;MT;92;130
+2021;CADEIA PÚBLICA DE PARANATINGA;MT;40;62
+2021;CADEIA PÚBLICA DE PEIXOTO DE AZEVEDO;MT;52;144
+2021;CADEIA PÚBLICA DE PORTO DOS GAÚCHOS;MT;78;89
+2021;CADEIA PÚBLICA DE PRIMAVERA DO LESTE;MT;89;392
+2021;CADEIA PÚBLICA DE SÃO FÉLIX DO ARAGUAIA;MT;NA;37
+2021;CADEIA PÚBLICA DE SÃO JOSÉ DOS QUATRO MARCOS;MT;103;98
+2021;CADEIA PÚBLICA DE SORRISO;MT;217;35
+2021;CADEIA PÚBLICA DE VILA RICA;MT;120;106
+2021;CADEIA PÚBLICA FEMININA DE CÁCERES;MT;62;48
+2021;CADEIA PÚBLICA FEMININA DE COLÍDER;MT;23;58
+2021;CADEIA PÚBLICA FEMININA DE NORTELÂNDIA;MT;NA;81
+2021;CADEIA PÚBLICA FEMININA DE NOVA XAVANTINA;MT;50;75
+2021;CADEIA PÚBLICA FEMININA DE RONDONÓPOLIS;MT;126;102
+2021;CENTRO DE CUSTÓDIA DA CAPITAL;MT;50;227
+2021;CENTRO DE DETENÇÃO PROVISÓRIA DE JUÍNA;MT;152;284
+2021;CENTRO DE DETENÇÃO PROVISÓRIA DE LUCAS DO RIO VERDE;MT;144;255
+2021;CENTRO DE DETENÇÃO PROVISÓRIA DE PONTES E LACERDA;MT;172;252
+2021;CENTRO DE DETENÇÃO PROVISÓRIA DE TANGARÁ DA SERRA;MT;87;350
+2021;CENTRO DE RESSOCIALIZAÇÃO DE CUIABÁ;MT;392;754
+2021;CENTRO DE RESSOCIALIZAÇÃO DE VÁRZEA GRANDE;MT;11;153
+2021;CENTRO DE RESSOCIALIZAÇÃO INDUSTRIAL AHMENON LEMOS DANTAS;MT;NA;159
+2021;COLÔNIA PENAL AGRÍCOLA DE PALMEIRAS;MT;0;22
+2021;COORDENADORIA DE MONITORAMENTO ELETRÔNICO DE PESSOAS;MT;NA;5070
+2021;PENITENCIÁRIA CENTRAL DO ESTADO;MT;0;2661
+2021;PENITENCIÁRIA DE ÁGUA BOA;MT;NA;612
+2021;PENITENCIÁRIA DE RONDONÓPOLIS;MT;288;1549
+2021;PENITENCIÁRIA DE SINOP;MT;213;661
+2021;"PENITENCIÁRIA FEMININA ""ANA MARIA DO COUTO MAY""";MT;56;249
+2021;CADEIA PÚBLICA DE MARABÁ;PA;NA;377
+2021;CADEIA PÚBLICA DE PARAUAPEBAS;PA;306;325
+2021;CADEIA PÚBLICA DE REDENÇÃO;PA;306;399
+2021;CADEIA PÚBLICA PARA JOVENS E ADULTOS;PA;974;836
+2021;CARCERAGEM DE ALMEIRIM;PA;30;17
+2021;CARCERAGEM DE ORIXIMINÁ;PA;60;21
+2021;CENTRAL DE MONITORAÇÃO ELETRÔNICA DE MARABÁ (DOMICILIAR);PA;NA;45
+2021;CENTRAL DE MONITORAÇÃO ELETRÔNICA DE PARAGOMINAS  (DOMICILIAR);PA;NA;64
+2021;CENTRAL DE RECAPTURA DE CONDENADOS;PA;NA;177
+2021;CENTRAL DE TRIAGEM DA CIDADE NOVA;PA;130;120
+2021;CENTRAL DE TRIAGEM DA CREMAÇÃO;PA;92;102
+2021;CENTRAL DE TRIAGEM DA MARAMBAIA;PA;75;173
+2021;CENTRAL DE TRIAGEM MASCULINA DE MARABÁ;PA;292;218
+2021;CENTRAL DE TRIAGEM MASCULINA DE SANTARÉM;PA;316;311
+2021;CENTRAL DE TRIAGEM METROPOLITANA II;PA;144;410
+2021;CENTRAL DE TRIAGEM METROPOLITANA III;PA;316;438
+2021;CENTRAL DE TRIAGEM METROPOLITANA IV;PA;292;360
+2021;CENTRAL INTEGRADA DE MONITORAMENTO ELETRÔNICO (DOMICILIAR);PA;NA;3482
+2021;CENTRO DE PROGRESSÃO PENITENCIÁRIO DE BELÉM;PA;NA;129
+2021;CENTRO DE RECUPERAÇÃO AGRÍCOLA SÍLVIO HALL DE MOURA;PA;NA;929
+2021;CENTRO DE RECUPERAÇÃO DO COQUEIRO;PA;NA;445
+2021;CENTRO DE RECUPERAÇÃO ESPECIAL CEL. ANASTÁCIO DAS NEVES;PA;NA;119
+2021;CENTRO DE RECUPERAÇÃO MASCULINO DE VITORIA DO XINGU;PA;NA;350
+2021;CENTRO DE RECUPERAÇÃO PENITENCIÁRIO DO PARÁ II;PA;NA;116
+2021;CENTRO DE RECUPERAÇÃO PENITENCIÁRIO DO PARÁ III;PA;NA;599
+2021;CENTRO DE RECUPERAÇÃO PENITENCIÁRIO DO PARÁ IV;PA;NA;247
+2021;CENTRO DE RECUPERAÇÃO PENITENCIÁRIO DO PARÁ V;PA;NA;479
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE ABAETETUBA;PA;NA;143
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE BRAGANÇA;PA;NA;258
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE BREVES;PA;NA;256
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE CAMETÁ;PA;NA;132
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE CAPANEMA;PA;NA;84
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE CASTANHAL;PA;NA;481
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE ITAITUBA;PA;NA;322
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE MOCAJUBA;PA;NA;103
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE MOSQUEIRO;PA;NA;67
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE PARAGOMINAS;PA;NA;349
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE REDENÇÃO;PA;NA;39
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE SALINÓPOLIS;PA;NA;146
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE TOMÉ-AÇÚ;PA;NA;92
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE TUCURUÍ;PA;NA;108
+2021;CENTRO DE REEDUCAÇÃO FEMININO;PA;NA;486
+2021;CENTRO DE REEDUCAÇÃO FEMININO DE MARABÁ;PA;NA;64
+2021;CENTRO DE REEDUCAÇÃO FEMININO DE SANTARÉM;PA;NA;101
+2021;CENTRO DE TRIAGEM MASCULINA DE ABAETETUBA;PA;470;404
+2021;COLÔNIA PENAL AGRÍCOLA DE SANTA ISABEL;PA;NA;1944
+2021;HOSPITAL DE CUSTÓDIA E TRATAMENTO PSIQUIÁTRICO;PA;NA;69
+2021;PRESÍDIO ESTADUAL METROPOLITANO I;PA;NA;850
+2021;PRESÍDIO ESTADUAL METROPOLITANO II;PA;NA;372
+2021;PRESÍDIO ESTADUAL METROPOLITANO III;PA;NA;261
+2021;UNIDADE PRISIONAL MASCULINA DE TUCURUÍ;PA;NA;409
+2021;UNIDADE SEMIABERTO MASCULINO DE MARABÁ;PA;NA;230
+2021;Cadeia P. de São J. do Rio do Peixe;PB;12;50
+2021;Cadeia P. de São José de Piranhas;PB;15;95
+2021;Cadeia Púb. de Cruz do Esp. Santo;PB;22;27
+2021;Cadeia Pública de Alagoa Grande;PB;10;86
+2021;Cadeia Pública de Alagoa Nova;PB;23;56
+2021;Cadeia Pública de Alagoinha;PB;17;38
+2021;Cadeia Pública de Alhandra;PB;50;109
+2021;Cadeia Pública de Araruna;PB;42;74
+2021;Cadeia Pública de Areia;PB;18;84
+2021;Cadeia Pública de Aroeiras;PB;14;31
+2021;Cadeia Pública de Bananeiras;PB;12;50
+2021;Cadeia Pública de Bayeux;PB;40;177
+2021;Cadeia Pública de Belém;PB;70;80
+2021;Cadeia Pública de Cajazeiras;PB;0;117
+2021;Cadeia Pública de Conceição;PB;15;54
+2021;Cadeia Pública de Coremas;PB;14;38
+2021;Cadeia Pública de Cubati;PB;19;33
+2021;Cadeia Pública de Cuité;PB;30;81
+2021;Cadeia Pública de Esperança;PB;50;108
+2021;Cadeia Pública de Ingá;PB;24;40
+2021;Cadeia Pública de Itabaiana;PB;42;105
+2021;Cadeia Pública de Itaporanga;PB;21;98
+2021;Cadeia Pública de Jacaraú;PB;18;31
+2021;Cadeia Pública de Juazeirinho;PB;14;26
+2021;Cadeia Pública de Malta;PB;36;37
+2021;Cadeia Pública de Mamanguape;PB;29;47
+2021;Cadeia Pública de Monteiro;PB;66;193
+2021;Cadeia Pública de Pedras de Fogo;PB;11;57
+2021;Cadeia Pública de Piancó;PB;28;34
+2021;Cadeia Pública de Pilar/Gurinhem;PB;35;73
+2021;Cadeia Pública de Pombal;PB;50;109
+2021;Cadeia Pública de Princesa Isabel;PB;44;74
+2021;Cadeia Pública de Queimadas;PB;15;91
+2021;Cadeia Pública de Remígio;PB;24;3
+2021;Cadeia Pública de Santa Luzia;PB;30;32
+2021;Cadeia Pública de São João do Cariri;PB;5;28
+2021;Cadeia Pública de Serra Branca;PB;42;44
+2021;Cadeia Pública de Solânea;PB;48;147
+2021;Cadeia Pública de Soledade;PB;54;40
+2021;Cadeia Pública de Teixeira;PB;20;68
+2021;Cadeia Pública de Uiraúna;PB;15;31
+2021;Cadeia Pública de Umbuzeiro;PB;10;31
+2021;Centro de Monitoramento de Tornozeleira Eletrônica DOMICILIAR;PB;NA;1623
+2021;Centro de Reed. Fem. Mª Júlia Maranhão;PB;39;202
+2021;Colônia Penal Agrícola de Sousa;PB;50;163
+2021;Penit. Des. Flósculo da Nóbrega - Róger;PB;486;603
+2021;Penit. Juiz Hitler Cantalice - Média;PB;53;853
+2021;Penitenciária C. Geraldo Beltrão;PB;0;197
+2021;Penitenciária de Psiquiatria Forense - PPF;PB;45;81
+2021;Penitenciária de Segurança Máxima Dr. Romeu Gonçalves Abrantes - PB1/PB2;PB;NA;536
+2021;Penitenciária Desembargador Silvio Porto;PB;0;1583
+2021;Penitenciária Especial Fco Espínola;PB;NA;10
+2021;Penitenciária Fem. de CG;PB;35;77
+2021;Penitenciária Jurista Agnelo Amorim Filho;PB;0;10
+2021;Penitenciária P. de Catolé do Rocha;PB;NA;148
+2021;Penitenciária Padrão de Cajazeiras;PB;NA;286
+2021;Penitenciária Padrão de CG;PB;150;598
+2021;Penitenciária Padrão de Guarabira João Bosco Carneiro;PB;NA;309
+2021;Penitenciária Padrão de Santa Rita;PB;NA;321
+2021;Penitenciária Padrão Romero Nóbrega;PB;77;294
+2021;Penitenciária Reg. Raimundo Asfora;PB;NA;1070
+2021;Penitenciária Regional de Guarabira Vicente Claudino de Pontes;PB;110;238
+2021;Penitenciária Regional de Sousa;PB;0;105
+2021;Penitenciária Regional de Sousa - DOMICILIAR;PB;NA;105
+2021;Presídio Regional de Sapé;PB;29;142
+2021;Presídio Regional Feminino de Patos;PB;NA;36
+2021;CADEIA PÚBICA DE ALIANÇA;PE;16;9
+2021;Cadeia Pública de Afogados da Ingazeira;PE;24;43
+2021;CADEIA PÚBLICA DE AFRÂNIO;PE;50;3
+2021;CADEIA PÚBLICA DE AGRESTINA;PE;30;25
+2021;CADEIA PÚBLICA DE ALTINHO;PE;30;11
+2021;CADEIA PÚBLICA DE ARARIPINA;PE;45;79
+2021;CADEIA PÚBLICA DE BEZERROS;PE;36;19
+2021;Cadeia Pública de Bom Conselho;PE;46;49
+2021;Cadeia Pública de Bom Conselho - P/ DOMICILIAR;PE;0;1
+2021;Cadeia Pública de Cachoeirinha;PE;12;12
+2021;CADEIA PÚBLICA DE CARPINA;PE;24;21
+2021;CADEIA PÚBLICA DE ESCADA;PE;47;61
+2021;CADEIA PÚBLICA DE EXÚ;PE;32;29
+2021;CADEIA PÚBLICA DE EXÚ - P/ DOMICILIAR;PE;0;1
+2021;Cadeia Pública de Flores;PE;16;2
+2021;Cadeia Pública de Garanhuns;PE;96;194
+2021;CADEIA PUBLICA DE GARANHUNS P/DOMICILIAR;PE;0;2
+2021;CADEIA PÚBLICA DE GLÓRIA DE GOITÁ;PE;48;5
+2021;CADEIA PÚBLICA DE GOIANA;PE;100;113
+2021;CADEIA PÚBLICA DE GRAVATÁ;PE;68;24
+2021;Cadeia Pública de Ibimirim;PE;36;9
+2021;CADEIA PÚBLICA DE IPUBI;PE;18;38
+2021;Cadeia Pública de Itapetim;PE;36;11
+2021;CADEIA PÚBLICA DE LAGOA DO CARRO;PE;50;40
+2021;CADEIA PÚBLICA DE LAGOA DO CARRO - P/ DOMICILIAR;PE;NA;1
+2021;Cadeia Pública de Lajedo;PE;105;97
+2021;CADEIA PÚBLICA DE MACAPARANA;PE;50;22
+2021;CADEIA PÚBLICA DE MOREILÂNDIA;PE;30;16
+2021;CADEIA PÚBLICA DE MOREILÂNDIA - P/ DOMICILIAR;PE;0;1
+2021;CADEIA PÚBLICA DE NAZARÉ DA MATA;PE;18;7
+2021;CADEIA PÚBLICA DE PARNAMIRIM;PE;7;5
+2021;Cadeia Pública de Pedra;PE;36;16
+2021;Cadeia Pública de Petrolândia;PE;12;32
+2021;CADEIA PÚBLICA DE RIACHO DAS ALMAS;PE;14;4
+2021;Cadeia Pública de Saloá;PE;42;70
+2021;Cadeia Pública de São José do Belmonte;PE;30;5
+2021;Cadeia Pública de São José do Egito;PE;25;23
+2021;Cadeia Pública de Serra Talhada;PE;50;87
+2021;Cadeia Pública de Serra Talhada - P/ DOMICILIAR;PE;0;10
+2021;Cadeia Pública de Sertânia;PE;35;9
+2021;Cadeia Pública de Tabira;PE;48;24
+2021;CADEIA PÚBLICA DE TIMBAÚBA;PE;25;35
+2021;Cadeia Pública de Tuparetama;PE;18;11
+2021;Cadeia Pública de Venturosa;PE;36;13
+2021;CADEIA PÚBLICA DE VICÊNCIA;PE;36;13
+2021;CADEIA PÚBLICA DE VICÊNCIA - P/ DOMICILIAR;PE;NA;1
+2021;CADEIA PÚBLICA FEMININA DE PETROLINA E SEDE GRPIII;PE;25;32
+2021;CADEIA PÚBLICA FEMININA DE PETROLINA E SEDE GRPIII - P/ DOMICILIAR;PE;NA;10
+2021;CADEIA PÚBLICA FEMININA DE VERDEJANTE;PE;25;17
+2021;CADEIA PÚBLICA FEMININA DE VERDEJANTE - P/ DOMICILIAR;PE;0;3
+2021;CADEIA PÚBLICA RIBEIRÃO;PE;35;18
+2021;Centro de Observação Criminológica e Triagem Prof. Everardo Luna - COTEL;PE;946;3248
+2021;Centro de Observação Criminológica e Triagem Prof. Everardo Luna - COTEL - P/ DOMICILIAR;PE;NA;21
+2021;Centro de Ressocialização do Agreste - CRA;PE;NA;1495
+2021;Centro de Ressocialização do Agreste - CRA - P/ DOMICILIAR;PE;NA;375
+2021;COLÔNIA PENAL FEMININA DE ABREU E LIMA - PFAL;PE;0;421
+2021;COLÔNIA PENAL FEMININA DE ABREU E LIMA - PFAL - P/ DOMICILIAR;PE;0;421
+2021;Colônia Penal Feminina de Buíque - CPFB;PE;107;270
+2021;Colônia Penal Feminina de Buíque - CPFB - P/ DOMICILIAR;PE;0;12
+2021;Colônia Penal Feminina do Recife - CPFR;PE;285;755
+2021;Colônia Penal Feminina do Recife - CPFR - P/ DOMICILIAR;PE;NA;445
+2021;Hospital de Custódia e Tratamento Psiquiátrico - HCTP;PE;NA;216
+2021;MONITORAMENTO ELETRONICO P/DOMICILIAR - CEMER;PE;0;1261
+2021;PATRONATO PE - Regime Aberto;PE;NA;11131
+2021;Penitenciária Agro-Industrial São João - PAISJ;PE;0;1918
+2021;Penitenciária Agro-Industrial São João - PAISJ - P/ DOMICILIAR;PE;0;791
+2021;PENITENCIARIA BARRETO CAMPELO - PPBC;PE;NA;1533
+2021;PENITENCIARIA BARRETO CAMPELO - PPBC - P/ DOMICILIAR;PE;NA;12
+2021;PENITENCIARIA DE TACAIMBO - PTAC;PE;0;755
+2021;PENITENCIARIA DE TACAIMBO - PTAC - P/ DOMICILIAR;PE;NA;4
+2021;Penitenciária Doutor Edvaldo Gomes - PDEG;PE;NA;1183
+2021;Penitenciária Doutor Edvaldo Gomes - PDEG - P/ DOMICILIAR;PE;NA;199
+2021;Penitenciária Dr. Ênio Pessoa Guerra - PDEPG;PE;NA;2007
+2021;Penitenciária Juiz Plácido - PJPS;PE;0;1814
+2021;Penitenciária Juiz Plácido - PJPS - P/ DOMICILIAR;PE;0;14
+2021;Presídio Advogado Brito Alves - PABA;PE;452;1005
+2021;Presídio Advogado Brito Alves - PABA - P/ DOMICILIAR;PE;0;10
+2021;Presídio Advogado José David Gil Rodrigues;PE;NA;594
+2021;Presidio ASP Marcelo Francisco de Araújo - PAMFA;PE;NA;2017
+2021;Presidio ASP Marcelo Francisco de Araújo - PAMFA - P/ DOMICILIAR;PE;NA;7
+2021;Presídio de Igarassu - PI;PE;874;4308
+2021;Presídio de Igarassu - PI - P/ DOMICILIAR;PE;NA;27
+2021;Presídio de Salgueiro - PSAL;PE;196;601
+2021;Presídio de Salgueiro - PSAL - P/ DOMICILIAR;PE;0;1
+2021;Presídio de Vitória de Santo Antão - PVSA;PE;112;741
+2021;Presídio Desembargador Augusto Duque - PDAD;PE;NA;700
+2021;Presídio Dr. Rorinildo da Rocha Leão - PRRL;PE;74;840
+2021;Presídio Dr. Rorinildo da Rocha Leão - PRRL - P/ DOMICILIAR;PE;1;7
+2021;Presídio Frei Damião de Bozano - PFDB;PE;454;2021
+2021;Presídio Frei Damião de Bozano - PFDB - P/ DOMICILIAR;PE;0;6
+2021;Presídio Juiz Antônio Luiz Lins de Barros - PJALLB;PE;901;2744
+2021;Presídio Juiz Antônio Luiz Lins de Barros - PJALLB - P/ DOMICILIAR;PE;NA;30
+2021;Unidade Prisional de Itaquitinga I;PE;NA;921
+2021;Unidade Prisional de Itaquitinga I - P/ DOMICILIAR;PE;NA;6
+2021;CADEIA PÚBLICA DE ALTOS;PI;603;780
+2021;CASA DE DETENÇÃO PROVISÓRIA CAPITÃO CARLOS JOSÉ GOMES DE ASSIS;PI;154;233
+2021;CASA DE DETENÇÃO PROVISÓRIA DOM INOCÊNCIO LOPEZ SANTAMARIA;PI;154;168
+2021;CENTRAL DE MONITORAMENTO ELETRÔNICO DOMICILIAR;PI;NA;1111
+2021;COLÔNIA AGRÍCOLA PENAL MAJOR CÉSAR OLIVEIRA;PI;NA;401
+2021;PENITENCIÁRIA DOM ABEL ALONSO NUNEZ;PI;0;129
+2021;PENITENCIÁRIA FEMININA ADALBERTO DE MOURA SANTOS;PI;NA;16
+2021;PENITENCIÁRIA FEMININA DE TERESINA;PI;54;93
+2021;PENITENCIÁRIA GONÇALO DE CASTRO LIMA;PI;NA;263
+2021;PENITENCIÁRIA JOSE DE ARIMATEIA BARBOSA LEITE;PI;144;238
+2021;PENITENCIÁRIA JOSÉ DE DEUS BARROS;PI;NA;476
+2021;PENITENCIÁRIA LUIZ GONZAGA REBELO;PI;NA;141
+2021;PENITENCIÁRIA MISTA JUIZ FONTES IBIAPINA;PI;0;604
+2021;PENITENCIÁRIA PROFESSOR JOSÉ RIBAMAR LEITE;PI;NA;832
+2021;PENITENCIÁRIA REGIONAL DE OEIRAS;PI;NA;87
+2021;PENITENCIÁRIA REGIONAL IRMÃO GUIDO;PI;NA;453
+2021;UNIDADE DE APOIO AO SEMIABERTO;PI;NA;38
+2021;UNIDADE DE APOIO PRISIONAL;PI;18;32
+2021;CADEIA PÚBLICA DE ALTO PARANÁ – CPAP;PR;0;36
+2021;CADEIA PÚBLICA DE ALTÔNIA – CPALT;PR;16;34
+2021;CADEIA PUBLICA DE ANDIRA;PR;36;87
+2021;CADEIA PUBLICA DE APUCARANA;PR;NA;317
+2021;CADEIA PUBLICA DE ARAPONGAS;PR;73;267
+2021;CADEIA PUBLICA DE ARAPOTI;PR;36;72
+2021;CADEIA PÚBLICA DE ARAUCÁRIA - CPARAU;PR;14;60
+2021;CADEIA PUBLICA DE ASSAI;PR;33;123
+2021;CADEIA PÚBLICA DE ASSIS CHATEAUBRIAND - CPASSIS;PR;70;91
+2021;CADEIA PÚBLICA DE ASTORGA - CPAST;PR;17;77
+2021;CADEIA PÚBLICA DE BANDEIRANTES - CPBAND;PR;54;62
+2021;CADEIA PUBLICA DE CAMBARA;PR;42;102
+2021;CADEIA PÚBLICA DE CAMBÉ - CPCABE;PR;51;160
+2021;CADEIA PUBLICA DE CAMPO LARGO;PR;36;68
+2021;CADEIA PÚBLICA DE CAMPO MOURÃO - CPCAMP I;PR;102;82
+2021;CADEIA PÚBLICA DE CAMPO MOURÃO II - CPCAMP II;PR;NA;299
+2021;CADEIA PÚBLICA DE CARLÓPOLIS - CPCARL;PR;57;71
+2021;CADEIA PUBLICA DE CASCAVEL;PR;11;146
+2021;CADEIA PUBLICA DE CASTRO;PR;70;190
+2021;CADEIA PUBLICA DE CIANORTE;PR;76;264
+2021;CADEIA PÚBLICA DE CIDADE GAÚCHA– CPCIG;PR;12;31
+2021;CADEIA PÚBLICA DE COLOMBO - CMBO;PR;26;60
+2021;CADEIA PÚBLICA DE COLORADO – CPCOL;PR;45;96
+2021;CADEIA PÚBLICA DE CORBÉLIA - CPCORB;PR;37;22
+2021;CADEIA PUBLICA DE CORNELIO PROCOPIO;PR;36;251
+2021;CADEIA PUBLICA DE CURITIBA;PR;72;121
+2021;CADEIA PÚBLICA DE ENGENHEIRO BELTRÃO - CPEB;PR;14;44
+2021;CADEIA PÚBLICA DE FAXINAL - CPFAXI;PR;40;94
+2021;CADEIA PÚBLICA DE FRANCISCO BELTRÃO – CPBELT;PR;48;120
+2021;CADEIA PÚBLICA DE GOIOERÊ– CPGOI;PR;NA;74
+2021;CADEIA PUBLICA DE GUAIRA;PR;NA;132
+2021;CADEIA PUBLICA DE GUARAPUAVA;PR;NA;352
+2021;CADEIA PÚBLICA DE GUARATUBA - CPGTBA;PR;8;32
+2021;CADEIA PUBLICA DE IBAITI;PR;NA;80
+2021;CADEIA PÚBLICA DE IBIPORÃ - CPIBIPORA;PR;24;123
+2021;CADEIA PÚBLICA DE IPORÃ– CPIPO;PR;30;35
+2021;CADEIA PÚBLICA DE IRATI – CPIRATI;PR;NA;96
+2021;CADEIA PÚBLICA DE IVAIPORÃ - CPIVP;PR;34;119
+2021;CADEIA PUBLICA DE JACAREZINHO;PR;95;142
+2021;CADEIA PUBLICA DE JAGUARIAIVA;PR;104;217
+2021;CADEIA PÚBLICA DE JANDAIA DO SUL – CPJS;PR;22;63
+2021;CADEIA PUBLICA DE LARANJEIRAS DO SUL;PR;67;194
+2021;CADEIA PÚBLICA DE LOANDA – CPLOAN;PR;96;144
+2021;CADEIA PÚBLICA DE MANDAGUARI – CPMGI;PR;45;99
+2021;CADEIA PUBLICA DE MARECHAL CANDIDO RONDON;PR;NA;84
+2021;CADEIA PÚBLICA DE MARIALVA - CPMVA;PR;40;67
+2021;CADEIA PUBLICA DE MARINGA;PR;18;104
+2021;CADEIA PUBLICA DE MEDIANEIRA;PR;46;127
+2021;CADEIA PÚBLICA DE NOVA ESPERANÇA - CPNE;PR;NA;119
+2021;CADEIA PÚBLICA DE NOVA LONDRINA - CPNL;PR;30;70
+2021;CADEIA PÚBLICA DE ORTIGUEIRA - CPORTG;PR;57;99
+2021;CADEIA PUBLICA DE PALMAS;PR;60;92
+2021;CADEIA PÚBLICA DE PALOTINA - CPPALO;PR;NA;23
+2021;CADEIA PUBLICA DE PARANAGUA;PR;54;64
+2021;CADEIA PUBLICA DE PARANAVAI;PR;99;344
+2021;CADEIA PUBLICA DE PATO BRANCO;PR;14;243
+2021;CADEIA PÚBLICA DE PITANGA - CPPITA;PR;NA;73
+2021;CADEIA PÚBLICA DE PONTA GROSSA HILDEBRANDO DE SOUZA - CPHSPG;PR;355;872
+2021;CADEIA PUBLICA DE PORECATU;PR;0;78
+2021;CADEIA PÚBLICA DE PRUDENTÓPOLIS - CPPRUDE;PR;NA;60
+2021;CADEIA PÚBLICA DE QUEDAS DO IGUAÇU - CPQI;PR;22;51
+2021;CADEIA PÚBLICA DE RESERVA - CPRES;PR;23;53
+2021;CADEIA PUBLICA DE RIO BRANCO DO SUL;PR;138;91
+2021;CADEIA PUBLICA DE ROLANDIA;PR;77;143
+2021;CADEIA PUBLICA DE SANTO ANTONIO DA PLATINA;PR;16;63
+2021;CADEIA PÚBLICA DE SÃO MATEUS DO SUL - CPSMS;PR;38;62
+2021;CADEIA PUBLICA DE SARANDI;PR;50;236
+2021;CADEIA PUBLICA DE SENGES;PR;0;90
+2021;CADEIA PÚBLICA DE STO ANTÔNIO DO SUDOESTE - CPSAS;PR;16;48
+2021;CADEIA PUBLICA DE TELEMACO BORBA;PR;84;277
+2021;CADEIA PUBLICA DE TOLEDO;PR;46;176
+2021;CADEIA PUBLICA DE UMUARAMA;PR;NA;232
+2021;CADEIA PUBLICA DE UNIAO DA VITORIA;PR;NA;123
+2021;CADEIA PÚBLICA DE WENCESLAU BRAZ - CPWB;PR;42;37
+2021;CADEIA PUBLICA FEMININA DE LONDRINA;PR;36;171
+2021;CADEIA PÚBLICA LAUDEMIR NEVES - CPLN;PR;368;477
+2021;CADEIA PUBLICA MASCULINA DE LONDRINA;PR;48;64
+2021;CADEIA PÚBLIDA DE DOIS VIZINHOS - CPDV;PR;35;41
+2021;CASA DE CUSTÓDIA DE CURITIBA - CCC;PR;492;758
+2021;CASA DE CUSTÓDIA DE LONDRINA - CCL;PR;384;590
+2021;CASA DE CUSTODIA DE MARINGA - CCM;PR;960;1158
+2021;CASA DE CUSTÓDIA DE PIRAQUARA - CCP;PR;1320;1613
+2021;CASA DE CUSTÓDIA DE SÃO JOSÉ DOS PINHAIS - CCSJP;PR;876;1124
+2021;CENTRAL DE MONITORAÇÃO ELETRÔNICA - CME - MONITORAMENTO ELETRÔNICO DOMICILIAR;PR;NA;11301
+2021;CENTRO DE INTEGRAÇÃO SOCIAL - CIS;PR;0;75
+2021;CENTRO DE REINTEGRAÇÃO SOCIAL DE LONDRINA - CRESLON;PR;0;554
+2021;COLÔNIA PENAL AGROINDUSTRIAL DO ESTADO DO PARANA - CPAI;PR;NA;1046
+2021;COLÔNIA PENAL INDUSTRIAL DE MARINGÁ - CPIM;PR;NA;309
+2021;COMPLEXO MÉDICO PENAL - CMP;PR;265;682
+2021;PATRONATO CENTRAL DE CURITIBA - PCTA - DOMICILIAR;PR;NA;33750
+2021;PENITENCIÁRIA  ESTADUAL THIAGO BORGES DE CARVALHO - PETBC;PR;0;1020
+2021;PENITENCIÁRIA CENTRAL DO ESTADO - UNIDADE DE PROGRESSÃO - PCE-UP;PR;NA;277
+2021;PENITENCIÁRIA CENTRAL DO ESTADO II - UNIDADE DE SEGURANÇA - PCE II-US;PR;NA;1687
+2021;PENITENCIÁRIA ESTADUAL DE CRUZEIRO DO OESTE - PECO;PR;NA;1028
+2021;PENITENCIÁRIA ESTADUAL DE FOZ DO IGUAÇU - PEF;PR;NA;949
+2021;PENITENCIÁRIA ESTADUAL DE FOZ DO IGUAÇU 2 - PEF II;PR;48;915
+2021;PENITENCIÁRIA ESTADUAL DE FRANCISCO BELTRÃO - PEFB;PR;0;1198
+2021;PENITENCIÁRIA ESTADUAL DE GUARAPUAVA - UNIDADE DE PROGRESSÃO - PEG-UP;PR;NA;230
+2021;PENITENCIÁRIA ESTADUAL DE LONDRINA - PEL;PR;NA;723
+2021;PENITENCIÁRIA ESTADUAL DE LONDRINA 2 - PEL II;PR;NA;1285
+2021;PENITENCIÁRIA ESTADUAL DE MARINGÁ - PEM;PR;0;454
+2021;PENITENCIÁRIA ESTADUAL DE PIRAQUARA - PEP;PR;NA;700
+2021;PENITENCIÁRIA ESTADUAL DE PIRAQUARA 2 - PEPII;PR;NA;1184
+2021;PENITENCIÁRIA ESTADUAL DE PONTA GROSSA - UNIDADE DE PROGRESSÃO - PEPG-UP;PR;0;135
+2021;PENITENCIÁRIA ESTADUAL DE PONTA GROSSA - UNIDADE DE SEGURANÇA - PEPG-US;PR;0;640
+2021;PENITENCIÁRIA FEMININA DE FOZ DO IGUAÇÚ - UNIDADE DE PROGRESSÃO - PFF-UP;PR;0;194
+2021;PENITENCIÁRIA FEMININA DO PARANÁ - PFP;PR;NA;336
+2021;PENITENCIÁRIA INDUSTRIAL DE GUARAPUAVA - PIG;PR;NA;455
+2021;PENITENCIÁRIA INDUSTRIAL MARCELO PINHEIRO - PIMP;PR;0;399
+2021;CADEIA PÚBLICA CONSTANTINO COKOTÓS - SEAP/CK;RJ;30;137
+2021;Cadeia Pública Cotrin Neto - SEAP/CN;RJ;750;1164
+2021;Cadeia Pública Dalton Crespo de Castro - SEAP/DC;RJ;200;882
+2021;Cadeia Pública Franz de Castro Holzwarth - SEAP/FC;RJ;302;224
+2021;Cadeia Pública Hélio Gomes - SEAPHG;RJ;NA;13
+2021;Cadeia Pública Inspetor José Antônio da Costa Barros - SEAP/JB;RJ;0;827
+2021;Cadeia Pública Inspetor Luís Fernandes Bandeira Duarte;RJ;NA;535
+2021;Cadeia Pública ISAP Tiago Teles de Castro Domingues - SEAPTD;RJ;640;1793
+2021;Cadeia Pública Jorge Santana - SEAPJS;RJ;750;1189
+2021;Cadeia Pública José Frederico Marques - SEAPFM;RJ;320;554
+2021;Cadeia Pública Juíza de Direito Patrícia Acioli - SEAP/JP;RJ;616;1639
+2021;Cadeia Pública Milton Dias Moreira - SEAPMM;RJ;0;1656
+2021;Cadeia Pública Paulo Roberto Rocha - SEAP/PR;RJ;750;1198
+2021;Cadeia Pública Pedro Melo da Silva - SEAPPM;RJ;NA;1305
+2021;Cadeia Pública Pedrolino Werling de Oliveira - SEAPPO;RJ;152;67
+2021;Cadeia Pública Romeiro Neto - SEAPRN;RJ;650;883
+2021;Casa do Albergado Crispim Ventino - SEAP/AC;RJ;NA;7
+2021;CASA DO ALBERGADO CRISPIM VENTINO - SEAP/AC - DOMICILIAR;RJ;NA;1052
+2021;CENTRAL DE MONITORAMENTO - MONITORAMENTO ELETRONICO DOMICILIAR - SEAP/UNIME;RJ;0;1907
+2021;Colônia Agrícola Marco Vergas Tavares de Mattos - SEAPAM;RJ;NA;123
+2021;Hospital de Custódia e Trat. Psiquiátrico Henrique Roxo - SEAPHR;RJ;0;84
+2021;Hospital Dr. Hamilton Agostinho V. de Castro - SEAPHA;RJ;0;68
+2021;Hospital Penal Psiquiátrico Roberto Medeiros - SEAP/RM;RJ;NA;127
+2021;Instituto Penal Benjamin de Moraes Filho - SEAP/BM;RJ;NA;1161
+2021;INSTITUTO PENAL CÂNDIDO MENDES - SEAP/CM - DOMICILIAR;RJ;0;416
+2021;Instituto Penal Edgard Costa - SEAPEC;RJ;NA;197
+2021;Instituto Penal Ismael Pereira Sirieiro - SEAPIS;RJ;0;468
+2021;Instituto Penal Plácido Sá Carvalho - SEAPPC;RJ;NA;3636
+2021;INSTITUTO PENAL SANTO EXPEDITO - SEAP/ISE;RJ;579;660
+2021;INSTITUTO PENAL SANTO EXPEDITO - SEAP/ISE - DOMICILIAR;RJ;28;28
+2021;Instituto Penal Vicente Piragibe - SEAPVP;RJ;0;5085
+2021;Penitenciária Alfredo Trajan - SEAPAT;RJ;NA;1962
+2021;PENITENCIÁRIA BANDEIRA STAMPA - SEAP/BS - DOMICILIAR;RJ;0;603
+2021;Penitenciária Coronel PM Francisco Spargoli Rocha - SEAP/FS;RJ;NA;96
+2021;Penitenciária Dr. Serrano Neves - SEAPSN;RJ;NA;1071
+2021;Penitenciária Gabriel Ferreira Castilho - SEAP/GC;RJ;132;1063
+2021;Penitenciária Industrial Esmeraldino Bandeira - SEAPEB;RJ;NA;2443
+2021;Penitenciária Joaquim Ferreira de Souza - SEAPJF;RJ;200;361
+2021;Penitenciária Jonas Lopes de Carvalho - SEAPJL;RJ;1447;2327
+2021;Penitenciária Laércio da Costa Pelegrino - SEAPLP;RJ;12;19
+2021;Penitenciária Lemos Brito - SEAPLB;RJ;128;956
+2021;Penitenciária Moniz Sodré - SEAPMS;RJ;NA;1801
+2021;Penitenciária Talavera Bruce - SEAP/TB;RJ;NA;401
+2021;Presídio Ary Franco - SEAPAF;RJ;968;1475
+2021;PRESÍDIO CARLOS TINOCO DA FONSECA - SEAP/CF - DOMICILIAR;RJ;0;309
+2021;Presídio Carlos Tinoco da Fonseca - SEAPCF;RJ;384;1668
+2021;Presídio Diomedes Vinhosa Muniz - SEAP/VM;RJ;218;692
+2021;Presídio Elizabeth Sá Rego - SEAP/SR;RJ;NA;1408
+2021;Presídio Evaristo de Moraes - SEAPEM;RJ;NA;2729
+2021;Presídio João Carlos da Silva - SEAP/JC;RJ;884;1387
+2021;Presídio Nelson Hungria - SEAPNH;RJ;0;842
+2021;Presídio Nilza da Silva Santos - SEAPNS;RJ;106;199
+2021;Sanatório Penal - SEAP/SP;RJ;0;50
+2021;Unidade Materno Infantil - SEAP/UMI;RJ;7;10
+2021;UNIDADE MATERNO INFANTIL - SEAP/UMI - DOMICILIAR;RJ;15;10
+2021;CADEIA PÚBLICA DESEMBARGADOR MANOEL ONOFRE DE SOUZA - Mossoró;RN;343;380
+2021;CADEIA PÚBLICA DINORÁ SIMAS LIMA DEODATO - CEARÁ-MIRIM;RN;682;1432
+2021;CADEIA PÚBLICA NOMINANDO GOMES DA SILVA - Nova Cruz;RN;168;167
+2021;CADEIA PÚBLICA PROF. RAIMUNDO NONATO FERNANDES - Natal;RN;249;400
+2021;CADEIA PÚBLICA PROMOTOR MANOEL ALVES PESSOA NETO - Caraúbas;RN;192;199
+2021;CENTRAL DE MONITORAMENTO ELETRÔNICO / DOMICILIAR;RN;0;2547
+2021;CENTRAL DE RECEBIMENTO E TRIAGEM;RN;24;45
+2021;CENTRO DE DETENÇÃO PROVISÓRIA DE APODI;RN;72;64
+2021;CENTRO DE DETENÇÃO PROVISÓRIA DE PARNAMIRIM - Feminino;RN;48;78
+2021;CENTRO DE DETENÇÃO PROVISÓRIA DE PARNAMIRIM - Feminino - DOMICILIAR;RN;0;21
+2021;COMPLEXO PENAL AGRÍCOLA DR. MÁRIO NEGÓCIO - MASC - Mossoró;RN;NA;421
+2021;COMPLEXO PENAL AGRÍCOLA DR. MÁRIO NEGÓCIO - MASC - Mossoró - DOMICILIAR;RN;NA;451
+2021;COMPLEXO PENAL DR. JOÃO CHAVES - FEM;RN;0;123
+2021;COMPLEXO PENAL DR. JOÃO CHAVES - FEM - DOMICILIAR;RN;0;74
+2021;COMPLEXO PENAL DR. JOÃO CHAVES - MASC;RN;NA;168
+2021;COMPLEXO PENAL DR. JOÃO CHAVES - MASC - DOMICILIAR;RN;NA;724
+2021;COMPLEXO PENAL REGIONAL DE PAU DOS FERROS;RN;0;316
+2021;COMPLEXO PENAL REGIONAL DE PAU DOS FERROS - DOMICILIAR;RN;0;67
+2021;PENITENCIÁRIA Des. FRANCISCO PEREIRA DA NÓBREGA - Caicó;RN;0;530
+2021;PENITENCIÁRIA Des. FRANCISCO PEREIRA DA NÓBREGA - Caicó - DOMICILIAR;RN;NA;20
+2021;PENITENCIÁRIA ESTADUAL DE PARNAMIRIM;RN;NA;516
+2021;PENITENCIÁRIA ESTADUAL DE PARNAMIRIM - DOMICILIAR;RN;0;206
+2021;PENITENCIÁRIA ESTADUAL DR. FRANCISCO NOGUEIRA FERNANDES - Nísia Floresta;RN;0;1626
+2021;PENITENCIÁRIA ESTADUAL ROGÉRIO COUTINHO MADRUGA - Nísia Floresta;RN;NA;701
+2021;UNIDADE PSIQUIÁTRICA DE CUSTÓDIA E TRATAMENTO;RN;NA;45
+2021;Associação de Proteção e Assistência aos Condenados;RO;0;59
+2021;CADEIA PÚBLICA DE ALTA FLORESTA;RO;0;61
+2021;CADEIA PÚBLICA DE CEREJEIRAS;RO;27;142
+2021;CADEIA PÚBLICA DE COLORADO DO OESTE;RO;0;87
+2021;CADEIA PÚBLICA DE COSTA MARQUES;RO;42;173
+2021;CADEIA PÚBLICA DE PRESIDENTE MÉDICI;RO;37;60
+2021;CADEIA PÚBLICA DE SANTA LUZIA;RO;NA;53
+2021;CADEIA PÚBLICA DE SÃO FRANCISCO DO GUAPORÉ;RO;41;80
+2021;CASA DE DETENÇÃO DE CACOAL;RO;60;351
+2021;CASA DE DETENÇÃO DE GUAJARÁ MIRIM;RO;161;257
+2021;CASA DE DETENÇÃO DE JI-PARANÁ;RO;100;138
+2021;CASA DE DETENÇÃO DE OURO PRETO;RO;NA;230
+2021;CASA DE DETENÇÃO DE PIMENTA BUENO;RO;105;484
+2021;CASA DE DETENÇÃO DE ROLIM DE MOURA;RO;36;22
+2021;CASA DE DETENÇÃO DE VILHENA;RO;72;85
+2021;CASA DE DETENÇÃO SÃO MIGUEL DO GUAPORE;RO;28;89
+2021;CASA DE PRISÃO ALBERGUE E SEMIABERTO DE JARÚ;RO;NA;177
+2021;CASA DE PRISÃO ALBERGUE FEMININO DE GUAJARÁ MIRIM;RO;8;18
+2021;CASA DE PRISÃO ALBERGUE MASCULINO DE  JI-PARANÁ - MONITORAMENTO/DOMICILIAR;RO;0;296
+2021;CASA DE PRISÃO ALBERGUE MASCULINO DE CACOAL;RO;NA;178
+2021;CASA DE PRISÃO ALBERGUE MASCULINO DE GUAJARÁ MIRIM;RO;0;48
+2021;CASA DE PRISÃO SEMIABERTO MASCULINO DE ROLIM DE MOURA;RO;0;66
+2021;CASA DO ALBERGADO DE ARIQUEMES;RO;NA;251
+2021;CASA DO ALBERGADO DE VILHENA (COLONIA PENAL E PRESÍDIO FEMININO);RO;14;46
+2021;CASA DO EGRESSO DE VILHENA (PATRONATO) - DOMICILIAR;RO;NA;3
+2021;CENTRO DE DETENÇÃO PROVISÓRIA;RO;472;520
+2021;CENTRO DE RESSOCIALIZAÇÃO CONE SUL;RO;NA;336
+2021;CENTRO DE RESSOCIALIZAÇÃO DE ALVORADA DO OESTE;RO;NA;101
+2021;CENTRO DE RESSOCIALIZAÇÃO DE ARIQUEMES;RO;NA;464
+2021;CENTRO DE RESSOCIALIZAÇÃO JONAS FERRETI;RO;32;191
+2021;CENTRO DE RESSOCIALIZAÇÃO MACHADINHO DO OESTE;RO;NA;209
+2021;CENTRO DE RESSOCIALIZAÇÃO SUELY MARIA MENDONÇA;RO;NA;153
+2021;CENTRO DE RESSOCIALIZAÇÃO VALE DO GUAPORÉ;RO;0;158
+2021;CENTRO REGIONAL DE RESSOCIALIZAÇÃO AUGUSTO SIMON KEMPE;RO;107;237
+2021;COLÔNIA AGRÍCOLA PENAL ÊNIO PINHEIRO DOS SANTOS CAPEP;RO;0;310
+2021;PENITENCIÁRIA DE MÉDIO PORTE PANDINHA;RO;NA;320
+2021;PENITENCIARIA ESTADUAL ARUANA;RO;NA;203
+2021;PENITENCIÁRIA ESTADUAL EDIVAN MARIANO ROSENDO PANDA;RO;NA;588
+2021;PENITENCIARIA ESTADUAL JORGE THIAGO AGUIAR AFONSO - 603;RO;NA;656
+2021;PENITENCIARIA MILTON SOARES DE CARVALHO;RO;NA;440
+2021;PENITENCIÁRIA REGIONAL DE NOVA MAMORÉ;RO;NA;90
+2021;PENITENCIÁRIA REGIONAL DE ROLIM DE MOURA;RO;0;144
+2021;PENITENCIÁRIA REGIONAL DR. AGENOR MARTINS DE CARVALHO;RO;12;353
+2021;PRESÍDIO SEMIABERTO DE JI-PARANÁ;RO;0;179
+2021;UNIDADE DE INTERNAÇÃO MASCULINA MEDIDAS DE SEGURANÇA;RO;NA;18
+2021;UNIDADE DE MONITORAMENTO ELETRÔNICO - DOMICILIAR;RO;NA;1040
+2021;UNIDADE SEMIABERTO E ABERTO FEMININO E MASCULINO PORTO VELHO - DOMICILIAR;RO;0;2530
+2021;Cadeia Pública Feminina de Boa Vista;RR;56;180
+2021;"Cadeia Pública Feminina de Boa Vista ""Domiciliar""";RR;NA;136
+2021;Cadeia Pública Masculina de Boa Vista;RR;NA;711
+2021;"Casa do Albergado Dr.ªAracélia Souto Maior - "" Albergue Domiciliar""";RR;NA;915
+2021;"Central de Monitoração Eletrônica de Pessoas - ""Prisão Domiciliar""";RR;NA;128
+2021;Centro de Progressão Penitenciária;RR;NA;208
+2021;Penitenciária Agrícola de Monte Cristo;RR;596;1813
+2021;Cadeia Pública de Porto Alegre;RS;1905;3521
+2021;Centro de Custódia Hospitalar Charqueadas;RS;NA;6
+2021;Centro de Custodia Hospitalar Vila Nova;RS;NA;57
+2021;Colônia Penal Agrícola;RS;0;161
+2021;Instituto Penal de Bagé;RS;NA;86
+2021;Instituto Penal de Canoas;RS;NA;98
+2021;Instituto Penal de Charqueadas;RS;NA;148
+2021;Instituto Penal de Gravatai Santos e Medeiros;RS;NA;64
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da 2ª Região Penitenciária;RS;NA;218
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da 3ª Região Penitenciária;RS;NA;356
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da 4ª Região Penitenciária;RS;NA;448
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da 5ª Região Penitenciária;RS;NA;537
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da 6ª Região Penitenciária;RS;NA;372
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da 7ª Região Penitenciária;RS;NA;593
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da 8ª Região Penitenciária;RS;NA;633
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da Região Metropolitana;RS;NA;3033
+2021;Instituto Penal de Montenegro;RS;NA;70
+2021;Instituto Penal de Novo Hamburgo;RS;0;281
+2021;Instituto Penal de Passo Fundo;RS;NA;82
+2021;Instituto Penal de Santa Maria;RS;NA;69
+2021;Instituto Penal de Santo Ângelo;RS;0;94
+2021;Instituto Penal de São Leopoldo;RS;NA;189
+2021;Instituto Penal de Uruguaiana;RS;NA;83
+2021;Instituto Penal Feminino de Porto Alegre;RS;NA;76
+2021;Instituto Penal Ijuí;RS;0;163
+2021;Instituto Penal Irmão Miguel Dario;RS;NA;133
+2021;Instituto Psiquiatrico Forense;RS;NA;177
+2021;Patronato Lima Drummond;RS;NA;59
+2021;Penitenciaria Alta Segurança charqueadas;RS;NA;205
+2021;Penitenciária Estadual de Arroio dos Ratos;RS;NA;667
+2021;Penitenciária Estadual de Bento Gonçalves;RS;NA;370
+2021;Penitenciária Estadual de Canoas I;RS;180;383
+2021;Penitenciária Estadual de Canoas II;RS;385;801
+2021;Penitenciária Estadual de Canoas III;RS;346;750
+2021;Penitenciária Estadual de Canoas IV;RS;349;713
+2021;Penitenciária Estadual de Caxias do Sul;RS;NA;1168
+2021;Penitenciária Estadual de Charqueadas;RS;NA;618
+2021;Penitenciária Estadual de Jacuí;RS;NA;2032
+2021;Penitenciária Estadual de Porto Alegre;RS;NA;602
+2021;Penitenciária Estadual de Rio Grande;RS;254;690
+2021;Penitenciária Estadual de Santana do Livramento;RS;NA;236
+2021;PENITENCIÁRIA ESTADUAL DE SAPUCAIA DO SUL;RS;0;526
+2021;Penitenciária Estadual de Venâncio Aires;RS;54;518
+2021;Penitenciária Estadual Feminina  de Guaiba;RS;96;364
+2021;Penitenciária Modulada  Estadual de Ijuí;RS;207;682
+2021;Penitenciária Modulada Estadual de  Charqueadas;RS;469;1332
+2021;Penitenciária Modulada Estadual de Montenegro;RS;869;1765
+2021;Penitenciária Modulada Estadual de Osório;RS;NA;1581
+2021;Penitenciária Modulada Estadual de Uruguaiana;RS;0;631
+2021;Penitenciáriia Estadual de Santa Maria;RS;NA;894
+2021;Presídio  Estadual de São Luiz Gonzaga;RS;66;295
+2021;Presidio Estadual de  Cachoeira Do Sul;RS;NA;248
+2021;Presidio Estadual de  Candelária;RS;NA;70
+2021;Presidio Estadual de  Encruzilhada Do Sul;RS;NA;78
+2021;Presidio Estadual de  Lavras do Sul;RS;NA;40
+2021;Presidio Estadual de  São Borja;RS;0;327
+2021;Presidio Estadual de  Sobradinho;RS;30;168
+2021;Presídio Estadual de Agudo;RS;47;82
+2021;Presidio Estadual de Alegrete;RS;NA;148
+2021;Presidio Estadual de Arroio Do Meio;RS;NA;65
+2021;Presídio Estadual de Caçapava do Sul;RS;NA;76
+2021;Presídio Estadual de Cacequi;RS;NA;53
+2021;Presídio Estadual de Camaquã;RS;187;387
+2021;Presídio Estadual de Canela;RS;0;218
+2021;Presídio Estadual de Canguçu;RS;NA;73
+2021;Presídio Estadual de Carazinho;RS;NA;157
+2021;Presídio Estadual de Cerro Largo;RS;6;79
+2021;Presídio Estadual de Cruz Alta;RS;NA;222
+2021;Presidio Estadual de Dom Pedrito;RS;57;198
+2021;Presidio Estadual de Encantado;RS;45;104
+2021;Presídio Estadual de Erechim;RS;NA;479
+2021;Presídio Estadual de Espumoso;RS;20;85
+2021;Presídio Estadual de Frederico Westphalen;RS;0;206
+2021;Presídio Estadual de Getúlio Vargas;RS;56;146
+2021;Presídio Estadual de Guaporé;RS;78;161
+2021;Presidio Estadual de Iraí;RS;NA;64
+2021;Presidio Estadual de Itaqui;RS;NA;88
+2021;Presídio Estadual de Jaguarão;RS;32;66
+2021;Presídio Estadual de Jaguari;RS;66;48
+2021;Presídio Estadual de Julio de Castilhos;RS;16;75
+2021;Presídio Estadual de Lagoa Vermelha;RS;0;221
+2021;Presídio Estadual de Lajeado;RS;NA;294
+2021;Presídio Estadual de Nova Prata;RS;NA;176
+2021;Presídio Estadual de Palmeira das Missões;RS;NA;160
+2021;Presidio Estadual de Quaraí;RS;10;49
+2021;Presidio Estadual de Rosário do Sul;RS;NA;189
+2021;Presídio Estadual de Santa Rosa;RS;NA;439
+2021;Presídio Estadual de Santiago;RS;NA;176
+2021;Presídio Estadual de Santo Cristo;RS;NA;69
+2021;Presídio Estadual de São Francisco de Assis;RS;NA;75
+2021;Presídio Estadual de São Francisco de Paula;RS;NA;74
+2021;Presidio Estadual de São Gabriel;RS;NA;249
+2021;Presídio Estadual de São Jerônimo;RS;NA;18
+2021;Presídio Estadual de São Sepé;RS;NA;89
+2021;Presídio Estadual de São Vicente do Sul;RS;NA;34
+2021;Presídio Estadual de Sarandi;RS;NA;207
+2021;Presídio Estadual de Soledade;RS;0;191
+2021;Presídio Estadual de Taquara;RS;39;231
+2021;Presídio Estadual de Três Passos;RS;0;298
+2021;Presídio Estadual de Vacaria;RS;NA;308
+2021;Presídio Estadual Feminino de Lajeado;RS;NA;33
+2021;Presídio Estadual Feminino de Torres;RS;45;80
+2021;Presídio Estadual Feminino Madre Pelletier;RS;NA;260
+2021;Presídio Estadual Santa Vitoria do Palmar;RS;NA;98
+2021;Presidio Regional de Bagé;RS;0;680
+2021;Presídio Regional de Caxias do Sul;RS;NA;528
+2021;Presídio Regional de Passo Fundo;RS;0;669
+2021;Presídio Regional de Pelotas;RS;NA;645
+2021;Presídio Regional de Santa Cruz do Sul;RS;NA;345
+2021;Presídio Regional de Santa Maria;RS;NA;224
+2021;Presídio Regional de Santo Ângelo;RS;NA;268
+2021;Casa do Albergado de Florianópolis;SC;80;45
+2021;Colonia Penal Agricola da Palhoça;SC;NA;585
+2021;GEMOP - Gerência de Monitoramento Eletrônico (Domiciliar);SC;NA;1849
+2021;Hospital de Custódia e Tratamento Psiquiátrico;SC;11;69
+2021;Penitenciária Agrícola de Chapecó;SC;0;1289
+2021;Penitenciária da Região de Curitibanos;SC;NA;923
+2021;Penitenciária de Florianópolis;SC;565;1637
+2021;Penitenciária de São Pedro de Alcântara;SC;0;1281
+2021;Penitenciária Feminina de Criciúma;SC;NA;306
+2021;Penitenciária Industrial de Blumenau;SC;2;1040
+2021;Penitenciária Industrial de Chapecó;SC;0;674
+2021;Penitenciária Industrial de Joinville;SC;NA;833
+2021;Penitenciária Industrial de São Cristóvão do Sul;SC;NA;802
+2021;Penitenciária Masculina de Criciúma - Penitenciária SUL;SC;NA;893
+2021;Penitenciária Masculina de Itajaí;SC;0;1528
+2021;Presídio de Barra Velha;SC;97;108
+2021;Presídio de Brusque;SC;88;136
+2021;Presídio de Caçador;SC;89;202
+2021;Presídio de Campos Novos;SC;102;87
+2021;Presídio de Canoinhas;SC;109;184
+2021;Presídio de Imbituba;SC;115;171
+2021;Presídio de Indaial;SC;31;111
+2021;Presídio de Itapema;SC;63;125
+2021;Presídio de Laguna;SC;97;149
+2021;Presídio de Maravilha;SC;NA;126
+2021;Presídio de Porto União;SC;18;164
+2021;Presídio de São Francisco do Sul;SC;100;247
+2021;Presídio de São José do Cedro;SC;85;115
+2021;Presídio de São Miguel do Oeste;SC;79;139
+2021;Presídio de Videira;SC;101;148
+2021;Presidio Feminino de Chapecó;SC;70;244
+2021;Presídio Feminino de Florianópolis;SC;100;96
+2021;Presidio Feminino de Itajai;SC;280;290
+2021;Presídio Feminino de Tubarão;SC;52;128
+2021;Presidio Masculino de Florianópolis;SC;277;270
+2021;Presídio Masculino de Itajaí;SC;696;1110
+2021;Presídio Masculino de Lages;SC;344;535
+2021;Presídio Regional de Araranguá;SC;244;360
+2021;Presidio Regional de Biguaçu;SC;48;79
+2021;Presídio Regional de Blumenau;SC;473;740
+2021;Presídio Regional de Chapecó;SC;320;405
+2021;Presídio Regional de Concórdia;SC;83;240
+2021;Presídio Regional de Criciúma;SC;696;1001
+2021;Presídio Regional de Jaraguá do Sul;SC;283;593
+2021;Presídio Regional de Joaçaba;SC;67;275
+2021;Presidio Regional de Joinville;SC;539;1099
+2021;Presídio Regional de Lages;SC;205;213
+2021;Presídio Regional de Mafra;SC;106;234
+2021;Presídio Regional de Rio do Sul;SC;225;347
+2021;Presídio Regional de Tijucas;SC;155;313
+2021;Presídio Regional de Xanxerê;SC;74;248
+2021;Presídio Regional Masculino de Tubarão;SC;260;649
+2021;Cadeia Pública de Areia Branca;SE;490;430
+2021;Cadeia Pública de Estância Tabelião Luiz Filadelfo da Costa;SE;245;244
+2021;Cadeia Territorial de Nossa Senhora do Socorro;SE;160;221
+2021;Central de Monitoramento Eletrônico de Presos - Monitoramento Eletrônico Domiciliar;SE;NA;1485
+2021;Complexo Penitenciário Advogado Antônio Jacinto Filho;SE;415;569
+2021;Complexo Penitenciário Manoel Carvalho Neto;SE;699;2769
+2021;Presídio Feminino;SE;100;220
+2021;Presídio Regional Senador Leite Neto;SE;NA;247
+2021;Presídio Regional Tobias Barreto;SE;NA;480
+2021;Unidade de Custódia Psiquiátrica;SE;NA;86
+2021;"CDP ""Dr. Félix Nobre de Campos"" de Taubaté";SP;844;1309
+2021;"CDP ""Dr. José Eduardo Mariz de Oliveira"" de Caraguatatuba";SP;847;1255
+2021;"CDP ""Dr. Luis Cesar Lacerda""  de São Vicente";SP;842;1409
+2021;CDP de Bauru;SP;844;864
+2021;CDP de Caiuá;SP;844;827
+2021;CDP de Capela do Alto;SP;847;1523
+2021;CDP de Cerqueira César;SP;847;802
+2021;CDP de Diadema;SP;613;840
+2021;CDP de Mogi das Cruzes;SP;844;1261
+2021;CDP de Praia Grande;SP;564;802
+2021;CDP de Ribeirão Preto;SP;586;505
+2021;CDP de Riolândia;SP;847;1110
+2021;CDP de São José do Rio Preto;SP;844;1085
+2021;CDP de São José dos Campos;SP;546;916
+2021;CDP de Serra Azul;SP;856;964
+2021;CDP de Suzano;SP;844;1305
+2021;CDP de Taiúva;SP;847;803
+2021;CDP de Taiúva - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;2
+2021;CDP Feminino de Franco da Rocha;SP;1008;737
+2021;"CDP I ""ASP Giovani Martins Rodrigues"" de Guarulhos";SP;844;1229
+2021;CDP I de Chácara Belém + APP;SP;853;1316
+2021;CDP I Osasco;SP;833;1534
+2021;CDP I PACAEMBU;SP;823;1053
+2021;CDP I Pinheiros;SP;521;724
+2021;"CDP II ""ASP Paulo Gilberto de Araújo"" da Chácara Belém + APP";SP;844;1592
+2021;"CDP II ""ASP Paulo Gilberto de Araújo"" da Chácara Belém + APP - MONITORAMENTO ELETRONICO - DOMICILIAR";SP;NA;1
+2021;CDP II Guarulhos;SP;841;1047
+2021;CDP II Osasco;SP;833;1545
+2021;CDP II PACAEMBU;SP;823;1323
+2021;CDP II Pinheiros;SP;793;1492
+2021;CDP III de Pinheiros;SP;572;1155
+2021;CDP Itapecerica da Serra + APP;SP;845;1499
+2021;CDP IV de Pinheiros;SP;566;849
+2021;CDP LAVINIA;SP;NA;1040
+2021;CDP Mauá;SP;630;977
+2021;CDP PAULO DE FARIA;SP;770;712
+2021;CDP Santo André;SP;534;675
+2021;CDP São Bernardo do Campo;SP;844;1087
+2021;CDP Vila Independência;SP;822;1488
+2021;Centro de  Ressocialização  Feminino de  Rio Claro + ARSA;SP;NA;89
+2021;Centro de  Ressocialização de Itapetininga;SP;NA;231
+2021;Centro de  Ressocialização Masculino de Atibaia;SP;NA;191
+2021;Centro de  Ressocialização Masculino de Bragança Paulista + ARSA;SP;67;252
+2021;Centro de  Ressocialização Masculino de Sumaré + ARSA;SP;NA;205
+2021;Centro de Detenção Provisória Álvaro de Carvalho;SP;821;672
+2021;Centro de Detenção Provisória de Americana;SP;640;885
+2021;Centro de Detenção Provisória de Campinas;SP;822;1281
+2021;Centro de Detenção Provisória de Hortolândia;SP;844;1303
+2021;Centro de Detenção Provisória de Icém;SP;NA;532
+2021;Centro de Detenção Provisória de Itatinga;SP;847;859
+2021;Centro de Detenção Provisória de Limeira;SP;823;1521
+2021;Centro de Detenção Provisória de Piracicaba + APP;SP;514;835
+2021;Centro de Detenção Provisória de Pontal;SP;847;805
+2021;Centro de Detenção Provisória de Sorocaba;SP;712;863
+2021;Centro de Detenção Provisória Jundiaí;SP;847;1072
+2021;Centro de Detenção Provisória l de Chácara Belém - CDPB - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;1
+2021;Centro de Detenção Provisória Nova Independência;SP;NA;1017
+2021;Centro de Progressão Penitenciária de Hortolândia;SP;NA;1819
+2021;Centro de Progressão Penitenciária de Jardinópolis;SP;NA;1601
+2021;Centro de Progressão Penitenciária de Jardinópolis - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;21
+2021;Centro de Progressão Penitenciária de Porto Feliz;SP;NA;1005
+2021;"Centro de Progressão Penitenciária I ""Dr Alberto Brocchieri"" de Bauru";SP;NA;2422
+2021;"Centro de Progressão Penitenciária II ""Dr Eduardo de Oliveira Vianna"" de Bauru";SP;NA;2453
+2021;"Centro de Progressão Penitenciária III ""Prof. Noé Azevedo"" de Bauru";SP;NA;345
+2021;"Centro de Progressão Penitenciária III ""Prof. Noé Azevedo"" de Bauru - MONITORAMENTO ELETRÔNICO - DOMICILIAR";SP;NA;1
+2021;"Centro de Readaptação Penitenciária "" Dr. José Isamael Pedrosa"" de Presidente Bernardes";SP;NA;56
+2021;"Centro de Ressocialização ""Dr João Eduardo Franco Perlati"" de Jaú + ARSA";SP;NA;208
+2021;"Centro de Ressocialização ""Dr Mauro de Macedo"" de Avaré + ARSA";SP;0;216
+2021;"Centro de Ressocialização ""Dt Manoel Carlos Muniz"" de Lins + ARSA";SP;NA;195
+2021;Centro de Ressocialização de Araraquara + ARSA;SP;NA;208
+2021;Centro de Ressocialização de Marília;SP;NA;228
+2021;Centro de Ressocialização de Ourinhos + ARSA;SP;0;135
+2021;Centro de Ressocialização Feminino de Araraquara + ARSA;SP;10;91
+2021;Centro de Ressocialização Feminino de São José dos Campos + ARSA;SP;NA;144
+2021;"Centro Progressão Penitenciária ""Prof.Ataliba Nogueira"" de Campinas";SP;NA;2277
+2021;"CPP ""Dr Javert de Andrade"" de São José do Rio Preto";SP;0;1868
+2021;"CPP ""Dr Javert de Andrade"" de São José do Rio Preto - MONITORAMENTO ELETRÔNICO - DOMICILIAR";SP;NA;5
+2021;"CPP ""Dr Rubens Aleixo Sendin"" de Mongaguá";SP;NA;2247
+2021;"CPP ""Dr. Edgard Magalhães Noronha"" de Tremembé";SP;NA;2765
+2021;CPP de Pacaembu;SP;NA;1235
+2021;CPP de Valparaíso;SP;NA;1206
+2021;"CPP Feminino ""Dra. Marina Marigo Cardoso de Oliveira"" de Butantan";SP;NA;920
+2021;CPP Feminino de São Miguel Paulista;SP;NA;151
+2021;CPP Franco da Rocha;SP;0;2073
+2021;"CR ""Dr. Luis Gonzaga de Arruda Campos"" de Rio Claro + ARSA";SP;NA;96
+2021;"CR ""Prefeito João Missaglia"" de Mogi Mirim + ARSA";SP;NA;206
+2021;CR de Araçatuba + ARSA;SP;71;221
+2021;CR de Birigui + ARSA;SP;0;214
+2021;CR de Limeira + ARSA;SP;70;261
+2021;CR de Mococa;SP;NA;194
+2021;CR de Presidente Prudente + ARSA;SP;71;225
+2021;"CR Feminino ""Carlos Sidnes de Souza Cantarelli"" de Piracicaba";SP;NA;76
+2021;CR Feminino de São José do Rio Preto + ARSA;SP;63;163
+2021;"Hospital  de Custódia e Tratamento Psiquiátrico ""Prof. André Teixeira Lima"" de Franco da Rocha";SP;NA;637
+2021;"Hospital de Custódia e Tratamento Psiquiátrico ""Dr. Arnaldo Amado Ferreira""";SP;NA;376
+2021;Hospital de Custódia e Tratamento Psiquiátrico II de Franco da Rocha;SP;0;1
+2021;"Pen. Feminina I  ""Santa Maria Eufrásia Pelettier"" de Tremembé + APP";SP;108;405
+2021;Penit.  II de São Vicente +APP;SP;NA;1748
+2021;"Penit. ""Dr. Geraldo de Andrade Vieira"" de São Vicente I + APP";SP;0;1700
+2021;"Penit. ""Dr. José Augusto César Salgado"" de Tremembé + APP";SP;0;478
+2021;"Penit. ""Dr. José Augusto César Salgado"" de Tremembé + APP - MONITORAMENTO ELETRÔNICO - DOMICILIAR";SP;NA;1
+2021;"Penit. ""Dr. Tarcizo Leonce Pinheiro Cintra"" de Tremembé + APP";SP;NA;2184
+2021;Penit. Feminina da Capital;SP;0;496
+2021;Penit. Feminina de Tupi Paulista + APP;SP;359;769
+2021;Penit. Feminina II de Tremembé + APP;SP;NA;587
+2021;"Penit. I ""Dr. Antônio de Queiróz Filho"" de Itirapina + ARSA";SP;NA;755
+2021;"Penit. I ""José Parada Neto"" de Guarulhos + ARSA";SP;NA;2266
+2021;"Penit. I ""Mário Moura Albuquerque"" de Franco da Rocha + APP";SP;NA;1784
+2021;"Penit. I ""Mário Moura Albuquerque"" de Franco da Rocha + APP - MONITORAMENTO ELETRONICO - DOMICILIAR";SP;NA;1
+2021;"Penit. I ""Nelson Vieira"" de Guareí";SP;NA;1558
+2021;Penit. II de Serra Azul;SP;NA;1534
+2021;"Penit. III ""ASP Paulo Guimarães"" de Lavínia";SP;NA;1509
+2021;Penit. III de Hortolândia;SP;NA;1273
+2021;Penit. Parelheiros;SP;0;694
+2021;"Penitenciária ""Cabo PM Marcelo Pires da Silva"" de Itaí + APP";SP;0;1914
+2021;"Penitenciária ""Dr Walter Faria Pereira de Queiroz"" de Pirajuí I";SP;NA;563
+2021;"Penitenciária ""Dr. Antonio de Souza Neto"" de Sorocaba II + APP";SP;NA;1819
+2021;"Penitenciária ""Dr. Danilo Pinheiro"" de Sorocaba I + ARSA";SP;NA;952
+2021;"Penitenciária ""Dr. Sebastião Martins Silveira"" de Araraquara + ADP";SP;496;2086
+2021;"Penitenciária ""Gilmar Monteiro de Souza"" de Balbinos";SP;0;1490
+2021;"Penitenciária ""João Batista de Arruda Sampaio"" de Itirapina  II + APP";SP;NA;2333
+2021;"Penitenciária ""Joaquim de Sylos Cintra"" de Casa Branca";SP;NA;1671
+2021;"Penitenciária ""Luiz Gonzaga Vieira"" de Pirajuí II";SP;0;1778
+2021;"Penitenciária ""Odete Leite de Campos Critter""de Hortolândia II";SP;NA;1511
+2021;"Penitenciária ""Orlando Brando Filinto"" de Iaras + APP";SP;NA;2672
+2021;"Penitenciária ""Osiris Souza e Silva"" de Getulina";SP;NA;1501
+2021;"Penitenciária ""Rodrigo dos Santos Freitas"" de Balbinos";SP;NA;1422
+2021;"Penitenciária ""Sargento PM Luiz Antonio de Souza"" de Reginópolis";SP;NA;1405
+2021;"Penitenciária ""Tenente PM José Alfredo Cintra Borin"" de Reginópolis";SP;NA;1368
+2021;"Penitenciária ""Valentim Alves da Silva"" de Álvaro de Carvalho + APP";SP;0;1793
+2021;Penitenciária de Andradina;SP;0;1752
+2021;Penitenciária de Assis + ADP;SP;288;1279
+2021;Penitenciária de Avanhandava;SP;NA;1374
+2021;Penitenciária de Bernardino de Campos;SP;0;1488
+2021;Penitenciária de Caiuá;SP;NA;1364
+2021;Penitenciária de Capela do Alto;SP;NA;1548
+2021;Penitenciária de Cerqueira César;SP;NA;1517
+2021;Penitenciária de Dracena;SP;844;1273
+2021;Penitenciária de Feminina de Ribeirão Preto + APP;SP;NA;102
+2021;Penitenciária de Flórida Paulista;SP;NA;1455
+2021;Penitenciária de Florínea;SP;NA;1495
+2021;Penitenciária de Franca;SP;NA;1576
+2021;Penitenciária de Guareí II;SP;NA;1613
+2021;Penitenciária de Iperó + APP + ADP;SP;344;3023
+2021;Penitenciária de Irapuru;SP;NA;1396
+2021;Penitenciária de Junqueirópolis;SP;0;1604
+2021;Penitenciária de Lucélia + APP;SP;NA;2548
+2021;Penitenciária de Mairinque;SP;NA;1572
+2021;Penitenciária de Marabá Paulista;SP;NA;1129
+2021;Penitenciária de Marília + ARSA;SP;0;1430
+2021;Penitenciária de Martinópolis;SP;NA;1510
+2021;Penitenciária de Osvaldo Cruz;SP;NA;1411
+2021;Penitenciária de Pacaembu;SP;0;1402
+2021;Penitenciária de Paraguaçu Paulista;SP;NA;1301
+2021;Penitenciária de Piracicaba;SP;NA;1549
+2021;Penitenciária de Pracinha;SP;NA;1312
+2021;Penitenciária de Presidente Bernardes;SP;0;2351
+2021;Penitenciária de Presidente Prudente + ARSA;SP;NA;1563
+2021;Penitenciária de Presidente Prudente + ARSA - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;4
+2021;Penitenciária de Registro;SP;NA;1033
+2021;Penitenciária de Ribeirão Preto + APP;SP;0;1738
+2021;Penitenciária de Riolândia;SP;0;1308
+2021;Penitenciária de Taquarituba;SP;NA;1488
+2021;Penitenciária de Tupi Paulista;SP;0;1476
+2021;Penitenciária de Valparaiso;SP;0;1588
+2021;"Penitenciária Feminina ""Sandra Aparecida Lário Vianna"" de Pirajuí + APP";SP;0;680
+2021;Penitenciária Feminina de Campinas;SP;NA;330
+2021;Penitenciária Feminina de Guariba + APP;SP;NA;721
+2021;Penitenciária Feminina de Mogi Guaçu + APP;SP;NA;599
+2021;Penitenciária Feminina Sant'Ana;SP;0;1682
+2021;Penitenciária Feminina Votorantim + APP;SP;NA;657
+2021;"Penitenciária I ""Nestor Canoa""  de Mirandópolis + ARSA";SP;0;2734
+2021;"Penitenciária I ""Paulo Luciano Campos"" de Avaré";SP;NA;644
+2021;"Penitenciária I ""Zwinglio Ferreira"" de Presidente Venceslau + APP";SP;NA;412
+2021;Penitenciária I de Itapetininga + APP;SP;NA;1700
+2021;Penitenciária I de Lavínia;SP;0;1299
+2021;Penitenciária I de Potim;SP;NA;1632
+2021;Penitenciária I de Serra Azul;SP;NA;1528
+2021;"Penitenciária II ""ASP Lindolfo Terçariol Filho"" de Mirandópolis";SP;0;2185
+2021;"Penitenciária II ""Nelson Marcondes do Amaral"" de Avaré";SP;0;1055
+2021;Penitenciária II de Itapetininga + APP;SP;NA;1376
+2021;Penitenciária II de Lavinia;SP;0;1512
+2021;Penitenciária II de Potim + APP;SP;0;1884
+2021;Penitenciária II de Pres. Venceslau;SP;0;570
+2021;"Pent. II ""Desembargador Adriano Marrey"" de Guarulhos";SP;NA;2228
+2021;"Pent. II ""Nilton Silva"" de Franco da Rocha";SP;NA;1631
+2021;Pent. III Franco da Rocha;SP;NA;1537
+2021;CENTRAL DE MONITORAMENTO ELETRÔNICO DE PESSOAS - MONITORAMENTO ELETRÔNICO DOMICILIAR;TO;NA;533
+2021;FAZENDA AGROPECUÁRIA PENAL DE CARIRI;TO;0;14
+2021;UNIDADE DE TRATAMENTO PENAL REGIONAL BARRA DA GROTA - ARAGUAÍNA;TO;NA;509
+2021;UNIDADE PENAL DE ARAGUAÍNA;TO;80;230
+2021;UNIDADE PENAL DE AUGUSTINÓPOLIS;TO;61;128
+2021;UNIDADE PENAL DE BARROLÂNDIA;TO;16;71
+2021;UNIDADE PENAL DE COLINAS;TO;24;104
+2021;UNIDADE PENAL DE COLMÉIA;TO;15;40
+2021;UNIDADE PENAL DE FORMOSO DO ARAGUAIA;TO;10;47
+2021;UNIDADE PENAL DE GURUPI;TO;87;91
+2021;UNIDADE PENAL DE MIRACEMA;TO;50;110
+2021;UNIDADE PENAL DE NATIVIDADE;TO;36;27
+2021;UNIDADE PENAL DE PALMEIRÓPOLIS;TO;16;50
+2021;UNIDADE PENAL DE PORTO NACIONAL;TO;40;155
+2021;UNIDADE PENAL DE TAGUATINGA;TO;20;79
+2021;UNIDADE PENAL DE TOCANTINÓPOLIS;TO;34;53
+2021;UNIDADE PENAL FEMININA DE ANANÁS;TO;8;30
+2021;UNIDADE PENAL FEMININA DE MIRANORTE;TO;24;3
+2021;UNIDADE PENAL FEMININA DE PALMAS;TO;NA;51
+2021;UNIDADE PENAL FEMININA DE TALISMÃ;TO;NA;30
+2021;UNIDADE PENAL REGIONAL DE ARAGUATINS;TO;46;88
+2021;UNIDADE PENAL REGIONAL DE ARRAIAS;TO;NA;93
+2021;UNIDADE PENAL REGIONAL DE DIANÓPOLIS;TO;24;70
+2021;UNIDADE PENAL REGIONAL DE GUARAÍ;TO;30;145
+2021;UNIDADE PENAL REGIONAL DE PALMAS;TO;NA;588
+2021;UNIDADE PENAL REGIONAL DE PARAÍSO;TO;100;313
+2021;UNIDADE REGIONAL DE SEGURANÇA MÁXIMA DE CARIRI;TO;28;451
+2021;Penitenciária Federal em Brasília;DF;0;31
+2021;Penitenciária Federal em Campo Grande;MS;NA;139
+2021;Penitenciária Federal em Catanduvas;PR;NA;118
+2021;Penitenciária Federal em Mossoró;RN;NA;116
+2021;Penitenciária Federal em Porto Velho;RO;0;145
+2021;NÚCLEO DE MONITORAMENTO ELETRÔNICO DOMICILIAR DE BRASILÉIA;AC;0;139
+2021;NÚCLEO DE MONITORAMENTO ELETRÔNICO DOMICILIAR DE CRUZEIRO DO SUL;AC;NA;123
+2021;NÚCLEO DE MONITORAMENTO ELETRÔNICO DOMICILIAR DE FEIJÓ;AC;40;245
+2021;NÚCLEO DE MONITORAMENTO ELETRONICO DOMICILIAR DE SENA MADUREIRA;AC;NA;186
+2021;NÚCLEO DE MONITORAMENTO ELETRÔNICO DOMICILIAR DE TARAUACÁ;AC;0;142
+2021;UNIDADE DE MONITORAMENTO ELETRÔNICO DOMICILIAR DE PRESOS;AC;NA;1485
+2021;UNIDADE DE RECOLHIMENTO PROVISÓRIO;AC;800;1706
+2021;UNIDADE DE REGIME FECHADO FEMININO;AC;32;230
+2021;UNIDADE DE REGIME FECHADO N1;AC;0;1410
+2021;UNIDADE DE REGIME FECHADO N2;AC;0;97
+2021;UNIDADE DE REGIME SEMIABERTO N1;AC;0;46
+2021;UNIDADE PENITENCIARIA DO QUINARI;AC;NA;447
+2021;UNIDADE PENITENCIARIA EVARISTO DE MORAES;AC;171;497
+2021;UNIDADE PENITENCIÁRIA FEMININA DE TARAUACÁ;AC;13;26
+2021;UNIDADE PENITENCIÁRIA GUIMARÃES LIMA;AC;18;18
+2021;UNIDADE PENITENCIARIA MANOEL NERI DA SILVA;AC;200;706
+2021;UNIDADE PENITENCIARIA MOACIR PRADO;AC;290;625
+2021;UNIDADE PENITENCIARIA N07;AC;NA;22
+2021;CASA DE CUSTÓDIA DE MACEIÓ;AL;240;273
+2021;CENTRO DE MONITORAMENTO ELETRÔNICO DE PRESOS - DOMICILIAR;AL;NA;1192
+2021;CENTRO PSIQUIÁTRICO JUDICIÁRIO PEDRO MARINHO SURUAGY;AL;NA;113
+2021;COLÔNIA AGROINDUSTRIAL SÃO LEONARDO - DOMICILIAR;AL;NA;5351
+2021;ESTABELECIMENTO PRISIONAL DE SEGURANÇA MÉDIA PROFESSOR CYRIDIÃO DURVAL E SILVA;AL;404;753
+2021;ESTABELECIMENTO PRISIONAL FEMININO SANTA LUZIA;AL;110;145
+2021;NÚCLEO RESSOCIALIZADOR DA CAPITAL;AL;NA;115
+2021;PENITENCIÁRIA DE SEGURANÇA MÁXIMA;AL;NA;635
+2021;PENITENCIÁRIA MASCULINA BALDOMERO CAVALCANTI DE OLIVEIRA;AL;NA;1661
+2021;PRESÍDIO DE SEGURANÇA MÁXIMA;AL;192;113
+2021;PRESÍDIO DO AGRESTE;AL;960;1002
+2021;CASA DO ALBERGADO - Capital - Domiciliar;AM;NA;1535
+2021;CENTRAL DE RECEBIMENTO E TRIAGEM;AM;20;66
+2021;CENTRO DE DETENÇÃO PROVISORIA DE MANAUS - DOMICILIAR;AM;0;4
+2021;CENTRO DE DETENÇÃO PROVISÓRIA DE MANAUS II;AM;571;923
+2021;CENTRO DE DETENÇÃO PROVISÓRIA DE MANAUS II - DOMICILIAR;AM;0;7
+2021;CENTRO DE DETENÇÃO PROVISORIO DE MANAUS - Capital;AM;548;1021
+2021;CENTRO DE DETENÇÃO PROVISÓRIO FEMININO - Capital;AM;180;125
+2021;CENTRO DE DETENÇÃO PROVISÓRIO FEMININO - DOMICILIAR;AM;0;75
+2021;CENTRO DE OPERAÇÕES E CONTROLE - MONITORAMENTO ELETRÔNICO - DOMICILIAR;AM;NA;1864
+2021;COMPAJ - SEMIABERTO MASCULINO - Capital - MONITORAMENTO ELETRÔNICO - DOMICILIAR;AM;NA;4205
+2021;COMPAJ FECHADO - DOMICILIAR;AM;0;41
+2021;COMPAJ-FECHADO - Capital;AM;0;885
+2021;ENFERMARIA PSQUIATRICA - Capital;AM;0;16
+2021;ENFERMARIA PSQUIATRICA - DOMICILIAR;AM;NA;1
+2021;INSTITUTO PENAL ANTONIO TRINDADE - Capital;AM;NA;711
+2021;INSTITUTO PENAL ANTONIO TRINDADE - DOMICILIAR;AM;NA;5
+2021;UNIDADE  PRISIONAL DO PURAQUEQUARA - Capital;AM;614;813
+2021;UNIDADE PRISIONAL DE COARI;AM;NA;107
+2021;UNIDADE PRISIONAL DE COARI - DOMICILIAR;AM;0;89
+2021;UNIDADE PRISIONAL DE HUMAITÁ;AM;18;91
+2021;UNIDADE PRISIONAL DE HUMAITÁ - DOMICILIAR;AM;0;89
+2021;UNIDADE PRISIONAL DE ITACOATIARA - FECHADO;AM;60;109
+2021;UNIDADE PRISIONAL DE ITACOATIARA - FECHADO - DOMICILIAR;AM;0;1
+2021;UNIDADE PRISIONAL DE MAUÉS;AM;NA;39
+2021;UNIDADE PRISIONAL DE MAUÉS - DOMICILIAR;AM;0;95
+2021;UNIDADE PRISIONAL DE PARINTINS;AM;18;49
+2021;UNIDADE PRISIONAL DE PARINTINS - DOMICILIAR;AM;0;88
+2021;UNIDADE PRISIONAL DE TABATINGA;AM;70;125
+2021;UNIDADE PRISIONAL DE TABATINGA - DOMICILIAR;AM;0;244
+2021;UNIDADE PRISIONAL DE TEFÉ;AM;42;98
+2021;UNIDADE PRISIONAL DE TEFÉ - DOMICILIAR;AM;0;88
+2021;UNIDADE PRISIONAL DO PURAQUEQUARA - DOMICILIAR;AM;0;55
+2021;UNIDADE PRISIONAL MISTA - ITACOATIARA;AM;NA;3
+2021;UNIDADE PRISIONAL MISTA - ITACOATIARA - DOMICILIAR;AM;0;65
+2021;UNIDADE PRISIONAL SEMIABERTO FEMININO - MONITORAMENTO ELETRÔNICO - DOMICILIAR;AM;NA;256
+2021;CCE - Centro de Custódia Especial;AP;12;16
+2021;CCO - Centro de Custódia do Oiapoque;AP;52;20
+2021;Central de Monitoramento Eletrônico Domiciliar;AP;NA;688
+2021;Centro de Custódia |Novo Horizonte;AP;0;19
+2021;COCEC - COORDENADORIA DO CENTRO DE CUSTÓDIA - CADEÃO;AP;400;750
+2021;COLPE - Colônia Penal;AP;0;224
+2021;COPEF - Penitenciária Feminina;AP;47;77
+2021;COPEMA - Penitenciária Masculina;AP;NA;1294
+2021;Cadeia Pública de Salvador;BA;832;1011
+2021;Casa do Albergado e Egresso;BA;NA;82
+2021;Central de Monitoração Eletrônica de Pessoas - Monitoramento Eletrônico Domiciliar;BA;NA;1308
+2021;Central Médica Penitenciária;BA;NA;2
+2021;Centro de Observação Penal;BA;NA;108
+2021;Colônia Agrícola Lafayete Coutinho;BA;NA;260
+2021;Colônia Penal de Simões Filho;BA;NA;219
+2021;Conjunto Penal Advogado Nilton Gonçalves - Vitória da Conquista;BA;48;187
+2021;Conjunto Penal de Barreiras;BA;297;472
+2021;Conjunto Penal de Eunápolis;BA;228;566
+2021;Conjunto Penal de Feira de Santana;BA;730;1793
+2021;Conjunto Penal de Itabuna;BA;258;842
+2021;Conjunto Penal de Jequié;BA;NA;517
+2021;Conjunto Penal de Juazeiro;BA;0;1052
+2021;Conjunto Penal de Lauro de Freitas;BA;NA;511
+2021;Conjunto Penal de Paulo Afonso;BA;288;477
+2021;Conjunto Penal de Serrinha;BA;332;425
+2021;Conjunto Penal de Teixeira de Freitas;BA;138;522
+2021;Conjunto Penal de Valença;BA;156;297
+2021;Conjunto Penal de Vitória da Conquista;BA;403;774
+2021;Conjunto Penal Feminino;BA;NA;96
+2021;Conjunto Penal Masculino de Salvador;BA;206;604
+2021;Hospital de Custódia e Tratamento;BA;60;162
+2021;Penitenciária Lemos Brito;BA;NA;1084
+2021;Presídio de Salvador;BA;686;747
+2021;Presídio Regional Ariston Cardoso - Ilhéus;BA;180;87
+2021;Unidade Prisional Extraordinária;BA;NA;8
+2021;CADEIA PÚBLICA DE ACOPIARA;CE;47;38
+2021;CADEIA PÚBLICA DE CARIDADE;CE;37;49
+2021;CADEIA PÚBLICA DE CEDRO;CE;60;43
+2021;CADEIA PÚBLICA DE FORTIM;CE;34;49
+2021;CADEIA PÚBLICA DE GRANJA;CE;28;74
+2021;CADEIA PÚBLICA DE ICO;CE;47;65
+2021;CADEIA PÚBLICA DE JUAZEIRO DO NORTE;CE;272;531
+2021;CADEIA PÚBLICA DE NOVO ORIENTE;CE;35;50
+2021;CADEIA PÚBLICA DE TRAIRI;CE;53;25
+2021;CADEIA PÚBLICA FEMININA DE CRATO;CE;36;92
+2021;CADEIA PÚBLICA FEMININA DE SOBRAL;CE;NA;61
+2021;CASA DE PRISÃO PROVISÓRIA DE LIBERDADE AGENTE PENITENCIÁRIO ELIAS ALVES DA SILVA;CE;980;1956
+2021;CASA DE PRISÃO PROVISÓRIA DE LIBERDADE PROFESSOR CLODOALDO PINTO;CE;922;1908
+2021;CASA DE PRISÃO PROVISÓRIA DE LIBERDADE PROFESSOR JOSÉ JUCÁ NETO;CE;351;1680
+2021;CÉLULA DE MONITORAÇÃO ELETRÔNICA DE PESSOAS DOMICILIAR;CE;NA;6917
+2021;CENTRO DE DETENÇÃO PROVISÓRIA;CE;400;1609
+2021;CENTRO DE EXECUÇÃO PENAL E INTEGRAÇÃO SOCIAL VASCO DAMASCENO WEYNE;CE;1032;1905
+2021;CENTRO DE EXECUÇÃO PENAL E INTEGRAÇÃO SOCIAL VASCO DAMASCENO WEYNE - ANEXO;CE;960;1663
+2021;CENTRO DE TRIAGEM E OBSERVAÇÃO CRIMINOLÓGICA DE AQUIRAZ;CE;376;737
+2021;HOSPITAL SANATÓRIO PENAL PROFESSOR OTÁVIO LOBO;CE;NA;25
+2021;INSTITUTO PENAL FEMININO DESEMBARGADORA AURI MOURA COSTA;CE;NA;810
+2021;INSTITUTO PENAL FRANCISCO HELIO VIANA DE ARAUJO;CE;453;1458
+2021;INSTITUTO PRESIDIO PROFESSOR OLAVO OLIVEIRA II;CE;672;1727
+2021;INSTITUTO PSIQUIÁTRICO GOVERNADOR STÊNIO GOMES;CE;NA;164
+2021;NÚCLEO DA CASA DO ALBERGADO DOMICILIAR;CE;NA;6794
+2021;PENITENCIÁRIA INDUSTRIAL REGIONAL DE SOBRAL;CE;NA;1466
+2021;PENITENCIARIA INDUSTRIAL REGIONAL DO CARIRI;CE;0;1181
+2021;UNIDADE DE SEGURANÇA MAXIMA;CE;42;99
+2021;UNIDADE PRISIONAL AGENTE PENITENCIÁRIO LUCIANO ANDRADE LIMA;CE;450;784
+2021;UNIDADE PRISIONAL DESEMBARGADOR FRANCISCO ADALBERTO OLIVEIRA BARROS LEAL;CE;416;963
+2021;UNIDADE PRISIONAL IRMÃ IMELDA LIMA PONTES;CE;163;203
+2021;UNIDADE PRISIONAL PROFESSOR JOSÉ SOBREIRA AMORIM;CE;NA;1674
+2021;CENTRO DE DETENÇÃO PROVISÓRIA I;DF;1000;1388
+2021;CENTRO DE DETENÇÃO PROVISÓRIA II;DF;1632;1167
+2021;CENTRO DE INTERNAMENTO E REEDUCAÇÃO;DF;24;3743
+2021;CENTRO DE PROGRESSÃO PENITENCIÁRIA;DF;NA;1439
+2021;CENTRO INTEGRADO DE MONITORAMENTO ELETRÔNICO - DOMICILIAR;DF;0;1176
+2021;GERÊNCIA DE FISCALIZAÇÃO DE CUSTODIADOS - DOMICILIAR;DF;NA;11829
+2021;PENITENCIÁRIA DO DISTRITO FEDERAL I;DF;0;3398
+2021;PENITENCIÁRIA DO DISTRITO FEDERAL II;DF;NA;3265
+2021;PENITENCIÁRIA FEMININA DO DISTRITO FEDERAL;DF;128;711
+2021;CASCUVV - CASA DE CUSTÓDIA DE VILA VELHA;ES;NA;552
+2021;CASCUVV - CASA DE CUSTÓDIA DE VILA VELHA - DOMICILIAR;ES;NA;26
+2021;CDPA - CENTRO DE DETENÇÃO PROVISÓRIA DE ARACRUZ;ES;240;492
+2021;CDPA - CENTRO DE DETENÇÃO PROVISÓRIA DE ARACRUZ - DOMICILIAR;ES;1;1
+2021;CDPCI - CENTRO DE DETENÇÃO PROVISÓRIA DE CACHOEIRO DE ITAPEMIRIM;ES;224;440
+2021;CDPCOL - CENTRO DE DETENÇÃO PROVISÓRIA DE COLATINA;ES;534;582
+2021;CDPCOL - CENTRO DE DETENÇÃO PROVISÓRIA DE COLATINA - DOMICILIAR;ES;NA;3
+2021;CDPG - CENTRO DE DETENÇÃO PROVISÓRIA DE GUARAPARI;ES;580;1092
+2021;CDPM - CENTRO DE DETENÇÃO PROVISÓRIA DE MARATAÍZES;ES;228;346
+2021;CDPS - CENTRO DE DETENÇÃO PROVISÓRIA DE SERRA;ES;548;985
+2021;CDPS - CENTRO DE DETENÇÃO PROVISÓRIA DE SERRA - DOMICILIAR;ES;4;4
+2021;CDPSDN - CENTRO DE DETENÇÃO PROVISÓRIA DE SÃO DOMINGOS DO NORTE;ES;228;440
+2021;CDPSM - CENTRO DE DETENÇÃO PROVISÓRIA DE SÃO MATEUS;ES;352;601
+2021;CDPSM - CENTRO DE DETENÇÃO PROVISÓRIA DE SÃO MATEUS - DOMICILIAR;ES;0;4
+2021;CDPV 2 - CENTRO DE DETENÇÃO PROVISÓRIA DE VIANA 2;ES;915;1287
+2021;CDPV 2 - CENTRO DE DETENÇÃO PROVISÓRIA DE VIANA 2 - DOMICILIAR;ES;2;2
+2021;CDPVV - CENTRO DE DETENÇÃO PROVISÓRIA DE VILA VELHA;ES;534;1057
+2021;CDPVV - CENTRO DE DETENÇÃO PROVISÓRIA DE VILA VELHA - DOMICILIAR;ES;3;3
+2021;CDRL - CENTRO DE DETENÇÃO DE RESSOCIALIZAÇÃO DE LINHARES;ES;NA;763
+2021;CPFC - CENTRO PRISIONAL FEMININO DE CARIACICA;ES;156;478
+2021;CPFC - CENTRO PRISIONAL FEMININO DE CARIACICA - DOMICILIAR;ES;NA;80
+2021;CPFCI - CENTRO PRISIONAL FEMININO DE CACHOEIRO DE ITAPEMIRIM;ES;72;184
+2021;CPFCI - CENTRO PRISIONAL FEMININO DE CACHOEIRO DE ITAPEMIRIM - DOMICILIAR;ES;NA;20
+2021;CPFCOL - CENTRO PRISIONAL FEMININO DE COLATINA;ES;144;325
+2021;CPFCOL - CENTRO PRISIONAL FEMININO DE COLATINA - DOMICILIAR;ES;NA;16
+2021;CTV - CENTRO DE TRIAGEM DE VIANA;ES;176;292
+2021;DIRETORIA DE MOVIMENTAÇÃO CARCERÁRIA E MONITORAMENTO ELETRÔNICO - DOMICILIAR;ES;0;758
+2021;PAES - PENITENCIÁRIA AGRÍCOLA DO ESPÍRITO SANTO;ES;NA;745
+2021;PAES - PENITENCIÁRIA AGRÍCOLA DO ESPÍRITO SANTO - DOMICILIAR;ES;NA;1
+2021;PEVV 1 - PENITENCIÁRIA ESTADUAL DE VILA VELHA 1 - DOMICILIAR;ES;NA;2
+2021;PEVV 2 - PENITENCIÁRIA ESTADUAL DE VILA VELHA 2;ES;NA;1386
+2021;PEVV 3 - PENITENCIÁRIA ESTADUAL DE VILA VELHA 3;ES;NA;1466
+2021;PEVV 5 - PENITENCIÁRIA ESTADUAL DE VILA VELHA 5;ES;NA;1149
+2021;PEVV 5 - PENITENCIÁRIA ESTADUAL DE VILA VELHA 5 - DOMICILIAR;ES;NA;2
+2021;PEVV 1 - PENITENCIÁRIA ESTADUAL DE VILA VELHA 1;ES;620;1198
+2021;PRBSF - PENITENCIÁRIA REGIONAL DE BARRA DE SÃO FRANCISCO;ES;NA;200
+2021;PRBSF - PENITENCIÁRIA REGIONAL DE BARRA DE SÃO FRANCISCO - DOMICILIAR;ES;NA;2
+2021;PRCI - PENITENCIÁRIA REGIONAL DE CACHOEIRO DE ITAPEMIRIM;ES;NA;1063
+2021;PRCI - PENITENCIÁRIA REGIONAL DE CACHOEIRO DE ITAPEMIRIM - DOMICILIAR;ES;0;3
+2021;PRL - PENITENCIÁRIA REGIONAL DE LINHARES;ES;40;821
+2021;PRL - PENITENCIÁRIA REGIONAL DE LINHARES - DOMICILIAR;ES;NA;3
+2021;PRSM - PENITENCIÁRIA REGIONAL DE SÃO MATEUS;ES;44;741
+2021;PRSM - PENITENCIÁRIA REGIONAL DE SÃO MATEUS - DOMICILIAR;ES;5;10
+2021;PSC - PENITENCIÁRIA SEMIABERTA DE CARIACICA;ES;NA;369
+2021;PSC - PENITENCIÁRIA SEMIABERTA DE CARIACICA - DOMICILIAR;ES;NA;4
+2021;PSMA 1 - PENITENCIÁRIA DE SEGURANÇA MÁXIMA 1;ES;NA;1119
+2021;PSMA 2 - PENITENCIÁRIA DE SEGURANÇA MÁXIMA 2;ES;333;161
+2021;PSMCOL - PENITENCIÁRIA SEMIABERTA MASCULINA DE COLATINA;ES;NA;348
+2021;PSME 1 - PENITENCIÁRIA DE SEGURANÇA MÉDIA 1;ES;NA;243
+2021;PSME 2 - PENITENCIÁRIA DE SEGURANÇA MÉDIA 2;ES;80;221
+2021;PSMECOL - PENITENCIÁRIA SEGURANÇA MÉDIA DE COLATINA;ES;NA;586
+2021;PSVV - PENITENCIÁRIA SEMIABERTA DE VILA VELHA;ES;NA;1560
+2021;PSVV - PENITENCIÁRIA SEMIABERTA DE VILA VELHA - DOMICILIAR;ES;NA;139
+2021;UCTP - UNIDADE DE CUSTÓDIA E TRATAMENTO PSIQUIÁTRICO;ES;13;66
+2021;Casa de Prisão Provisória de Aparecida de Goiânia;GO;2516;2832
+2021;Casa de Prisão Provisória de Formosa;GO;66;317
+2021;Casa de Prisão Provisória de Luziânia;GO;116;288
+2021;Casa de Prisão Provisória de Rio Verde;GO;317;468
+2021;Casa do Albergado Ministro Guimarães Natal / Triagem;GO;NA;2288
+2021;Central de Triagem de Aparecida de Goiânia;GO;212;219
+2021;Colônia Agroindustrial do Regime Semiaberto/ Triagem;GO;218;188
+2021;Penitenciária Coronel Odenir Guimarães;GO;0;944
+2021;"Penitenciária Feminina ""Consuelo Nasser""";GO;NA;65
+2021;Penitenciária Masculina de Luziânia;GO;17;396
+2021;Seção Integrada de Monitoração/Domiciliar;GO;NA;5564
+2021;Unidade Prisional  Estadual de Formosa;GO;NA;281
+2021;Unidade Prisional Especial de Planaltina;GO;48;215
+2021;Unidade Prisional Especial Núcleo de Custódia;GO;42;65
+2021;Unidade Prisional Estadual de Aguas Lindas;GO;0;257
+2021;Unidade Prisional Estadual de Anápolis;GO;5;239
+2021;Unidade Prisional Feminina de Corumbaíba;GO;32;37
+2021;Unidade Prisional Goianésia;GO;0;245
+2021;Unidade Prisional Regional  de Corumbá;GO;25;85
+2021;Unidade Prisional Regional  de Inhumas;GO;53;111
+2021;Unidade Prisional Regional  de Rialma;GO;25;130
+2021;Unidade Prisional Regional  de Sanclerlândia;GO;39;83
+2021;Unidade Prisional Regional de  Caiapônia;GO;24;85
+2021;Unidade Prisional Regional de Acreúna;GO;8;131
+2021;Unidade Prisional Regional de Águas Lindas;GO;100;847
+2021;Unidade Prisional Regional de Alexânia;GO;32;271
+2021;Unidade Prisional Regional de Alto Paraiso;GO;40;90
+2021;Unidade Prisional Regional de Anápolis;GO;NA;594
+2021;Unidade Prisional Regional de Anicuns;GO;90;49
+2021;Unidade Prisional Regional de Aragarças;GO;43;207
+2021;Unidade Prisional Regional de Bela Vista;GO;0;119
+2021;Unidade Prisional Regional de Buriti Alegre;GO;21;48
+2021;Unidade Prisional Regional de Cachoeira Alta;GO;43;131
+2021;Unidade Prisional Regional de Caldas Novas;GO;160;679
+2021;Unidade Prisional Regional de Campos Belos;GO;46;68
+2021;Unidade Prisional Regional de Catalão;GO;172;258
+2021;Unidade Prisional Regional de Ceres;GO;62;143
+2021;Unidade Prisional Regional de Cidade Ocidental;GO;NA;299
+2021;Unidade Prisional Regional de Cristalina;GO;73;92
+2021;Unidade Prisional Regional de Edéia;GO;32;88
+2021;Unidade Prisional Regional de Estrela do Norte;GO;23;33
+2021;Unidade Prisional Regional de Goianápolis;GO;15;152
+2021;Unidade Prisional Regional de Goianira;GO;NA;95
+2021;Unidade Prisional Regional de Goiás;GO;43;109
+2021;Unidade Prisional Regional de Goiatuba;GO;46;172
+2021;Unidade Prisional Regional de Indiara;GO;20;162
+2021;Unidade Prisional Regional de Ipameri;GO;43;94
+2021;Unidade Prisional Regional de Iporá;GO;NA;248
+2021;Unidade Prisional Regional de Itaberaí;GO;90;132
+2021;Unidade Prisional Regional de Itapuranga;GO;60;79
+2021;Unidade Prisional Regional de Itauçu;GO;15;100
+2021;Unidade Prisional Regional de Itumbiara;GO;302;385
+2021;Unidade Prisional Regional de Jaraguá;GO;63;194
+2021;Unidade Prisional Regional de Jataí;GO;NA;378
+2021;Unidade Prisional Regional de Joviânia;GO;NA;25
+2021;Unidade Prisional Regional de Jussara;GO;20;102
+2021;Unidade Prisional Regional de Minaçu;GO;64;153
+2021;Unidade Prisional Regional de Mineiros;GO;190;405
+2021;Unidade Prisional Regional de Morrinhos;GO;0;296
+2021;Unidade Prisional Regional de Mozarlândia;GO;36;110
+2021;Unidade Prisional Regional de Niquelândia;GO;NA;184
+2021;Unidade Prisional Regional de Nova Crixás;GO;37;43
+2021;Unidade Prisional Regional de Novo Gama;GO;106;242
+2021;Unidade Prisional Regional de Padre Bernardo;GO;98;162
+2021;Unidade Prisional Regional de Palmeiras de Goiás;GO;0;112
+2021;Unidade Prisional Regional de Paranaiguara;GO;42;49
+2021;Unidade Prisional Regional de Piracanjuba;GO;72;148
+2021;Unidade Prisional Regional de Pires do Rio;GO;85;134
+2021;Unidade Prisional Regional de Planaltina de Goiás;GO;120;655
+2021;Unidade Prisional Regional de Pontalina;GO;51;87
+2021;Unidade Prisional Regional de Porangatu;GO;100;166
+2021;Unidade Prisional Regional de Posse;GO;31;165
+2021;Unidade Prisional Regional de Quirinópolis;GO;0;250
+2021;Unidade Prisional Regional de Rio Verde;GO;NA;343
+2021;Unidade Prisional Regional de Rubiataba;GO;32;129
+2021;Unidade Prisional Regional de Santa Helena;GO;28;184
+2021;Unidade Prisional Regional de Santo Antônio do Descoberto;GO;64;775
+2021;Unidade Prisional Regional de São Luis de Montes Belos;GO;34;200
+2021;Unidade Prisional Regional de São Miguel do Araguaia;GO;32;186
+2021;Unidade Prisional Regional de Senador Canedo;GO;82;141
+2021;Unidade Prisional Regional de Serranópolis;GO;41;63
+2021;Unidade Prisional Regional de Silvânia;GO;20;89
+2021;Unidade Prisional Regional de Simolândia;GO;32;126
+2021;Unidade Prisional Regional de Trindade;GO;82;194
+2021;Unidade Prisional Regional de Uruaçu;GO;NA;260
+2021;Unidade Prisional Regional de Uruana;GO;15;78
+2021;Unidade Prisional Regional de Valparaíso;GO;226;309
+2021;Unidade Prisional Regional de Vianópolis;GO;18;68
+2021;Unidade Prisional Regional Feminina de Barro Alto;GO;32;56
+2021;Unidade Prisional Regional feminina de Orizona;GO;102;91
+2021;Unidade Prisional Regional semiaberto de Luziânia;GO;0;271
+2021;Unidade Regional Prisional Feminina de Araçú;GO;27;69
+2021;Unidade Regional Prisional Feminina de Formosa;GO;24;95
+2021;Unidade Regional Prisional Feminina de Israelândia;GO;33;65
+2021;Unidade Regional Prisional Feminina de Luziânia;GO;30;98
+2021;Unidade Regional Prisional Semiaberto de Rio Verde;GO;NA;264
+2021;Associação de Proteção e Assistência aos Condenados de Bacabal;MA;NA;32
+2021;Associação de Proteção e Assistência aos Condenados de Imperatriz;MA;NA;52
+2021;Associação de Proteção e Assistência aos Condenados de Itapecuru Mirim;MA;NA;33
+2021;Associação de Proteção e Assistência aos Condenados de Pedreiras;MA;NA;91
+2021;Associação de Proteção e Assistência aos Condenados de São Luís;MA;NA;57
+2021;Associação de Proteção e Assistência aos Condenados de Timon;MA;NA;64
+2021;Associação de Proteção e Assistência aos Condenados de Viana;MA;NA;46
+2021;Associação de Proteção e Assistência aos Condenados de Viana Feminina;MA;NA;19
+2021;Casa de Assistência ao Albergado e Egresso de São Luís;MA;NA;20
+2021;Centro de Observação Criminológica e Triagem de São Luís (Complexo de Pedrinhas);MA;276;217
+2021;Penitenciária Regional de Governador Nunes Freire;MA;125;204
+2021;Penitenciária Regional de Imperatriz;MA;NA;275
+2021;Penitenciária Regional de Pedreiras;MA;100;307
+2021;Penitenciária Regional de Pinheiro;MA;172;448
+2021;Penitenciária Regional de São Luís;MA;210;968
+2021;Penitenciária Regional de Timon;MA;NA;308
+2021;Supervisão de Monitoramento Eletrônico Domiciliar;MA;NA;1337
+2021;Unidade Prisional de Ressocialização de Açailândia;MA;100;292
+2021;Unidade Prisional de Ressocialização de Bacabal;MA;165;244
+2021;Unidade Prisional de Ressocialização de Balsas;MA;100;237
+2021;Unidade Prisional de Ressocialização de Barra do Corda;MA;15;58
+2021;Unidade Prisional de Ressocialização de Carolina;MA;32;52
+2021;Unidade Prisional de Ressocialização de Caxias;MA;57;284
+2021;Unidade Prisional de Ressocialização de Chapadinha;MA;58;128
+2021;Unidade Prisional de Ressocialização de Codó;MA;176;268
+2021;Unidade Prisional de Ressocialização de Colinas;MA;90;99
+2021;Unidade Prisional de Ressocialização de Coroatá;MA;115;223
+2021;Unidade Prisional de Ressocialização de Cururupu;MA;58;69
+2021;Unidade Prisional de Ressocialização de Davinópolis;MA;40;183
+2021;Unidade Prisional de Ressocialização de Grajaú;MA;30;62
+2021;Unidade Prisional de Ressocialização de Imperatriz;MA;289;483
+2021;Unidade Prisional de Ressocialização de Itapecuru-Mirim;MA;134;149
+2021;Unidade Prisional de Ressocialização de Paço do Lumiar;MA;NA;56
+2021;Unidade Prisional de Ressocialização de Pinheiro;MA;NA;68
+2021;Unidade Prisional de Ressocialização de Porto Franco;MA;99;78
+2021;Unidade Prisional de Ressocialização de Presidente Dutra;MA;NA;120
+2021;Unidade Prisional de Ressocialização de Rosário;MA;100;197
+2021;Unidade Prisional de Ressocialização de Santa Inês;MA;100;176
+2021;Unidade Prisional de Ressocialização de São João dos Patos;MA;120;115
+2021;Unidade Prisional de Ressocialização de São Luís 1 (Complexo de Pedrinhas);MA;NA;473
+2021;Unidade Prisional de Ressocialização de São Luís 2 (Complexo de Pedrinhas);MA;NA;838
+2021;Unidade Prisional de Ressocialização de São Luís 3 (Complexo de Pedrinhas);MA;140;380
+2021;Unidade Prisional de Ressocialização de São Luís 4 (Complexo de Pedrinhas);MA;40;147
+2021;Unidade Prisional de Ressocialização de São Luís 5 (Complexo de Pedrinhas);MA;NA;696
+2021;Unidade Prisional de Ressocialização de São Luís 6 (Complexo de Pedrinhas);MA;600;864
+2021;Unidade Prisional de Ressocialização de Timon;MA;166;400
+2021;Unidade Prisional de Ressocialização de Tutóia;MA;12;48
+2021;Unidade Prisional de Ressocialização de Viana;MA;36;130
+2021;Unidade Prisional de Ressocialização de Zé Doca;MA;70;111
+2021;Unidade Prisional de Ressocialização do Anil;MA;NA;133
+2021;Unidade Prisional de Ressocialização do Monte Castelo;MA;NA;142
+2021;Unidade Prisional de Ressocialização do Olho D'Água;MA;NA;144
+2021;Unidade Prisional de Ressocialização Feminina (Complexo de Pedrinhas);MA;150;294
+2021;Unidade Prisional de Ressocialização Godofredo Viana;MA;60;79
+2021;Unidade Prisional de Segurança Máxima;MA;NA;69
+2021;Apac  Itabirito;MG;NA;48
+2021;Apac Alfenas I;MG;NA;108
+2021;Apac Araxá I;MG;NA;106
+2021;Apac Arcos I;MG;NA;36
+2021;Apac Belo Horizonte I;MG;0;127
+2021;Apac Betim I;MG;NA;13
+2021;Apac Campo Belo I;MG;NA;102
+2021;Apac Caratinga I;MG;NA;145
+2021;Apac Conceição de Alagoas I;MG;NA;60
+2021;Apac Conselheiro Lafaiete I;MG;NA;229
+2021;Apac Conselheiro Lafaiete II;MG;NA;53
+2021;APAC DE VARGINHA;MG;NA;67
+2021;APAC DE VISCONDE DO RIO BRANCO I;MG;NA;67
+2021;Apac Frutal I;MG;NA;247
+2021;Apac Frutal II;MG;NA;76
+2021;Apac Governador Valadares I;MG;NA;72
+2021;Apac Inhapim I;MG;NA;71
+2021;Apac Itabira;MG;NA;67
+2021;Apac Itaúna I;MG;NA;171
+2021;Apac Itaúna II;MG;NA;33
+2021;Apac Ituiutaba I;MG;NA;72
+2021;Apac Januária I;MG;NA;83
+2021;Apac Lagoa da Prata I;MG;NA;149
+2021;Apac Manhuaçu I;MG;NA;131
+2021;Apac Manhumirim I;MG;NA;63
+2021;Apac Nova Lima I;MG;NA;118
+2021;Apac Paracatu I;MG;NA;191
+2021;Apac Passos I;MG;NA;225
+2021;Apac Patos de Minas I;MG;0;95
+2021;Apac Patrocínio I;MG;NA;142
+2021;Apac Pedra Azul I;MG;0;42
+2021;Apac Perdões I;MG;NA;74
+2021;Apac Pirapora I;MG;NA;144
+2021;Apac Pouso Alegre I;MG;NA;196
+2021;Apac Pouso Alegre II;MG;NA;26
+2021;Apac Rio Piracicaba I;MG;NA;51
+2021;Apac Salinas I;MG;5;33
+2021;Apac Santa Bárbara I;MG;NA;55
+2021;Apac Santa Luzia I;MG;NA;192
+2021;Apac Santa Maria do Suaçuí I;MG;NA;47
+2021;Apac São João Del Rei I;MG;NA;377
+2021;Apac São João Del Rei II;MG;NA;56
+2021;Apac Sete Lagoas I;MG;NA;89
+2021;Apac Teófilo Otoni I;MG;NA;31
+2021;Apac Viçosa I;MG;NA;42
+2021;Casa do Albergado de Belo Horizonte I;MG;NA;18
+2021;Casa do Albergado de Juiz de Fora I - José Alencar Rogêdo;MG;NA;57
+2021;Centro de Apoio Médico e Pericial de Ribeirão das Neves I;MG;110;56
+2021;Centro de Referência à Gestante Privada de Liberdade;MG;75;28
+2021;Centro de Remanejamento Provisório de Belo Horizonte I;MG;410;1120
+2021;Centro de Remanejamento Provisório de Betim I;MG;404;811
+2021;Centro de Remanejamento Provisório de Contagem I;MG;92;152
+2021;Centro de Remanejamento Provisório de Governador Valadares I;MG;284;593
+2021;Centro de Remanejamento Provisório de Ipatinga I;MG;313;93
+2021;Centro de Ressocialização e Pré-Soltura de Ribeirão das Neves I - José Abranches Gonçalves;MG;NA;68
+2021;Complexo Público Privado de Ribeirão das Neves I;MG;NA;672
+2021;Complexo Público Privado de Ribeirão das Neves II;MG;NA;671
+2021;Complexo Público Privado de Ribeirão das Neves III;MG;NA;817
+2021;Hospital de Custódia de tratamento Psiquiátrico de Barbacena I - Jorge vaz;MG;NA;56
+2021;Penitenciária de Belo Horizonte I;MG;64;335
+2021;Penitenciária de Carmo do Parnaíba I;MG;25;606
+2021;Penitenciária de Contagem I - Nelson Hungria;MG;347;2503
+2021;Penitenciária de Formiga I;MG;31;676
+2021;Penitenciária de Governador Valadares I - Francisco Floriano de Paula;MG;NA;1193
+2021;Penitenciária de Ipaba I - Dênio Moreira de Carvalho;MG;114;1229
+2021;Penitenciária de Juiz de Fora I - José Edson Cavalieri;MG;36;1084
+2021;Penitenciária de Juiz de Fora II;MG;139;1021
+2021;Penitenciária de Muriaé I;MG;44;890
+2021;Penitenciária de Pará de Minas I - Doutor Pio Soares Canedo;MG;2;741
+2021;Penitenciária de Patrocínio I;MG;NA;804
+2021;Penitenciária de Ponte Nova I;MG;NA;1080
+2021;Penitenciária de Ribeirão das Neves I - José Maria Alkimin;MG;24;2023
+2021;Penitenciária de São Joaquim de Bicas I - Professor Jason Soares de Albergaria;MG;15;278
+2021;Penitenciária de Segurança Máxima de Francisco Sá I;MG;NA;498
+2021;Penitenciária de Teófilo Otoni I;MG;NA;273
+2021;Penitenciária de Três Corações I;MG;126;1181
+2021;Penitenciária de Uberaba I;MG;NA;1460
+2021;Penitenciária de Uberlândia I - Professor João Pimenta Da Veiga;MG;NA;470
+2021;Penitenciária de Unaí I - Agostinho de Oliveira Júnior;MG;21;865
+2021;Presídio de Abaeté I;MG;90;147
+2021;Presídio de Abre Campo I;MG;74;194
+2021;Presídio de Açucena I;MG;30;142
+2021;Presídio de Águas Formosas I;MG;20;118
+2021;Presídio de Aimorés I;MG;36;145
+2021;Presídio de Além Paraíba I;MG;57;134
+2021;Presídio de Alfenas I;MG;190;469
+2021;Presídio de Almenara I;MG;60;218
+2021;Presídio de Andradas I;MG;81;203
+2021;Presídio de Andrelândia I;MG;27;71
+2021;Presídio de Araçuaí I;MG;63;130
+2021;Presídio de Araguari I;MG;168;270
+2021;Presídio de Araxá I;MG;108;280
+2021;Presídio de Arcos I;MG;67;184
+2021;Presídio de Barão de Cocais I;MG;64;137
+2021;Presídio de Barbacena I;MG;96;375
+2021;Presídio de Bicas I;MG;69;120
+2021;Presídio de Boa Esperança I;MG;46;104
+2021;Presídio de Bocaiúva I;MG;57;116
+2021;Presídio de Bom Despacho I;MG;75;107
+2021;Presídio de Bom Sucesso I;MG;44;101
+2021;Presídio de Botelhos I;MG;47;135
+2021;Presídio de Buritis I;MG;51;119
+2021;Presídio de Caeté I;MG;46;91
+2021;Presídio de Campo Belo I;MG;24;235
+2021;Presídio de Campos Gerais I;MG;80;186
+2021;Presídio de Canápolis I;MG;113;76
+2021;Presídio de Capelinha I;MG;66;163
+2021;Presídio de Carangola I;MG;72;130
+2021;Presídio de Caratinga I;MG;10;445
+2021;Presídio de Carlos Chagas I;MG;45;105
+2021;Presídio de Cataguases I;MG;97;264
+2021;Presídio de Congonhas I;MG;102;167
+2021;Presídio de Conselheiro Lafaiete I;MG;102;281
+2021;Presídio de Conselheiro Pena I;MG;79;119
+2021;Presídio de Corinto I;MG;65;106
+2021;Presídio de Coromandel I - Sargento Jorge;MG;79;121
+2021;Presídio de Coronel Fabriciano I;MG;92;436
+2021;Presídio de Curvelo I;MG;54;343
+2021;Presídio de Diamantina I;MG;113;171
+2021;Presídio de Divinópolis I;MG;237;613
+2021;Presídio de Dores do Indaiá I;MG;54;41
+2021;Presídio de Elói Mendes I;MG;42;27
+2021;Presídio de Ervália I;MG;142;4
+2021;Presídio de Eugenópolis I;MG;60;147
+2021;Presídio de Extrema I;MG;40;109
+2021;Presídio de Frutal I;MG;114;244
+2021;Presídio de Guanhães I;MG;101;154
+2021;Presídio de Guaranésia I;MG;116;265
+2021;Presídio de Ibirité I;MG;80;160
+2021;Presídio de Inhapim I;MG;78;181
+2021;Presídio de Itacarambi I;MG;34;63
+2021;Presídio de Itajubá I;MG;489;949
+2021;Presídio de Itamarandiba I;MG;35;65
+2021;Presídio de Itambacuri I;MG;73;155
+2021;Presídio de Itaobim I;MG;34;141
+2021;Presídio de Itapagipe I;MG;40;148
+2021;Presídio de Itaúna I;MG;34;123
+2021;Presídio de Ituiutaba I;MG;204;214
+2021;Presídio de Jaboticatubas I;MG;38;163
+2021;Presídio de Jacinto I;MG;34;33
+2021;Presídio de Janaúba I;MG;142;289
+2021;Presídio de Januária I;MG;39;131
+2021;Presídio de Jequitinhonha I;MG;80;166
+2021;Presídio de João Monlevade I;MG;98;183
+2021;Presídio de João Pinheiro I;MG;173;261
+2021;Presídio de Juatuba I;MG;60;214
+2021;Presídio de Lagoa Da Prata I;MG;132;189
+2021;Presídio de Lagoa Santa I;MG;43;95
+2021;Presídio de Lavras I;MG;83;237
+2021;Presídio de Leopoldina I;MG;52;114
+2021;Presídio de Luz I;MG;92;170
+2021;Presídio de Machado I;MG;69;183
+2021;Presídio de Malacacheta I;MG;48;78
+2021;Presídio de Manga I;MG;63;157
+2021;Presídio de Manhuaçu I;MG;94;209
+2021;Presídio de Manhumirim I;MG;130;217
+2021;Presídio de Mantena I;MG;106;187
+2021;Presídio de Mariana I;MG;68;137
+2021;Presídio de Matias Barbosa I;MG;60;99
+2021;Presídio de Matozinhos I;MG;60;5
+2021;Presídio de Monte Azul I;MG;47;136
+2021;Presídio de Monte Carmelo I;MG;59;142
+2021;Presídio de Monte Santo de Minas I;MG;107;177
+2021;Presídio de Montes Claros I;MG;21;497
+2021;Presídio de Muriaé I;MG;86;136
+2021;Presídio de Nanuque I;MG;109;163
+2021;Presídio de Nepomuceno I;MG;34;88
+2021;Presídio de Nova Era I;MG;49;109
+2021;Presídio de Nova Lima I;MG;95;184
+2021;Presídio de Nova Serrana I;MG;90;274
+2021;Presídio de Novo Cruzeiro I;MG;33;96
+2021;Presídio de Oliveira I - Dr . Nelson Pires;MG;46;228
+2021;Presídio de Ouro Preto I;MG;33;195
+2021;Presídio de Paracatu I;MG;239;258
+2021;Presídio de Passos I;MG;99;312
+2021;Presídio de Patos de Minas I;MG;195;258
+2021;Presídio de Peçanha I;MG;77;125
+2021;Presídio de Pedra Azul I;MG;47;92
+2021;Presídio de Pedro Leopoldo I;MG;65;109
+2021;Presídio de Perdizes I;MG;50;126
+2021;Presídio de Pirapora I;MG;86;197
+2021;Presídio de Pitangui I;MG;86;153
+2021;Presídio de Piumhi I;MG;78;154
+2021;Presídio de Poços de Caldas I;MG;74;153
+2021;Presídio de Pompéu I;MG;46;91
+2021;Presídio de Porteirinha I;MG;63;101
+2021;Presídio de Pouso Alegre I;MG;353;819
+2021;Presídio de Prata I;MG;50;108
+2021;Presídio de Presidente Olegário I- Elzi Alves de Oliveira;MG;63;73
+2021;Presídio de Resende Costa I;MG;24;43
+2021;Presídio de Ribeirão das Neves I;MG;391;1739
+2021;Presídio de Ribeirão das Neves II - Inspetor José Martinho Drumond;MG;778;2332
+2021;Presídio de Rio Pardo de Minas I;MG;27;63
+2021;Presídio de Rio Pomba I;MG;83;138
+2021;Presídio de Sacramento I;MG;76;137
+2021;Presídio de Salinas I;MG;37;96
+2021;Presídio de Santa Luzia I;MG;48;127
+2021;Presídio de Santa Rita do Sapucaí I;MG;73;115
+2021;Presídio de Santa Vitória I;MG;50;54
+2021;Presídio de Santos Dumont I;MG;76;180
+2021;Presídio de São Domingos do Prata I;MG;50;104
+2021;Presídio de São Francisco I;MG;56;105
+2021;Presídio de São João Da Ponte I;MG;51;102
+2021;Presídio de São João Del Rei I;MG;295;657
+2021;Presídio de São João Evangelista I;MG;52;122
+2021;Presídio de São Joaquim de Bicas I;MG;406;1036
+2021;Presídio de São Joaquim de Bicas II;MG;430;1032
+2021;Presídio de São Lourenço I;MG;278;388
+2021;Presídio de São Sebastião do Paraíso I;MG;53;386
+2021;Presídio de Serro I;MG;77;122
+2021;Presídio de Sete Lagoas I - Promotor José Costa;MG;304;716
+2021;Presídio de Taiobeiras I;MG;30;66
+2021;Presídio de Tarumirim I;MG;62;61
+2021;Presídio de Teófilo Otoni I;MG;129;683
+2021;Presídio de Timóteo I;MG;164;163
+2021;Presídio de Três Marias I;MG;24;49
+2021;Presídio de Tupaciguara I;MG;88;109
+2021;Presídio de Turmalina I;MG;28;74
+2021;Presídio de Ubá I;MG;122;286
+2021;Presídio de Uberlândia I;MG;628;1800
+2021;Presídio de Unaí I;MG;109;191
+2021;Presídio de Varginha I;MG;68;247
+2021;Presídio de Várzea Da Palma I;MG;24;88
+2021;Presídio de Vespasiano I;MG;202;225
+2021;Presídio de Viçosa I;MG;129;280
+2021;Presídio de Visconde do Rio Branco I;MG;127;159
+2021;Presídio Montes Claros II;MG;801;1252
+2021;Presídio de Três Pontas I - Rita de Cássia da Luz;MG;59;180
+2021;Unidade Gestora de Monitoração Eletrônica de Belo Horizonte I - DOMICILIAR;MG;NA;4086
+2021;Centro de Triagem Anizio Lima;MS;NA;187
+2021;Centro Penal Agro Industrial da Gameleira;MS;0;1132
+2021;"Colônia Penal Industrial ""Paracelso de Lima Vieira Jesus""";MS;NA;192
+2021;"Estabelecimento Penal ""Jair Ferreira de Carvalho""";MS;NA;2161
+2021;"Estabelecimento Penal ""Máximo Romero"" de Jardim";MS;NA;344
+2021;Estabelecimento Penal de Amambaí;MS;NA;192
+2021;Estabelecimento Penal de Aquidauana;MS;0;217
+2021;Estabelecimento Penal de Bataguassu;MS;0;158
+2021;Estabelecimento Penal de Cassilândia;MS;NA;195
+2021;Estabelecimento Penal de Corumbá;MS;NA;647
+2021;Estabelecimento Penal de Paranaíba;MS;NA;365
+2021;Estabelecimento Penal de Regime Aberto e Casa do Albergado de Campo Grande;MS;0;462
+2021;Estabelecimento Penal de Regime Semiaberto Aberto e Assistência ao Albergado  de Aquidauana;MS;NA;211
+2021;Estabelecimento Penal de Regime Semiaberto Aberto e Assistência ao Albergado  Paranaíba;MS;0;148
+2021;Estabelecimento Penal de Regime Semiaberto Aberto e Assistência ao Albergado de Amambai;MS;NA;124
+2021;Estabelecimento Penal de Regime Semiaberto Aberto e Assistência ao Albergado de Dourados;MS;NA;518
+2021;Estabelecimento Penal de Regime Semiaberto de Ponta Porã;MS;NA;500
+2021;Estabelecimento Penal de Regime Semiaberto, Aberto e Assistência ao Albergado de Naviraí;MS;NA;122
+2021;Estabelecimento Penal de Rio Brilhante;MS;0;279
+2021;"Estabelecimento Penal Feminino ""Carlos Alberto Jonas Giordano"" Corumbá";MS;39;112
+2021;"Estabelecimento Penal Feminino ""Irmã Irma Zorzi""";MS;NA;285
+2021;Estabelecimento Penal Feminino de Ponta Porã;MS;NA;111
+2021;Estabelecimento Penal Feminino de Regime Semiaberto, Aberto e Assistência ao Albergado de Campo Grande;MS;0;140
+2021;Estabelecimento Penal Feminino de Regime Semiaberto, Aberto e Assistência ao Albergado de Dourados;MS;0;94
+2021;Estabelecimento Penal Feminino de Rio Brilhante;MS;NA;120
+2021;Estabelecimento Penal Feminino De São Gabriel do Oeste;MS;NA;61
+2021;Estabelecimento Penal Feminino de Três Lagoas;MS;NA;116
+2021;Estabelecimento Penal Feminino Luiz Pereira da Silva;MS;0;107
+2021;Estabelecimento Penal Masculino de Coxim;MS;NA;306
+2021;Estabelecimento Penal Masculino de Regime Fechado de  Nova Andradina;MS;NA;139
+2021;Estabelecimento Penal Masculino de Regime Fechado de Caarapo;MS;NA;81
+2021;Estabelecimento Penal Masculino de Regime Fechado de Ivinhema;MS;NA;128
+2021;Estabelecimento Penal Masculino de Regime Semiaberto, Aberto e Assistência ao Albergado de Coxim;MS;NA;16
+2021;Instituto Penal de Campo Grande;MS;110;1485
+2021;Penitenciária de Dois Irmãos Buriti;MS;NA;531
+2021;Penitenciaria de Segurança Máxima de Naviraí;MS;0;727
+2021;Penitenciária de Segurança Média de Três Lagoas;MS;19;673
+2021;Penitenciária Estadual de Dourados;MS;160;2536
+2021;Penitenciária Estadual Masculina de Regime Fechado da Gameleira;MS;NA;567
+2021;Presídio de Trânsito;MS;75;378
+2021;Unidade Mista de Monitoramento Virtual Estadual - DOMICILIAR;MS;NA;2924
+2021;"Unidade Penal ""Ricardo Brandão""";MS;NA;629
+2021;CADEIA PUBLICA ALTA FLORESTA;MT;65;115
+2021;CADEIA PUBLICA DE ALTO ARAGUAIA;MT;80;83
+2021;CADEIA PUBLICA DE ARENÁPOLIS;MT;47;71
+2021;Cadeia Pública de Barra do Garças;MT;0;232
+2021;Cadeia Pública de Caceres;MT;240;353
+2021;CADEIA PUBLICA DE CHAPADA DOS GUIMARÃES;MT;0;28
+2021;Cadeia Pública de Colider;MT;46;63
+2021;CADEIA PUBLICA DE COMODORO;MT;72;77
+2021;Cadeia Pública de Diamantino;MT;20;43
+2021;CADEIA PÚBLICA DE JUARA;MT;161;103
+2021;Cadeia Pública de Mirassol D' Oeste;MT;196;182
+2021;Cadeia Pública de Nobres;MT;45;54
+2021;CADEIA PUBLICA DE NOVA MUTUM;MT;92;124
+2021;CADEIA PÚBLICA DE NOVA XAVANTINA;MT;50;9
+2021;Cadeia Pública de Peixoto Azevedo;MT;52;146
+2021;CADEIA PUBLICA DE PORTO ALEGRE DO NORTE;MT;63;46
+2021;Cadeia Pública de Porto dos Gaúchos;MT;78;84
+2021;CADEIA PUBLICA DE PRIMAVERA DO LESTE;MT;60;416
+2021;Cadeia Pública de São Felix do Araguaia;MT;53;45
+2021;Cadeia Pública de São José dos Quatro Marcos;MT;71;57
+2021;Cadeia Pública Feminina de Cáceres;MT;70;50
+2021;CADEIA PUBLICA PARANATINGA;MT;75;58
+2021;CADEIA PUBLICA VILA RICA;MT;120;65
+2021;Centro de Custodia Cuiabá;MT;52;103
+2021;Centro de Detenção Provisória de Lucas do Rio Verde;MT;144;246
+2021;CENTRO DE DETENÇÃO PROVISORIA PONTES E LACERDA;MT;172;247
+2021;CENTRO DE DETENÇÃO PROVISORIA TANGARA DA SERRA;MT;218;349
+2021;Centro de Monitoramento Eletrônico Domiciliar;MT;0;5252
+2021;CENTRO DE RESSOCIALIZAÇÃO CAMPO NOVO DO PARECIS;MT;126;143
+2021;CENTRO DE RESSOCIALIZAÇÃO COLNIZA;MT;78;79
+2021;Centro de Ressocialização de Araputanga;MT;84;79
+2021;CENTRO DE RESSOCIALIZAÇÃO DE BARRA DO BUGRES;MT;76;198
+2021;Centro de Ressocialização de Cuiabá;MT;392;766
+2021;CENTRO DE RESSOCIALIZAÇÃO DE JACIARA;MT;90;116
+2021;CENTRO DE RESSOCIALIZAÇÃO DE JUÍNA;MT;164;259
+2021;CENTRO DE RESSOCIALIZAÇÃO DE VARZEA GRANDE;MT;82;167
+2021;CENTRO DE RESSOCIALIZAÇÃO FEMININA DE RONDONÓPOLIS;MT;126;78
+2021;CENTRO DE RESSOCIALIZAÇÃO SORRISO;MT;96;269
+2021;Colonia Penal Agricola de Palmeiras;MT;0;29
+2021;Complexo Penitenciário Agamenon Lemos Dantas;MT;0;233
+2021;Penitenciária Central do Estado;MT;0;2427
+2021;Penitenciária Dr. Osvaldo Florentino Leite Ferreira;MT;0;723
+2021;Penitenciária Feminina Ana Maria do Couto;MT;92;250
+2021;Penitenciária Major PM Eldo de Sá Correa;MT;288;1480
+2021;Penitenciária Major PM Zuzi Alves da Silva;MT;NA;520
+2021;CADEIA PÚBLICA FEMININA DE NORTELANDIA;MT;56;63
+2021;CADEIA PÚBLICA DE MARABÁ;PA;NA;388
+2021;CADEIA PÚBLICA DE PARAUAPEBAS;PA;460;272
+2021;CADEIA PÚBLICA DE REDENÇÃO;PA;NA;393
+2021;CADEIA PÚBLICA PARA JOVENS E ADULTOS;PA;974;967
+2021;CARCERAGEM DE ALMEIRIM;PA;30;17
+2021;CARCERAGEM DE ORIXIMINÁ;PA;60;23
+2021;CASA DE PASSAGEM PARA PRESOS DE BAIXA RELEVANCIA CRIMINAL DE MARABÁ;PA;NA;27
+2021;CENTRAL DE MONITORAÇÃO ELETRÔNICA DE MARABÁ (DOMICILIAR);PA;NA;125
+2021;CENTRAL DE MONITORAÇÃO ELETRÔNICA DE PARAGOMINAS  (DOMICILIAR);PA;NA;55
+2021;CENTRAL DE RECAPTURA DE CONDENADOS;PA;NA;161
+2021;CENTRAL DE TRIAGEM DA CIDADE NOVA;PA;130;89
+2021;CENTRAL DE TRIAGEM DA CREMAÇÃO;PA;92;87
+2021;CENTRAL DE TRIAGEM DA MARAMBAIA;PA;75;134
+2021;CENTRAL DE TRIAGEM MASCULINA DE MARABÁ;PA;292;200
+2021;CENTRAL DE TRIAGEM MASCULINA DE SANTARÉM;PA;316;290
+2021;CENTRAL DE TRIAGEM METROPOLITANA II;PA;144;340
+2021;CENTRAL DE TRIAGEM METROPOLITANA III;PA;316;453
+2021;CENTRAL DE TRIAGEM METROPOLITANA IV;PA;292;261
+2021;CENTRAL INTEGRADA DE MONITORAMENTO ELETRÔNICO (DOMICILIAR);PA;NA;3342
+2021;CENTRO DE PROGRESSÃO PENITENCIÁRIO DE BELÉM;PA;NA;151
+2021;CENTRO DE RECUPERAÇÃO AGRÍCOLA SÍLVIO HALL DE MOURA;PA;NA;806
+2021;Centro de Recuperação de Condenados de Icoaraci;PA;NA;305
+2021;CENTRO DE RECUPERAÇÃO DO COQUEIRO;PA;NA;419
+2021;CENTRO DE RECUPERAÇÃO ESPECIAL CEL. ANASTÁCIO DAS NEVES;PA;NA;125
+2021;CENTRO DE RECUPERAÇÃO MASCULINO DE VITORIA DO XINGU;PA;NA;358
+2021;CENTRO DE RECUPERAÇÃO PENITENCIÁRIO DO PARÁ II;PA;NA;64
+2021;CENTRO DE RECUPERAÇÃO PENITENCIÁRIO DO PARÁ III;PA;NA;669
+2021;CENTRO DE RECUPERAÇÃO PENITENCIÁRIO DO PARÁ IV;PA;NA;227
+2021;CENTRO DE RECUPERAÇÃO PENITENCIÁRIO DO PARÁ V;PA;NA;428
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE ABAETETUBA;PA;NA;86
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE BRAGANÇA;PA;NA;190
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE BREVES;PA;NA;250
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE CAMETÁ;PA;NA;124
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE CAPANEMA;PA;NA;101
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE CASTANHAL;PA;NA;478
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE ITAITUBA;PA;NA;374
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE MOCAJUBA;PA;NA;85
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE MOSQUEIRO;PA;NA;56
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE PARAGOMINAS;PA;NA;343
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE REDENÇÃO;PA;NA;1
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE SALINÓPOLIS;PA;NA;149
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE TOMÉ-AÇÚ;PA;NA;95
+2021;CENTRO DE RECUPERAÇÃO REGIONAL DE TUCURUÍ;PA;NA;123
+2021;CENTRO DE REEDUCAÇÃO FEMININO;PA;NA;429
+2021;CENTRO DE REEDUCAÇÃO FEMININO DE MARABÁ;PA;NA;66
+2021;CENTRO DE REEDUCAÇÃO FEMININO DE SANTARÉM;PA;NA;88
+2021;CENTRO DE TRIAGEM MASCULINA DE ABAETETUBA;PA;NA;357
+2021;COLÔNIA PENAL AGRÍCOLA DE SANTA ISABEL;PA;NA;1956
+2021;HOSPITAL DE CUSTÓDIA E TRATAMENTO PSIQUIÁTRICO;PA;NA;61
+2021;PRESÍDIO ESTADUAL METROPOLITANO I;PA;NA;663
+2021;PRESÍDIO ESTADUAL METROPOLITANO II;PA;NA;383
+2021;PRESÍDIO ESTADUAL METROPOLITANO III;PA;NA;233
+2021;UNIDADE PRISIONAL MASCULINA DE TUCURUÍ;PA;NA;466
+2021;UNIDADE SEMIABERTO MASCULINO DE MARABÁ;PA;NA;206
+2021;Cadeia P. de São J. do Rio do Peixe;PB;12;65
+2021;Cadeia P. de São José de Piranhas;PB;15;85
+2021;Cadeia Púb. de Cruz do Esp. Santo;PB;22;17
+2021;Cadeia Pública de Alagoa Grande;PB;14;86
+2021;Cadeia Pública de Alagoa Nova;PB;9;44
+2021;Cadeia Pública de Alagoinha;PB;10;42
+2021;Cadeia Pública de Alhandra;PB;50;116
+2021;Cadeia Pública de Araruna;PB;48;54
+2021;Cadeia Pública de Areia;PB;18;82
+2021;Cadeia Pública de Aroeiras;PB;14;20
+2021;Cadeia Pública de Bananeiras;PB;12;59
+2021;Cadeia Pública de Bayeux;PB;40;166
+2021;Cadeia Pública de Belém;PB;119;83
+2021;Cadeia Pública de Cajazeiras;PB;0;143
+2021;Cadeia Pública de Conceição;PB;16;58
+2021;Cadeia Pública de Coremas;PB;14;45
+2021;Cadeia Pública de Cubati;PB;25;30
+2021;Cadeia Pública de Cuité;PB;30;87
+2021;Cadeia Pública de Esperança;PB;50;114
+2021;Cadeia Pública de Ingá;PB;24;42
+2021;Cadeia Pública de Itabaiana;PB;42;80
+2021;Cadeia Pública de Itaporanga;PB;36;79
+2021;Cadeia Pública de Jacaraú;PB;18;43
+2021;Cadeia Pública de Juazeirinho;PB;14;40
+2021;Cadeia Pública de Malta;PB;36;30
+2021;Cadeia Pública de Mamanguape;PB;29;43
+2021;Cadeia Pública de Monteiro;PB;66;189
+2021;Cadeia Pública de Pedras de Fogo;PB;1;53
+2021;Cadeia Pública de Piancó;PB;28;36
+2021;Cadeia Pública de Pilar/Gurinhem;PB;36;60
+2021;Cadeia Pública de Pombal;PB;50;110
+2021;Cadeia Pública de Princesa Isabel;PB;44;71
+2021;Cadeia Pública de Queimadas;PB;8;84
+2021;Cadeia Pública de Remígio;PB;30;15
+2021;Cadeia Pública de Santa Luzia;PB;30;27
+2021;Cadeia Pública de São João do Cariri;PB;5;29
+2021;Cadeia Pública de Serra Branca;PB;38;44
+2021;Cadeia Pública de Solânea;PB;60;139
+2021;Cadeia Pública de Soledade;PB;12;32
+2021;Cadeia Pública de Teixeira;PB;20;68
+2021;Cadeia Pública de Uiraúna;PB;8;40
+2021;Cadeia Pública de Umbuzeiro;PB;10;28
+2021;Centro de Monitoramento de Tornozeleira Eletrônica DOMICILIAR;PB;NA;1142
+2021;Centro de Reed. Fem. Mª Júlia Maranhão;PB;41;274
+2021;Colônia Penal Agrícola de Sousa;PB;50;168
+2021;Penit. Des. Flósculo da Nóbrega - Róger;PB;571;535
+2021;Penit. Juiz Hitler Cantalice - Média;PB;53;814
+2021;Penitenciária C. Geraldo Beltrão;PB;0;177
+2021;Penitenciária de Psiquiatria Forense - PPF;PB;45;89
+2021;Penitenciária de Segurança Máxima Dr. Romeu Gonçalves Abrantes - PB1/PB2;PB;NA;502
+2021;Penitenciária Desembargador Silvio Porto;PB;0;1648
+2021;Penitenciária Especial Fco Espínola;PB;NA;11
+2021;Penitenciária Fem. de CG;PB;35;73
+2021;Penitenciária Jurista Agnelo Amorim Filho;PB;0;4
+2021;Penitenciária P. de Catolé do Rocha;PB;NA;182
+2021;Penitenciária Padrão de Cajazeiras;PB;NA;283
+2021;Penitenciária Padrão de CG;PB;150;429
+2021;Penitenciária Padrão de Guarabira João Bosco Carneiro;PB;NA;345
+2021;Penitenciária Padrão de Santa Rita;PB;NA;313
+2021;Penitenciária Padrão Romero Nóbrega;PB;NA;293
+2021;Penitenciária Reg. Raimundo Asfora;PB;NA;1083
+2021;Penitenciária Regional de Guarabira Vicente Claudino de Pontes;PB;170;45
+2021;Penitenciária Regional de Sousa;PB;0;158
+2021;Penitenciária Regional de Sousa - DOMICILIAR;PB;0;158
+2021;Presídio Regional de Sapé;PB;34;118
+2021;Presídio Regional Feminino de Patos;PB;NA;32
+2021;CADEIA PÚBICA DE ALIANÇA;PE;8;9
+2021;Cadeia Pública de Afogados da Ingazeira;PE;24;40
+2021;CADEIA PÚBLICA DE AFRÂNIO;PE;50;1
+2021;CADEIA PÚBLICA DE AGRESTINA;PE;30;21
+2021;CADEIA PÚBLICA DE ALTINHO;PE;30;11
+2021;CADEIA PÚBLICA DE ARARIPINA;PE;45;77
+2021;CADEIA PÚBLICA DE ARARIPINA - P/ DOMICILIAR;PE;0;5
+2021;CADEIA PÚBLICA DE BEZERROS;PE;30;12
+2021;Cadeia Pública de Bom Conselho;PE;46;42
+2021;Cadeia Pública de Bom Conselho - P/ DOMICILIAR;PE;0;1
+2021;Cadeia Pública de Cachoeirinha;PE;12;5
+2021;CADEIA PÚBLICA DE CARPINA;PE;25;14
+2021;CADEIA PÚBLICA DE ESCADA;PE;47;70
+2021;CADEIA PÚBLICA DE EXÚ;PE;32;20
+2021;CADEIA PÚBLICA DE EXÚ - P/ DOMICILIAR;PE;NA;1
+2021;Cadeia Pública de Flores;PE;16;2
+2021;Cadeia Pública de Garanhuns;PE;96;152
+2021;CADEIA PUBLICA DE GARANHUNS P/DOMICILIAR;PE;0;2
+2021;CADEIA PÚBLICA DE GLÓRIA DE GOITÁ;PE;48;13
+2021;CADEIA PÚBLICA DE GOIANA;PE;100;109
+2021;CADEIA PÚBLICA DE GRAVATÁ;PE;68;58
+2021;Cadeia Pública de Ibimirim;PE;36;8
+2021;CADEIA PÚBLICA DE IPUBI;PE;18;39
+2021;Cadeia Pública de Itapetim;PE;36;5
+2021;CADEIA PÚBLICA DE LAGOA DO CARRO;PE;50;38
+2021;CADEIA PÚBLICA DE LAGOA DO CARRO - P/ DOMICILIAR;PE;NA;1
+2021;Cadeia Pública de Lajedo;PE;115;115
+2021;CADEIA PÚBLICA DE MACAPARANA;PE;50;13
+2021;CADEIA PÚBLICA DE MOREILÂNDIA;PE;30;8
+2021;CADEIA PÚBLICA DE MOREILÂNDIA - P/ DOMICILIAR;PE;0;1
+2021;CADEIA PÚBLICA DE NAZARÉ DA MATA;PE;18;8
+2021;CADEIA PÚBLICA DE PARNAMIRIM;PE;7;3
+2021;Cadeia Pública de Pedra;PE;36;17
+2021;Cadeia Pública de Petrolândia;PE;12;27
+2021;CADEIA PÚBLICA DE RIACHO DAS ALMAS;PE;14;3
+2021;Cadeia Pública de Saloá;PE;42;57
+2021;Cadeia Pública de São José do Belmonte;PE;30;2
+2021;CADEIA PÚBLICA DE São José do Belmonte - P/ DOMICILIAR;PE;0;3
+2021;Cadeia Pública de São José do Egito;PE;25;21
+2021;Cadeia Pública de Serra Talhada;PE;50;102
+2021;Cadeia Pública de Serra Talhada - P/ DOMICILIAR;PE;0;5
+2021;Cadeia Pública de Sertânia;PE;35;4
+2021;Cadeia Pública de Tabira;PE;48;25
+2021;CADEIA PÚBLICA DE TIMBAÚBA;PE;25;31
+2021;Cadeia Pública de Tuparetama;PE;18;11
+2021;Cadeia Pública de Venturosa;PE;36;14
+2021;CADEIA PÚBLICA DE VICÊNCIA;PE;36;12
+2021;CADEIA PÚBLICA DE VICÊNCIA - P/ DOMICILIAR;PE;NA;1
+2021;CADEIA PÚBLICA FEMININA DE PETROLINA E SEDE GRPIII;PE;25;40
+2021;CADEIA PÚBLICA FEMININA DE PETROLINA E SEDE GRPIII - P/ DOMICILIAR;PE;0;6
+2021;CADEIA PÚBLICA FEMININA DE VERDEJANTE;PE;25;6
+2021;CADEIA PÚBLICA FEMININA DE VERDEJANTE - P/ DOMICILIAR;PE;0;4
+2021;CADEIA PÚBLICA RIBEIRÃO;PE;35;16
+2021;Centro de Observação Criminológica e Triagem Prof. Everardo Luna - COTEL;PE;946;3313
+2021;Centro de Observação Criminológica e Triagem Prof. Everardo Luna - COTEL - P/ DOMICILIAR;PE;NA;22
+2021;Centro de Ressocialização do Agreste - CRA;PE;NA;1653
+2021;Centro de Ressocialização do Agreste - CRA - P/ DOMICILIAR;PE;NA;430
+2021;COLÔNIA PENAL FEMININA DE ABREU E LIMA - PFAL;PE;0;448
+2021;COLÔNIA PENAL FEMININA DE ABREU E LIMA - PFAL - P/ DOMICILIAR;PE;0;448
+2021;Colônia Penal Feminina de Buíque - CPFB;PE;107;262
+2021;Colônia Penal Feminina de Buíque - CPFB - P/ DOMICILIAR;PE;NA;31
+2021;Colônia Penal Feminina do Recife - CPFR;PE;285;747
+2021;Colônia Penal Feminina do Recife - CPFR - P/ DOMICILIAR;PE;NA;272
+2021;Hospital de Custódia e Tratamento Psiquiátrico - HCTP;PE;NA;201
+2021;MONITORAMENTO ELETRONICO P/DOMICILIAR - CEMER;PE;NA;1993
+2021;PATRONATO PE - Regime Aberto;PE;NA;11626
+2021;Penitenciária Agro-Industrial São João - PAISJ;PE;0;1907
+2021;Penitenciária Agro-Industrial São João - PAISJ - P/ DOMICILIAR;PE;0;872
+2021;PENITENCIARIA BARRETO CAMPELO - PPBC;PE;NA;1346
+2021;PENITENCIARIA BARRETO CAMPELO - PPBC - P/ DOMICILIAR;PE;NA;10
+2021;PENITENCIARIA DE TACAIMBO - PTAC;PE;NA;612
+2021;PENITENCIARIA DE TACAIMBO - PTAC - P/ DOMICILIAR;PE;NA;2
+2021;Penitenciária Doutor Edvaldo Gomes - PDEG;PE;NA;1158
+2021;Penitenciária Doutor Edvaldo Gomes - PDEG - P/ DOMICILIAR;PE;NA;196
+2021;Penitenciária Dr. Ênio Pessoa Guerra - PDEPG;PE;NA;1937
+2021;Penitenciária Juiz Plácido - PJPS;PE;0;1867
+2021;Penitenciária Juiz Plácido - PJPS - P/ DOMICILIAR;PE;0;29
+2021;Presídio Advogado Brito Alves - PABA;PE;452;1047
+2021;Presídio Advogado Brito Alves - PABA - P/ DOMICILIAR;PE;0;13
+2021;Presídio Advogado José David Gil Rodrigues;PE;NA;572
+2021;Presidio ASP Marcelo Francisco de Araújo - PAMFA;PE;NA;2050
+2021;Presidio ASP Marcelo Francisco de Araújo - PAMFA - P/ DOMICILIAR;PE;NA;16
+2021;Presídio de Igarassu - PI;PE;874;4246
+2021;Presídio de Igarassu - PI - P/ DOMICILIAR;PE;NA;29
+2021;Presídio de Salgueiro - PSAL;PE;202;538
+2021;Presídio de Salgueiro - PSAL - P/ DOMICILIAR;PE;0;1
+2021;Presídio de Vitória de Santo Antão - PVSA;PE;112;684
+2021;Presídio de Vitória de Santo Antão - PVSA - P/ DOMICILIAR;PE;NA;11
+2021;Presídio Desembargador Augusto Duque - PDAD;PE;NA;671
+2021;Presídio Desembargador Augusto Duque - PDAD - P/ DOMICILIAR;PE;NA;671
+2021;Presídio Dr. Rorinildo da Rocha Leão - PRRL;PE;74;769
+2021;Presídio Dr. Rorinildo da Rocha Leão - PRRL - P/ DOMICILIAR;PE;1;4
+2021;Presídio Frei Damião de Bozano - PFDB;PE;454;2019
+2021;Presídio Frei Damião de Bozano - PFDB - P/ DOMICILIAR;PE;NA;8
+2021;Presídio Juiz Antônio Luiz Lins de Barros - PJALLB;PE;901;2578
+2021;Presídio Juiz Antônio Luiz Lins de Barros - PJALLB - P/ DOMICILIAR;PE;NA;26
+2021;Unidade Prisional de Itaquitinga I;PE;NA;994
+2021;Unidade Prisional de Itaquitinga I - P/ DOMICILIAR;PE;0;6
+2021;CADEIA PÚBLICA DE ALTOS;PI;603;887
+2021;CASA DE DETENÇÃO PROVISÓRIA CAPITÃO CARLOS JOSÉ GOMES DE ASSIS;PI;154;219
+2021;CASA DE DETENÇÃO PROVISÓRIA DOM INOCÊNCIO LOPEZ SANTAMARIA;PI;154;174
+2021;CENTRAL DE MONITORAMENTO ELETRÔNICO DOMICILIAR;PI;NA;1231
+2021;COLÔNIA AGRÍCOLA PENAL MAJOR CÉSAR OLIVEIRA;PI;NA;463
+2021;PENITENCIÁRIA DOM ABEL ALONSO NUNEZ;PI;NA;129
+2021;PENITENCIÁRIA FEMININA ADALBERTO DE MOURA SANTOS;PI;6;18
+2021;PENITENCIÁRIA FEMININA DE TERESINA;PI;54;103
+2021;PENITENCIÁRIA GONÇALO DE CASTRO LIMA;PI;NA;280
+2021;PENITENCIÁRIA JOSE DE ARIMATEIA BARBOSA LEITE;PI;144;235
+2021;PENITENCIÁRIA JOSÉ DE DEUS BARROS;PI;NA;489
+2021;PENITENCIÁRIA LUIZ GONZAGA REBELO;PI;NA;133
+2021;PENITENCIÁRIA MISTA JUIZ FONTES IBIAPINA;PI;NA;574
+2021;PENITENCIÁRIA PROFESSOR JOSÉ RIBAMAR LEITE;PI;NA;857
+2021;PENITENCIÁRIA REGIONAL DE OEIRAS;PI;NA;97
+2021;PENITENCIÁRIA REGIONAL IRMÃO GUIDO;PI;NA;457
+2021;UNIDADE DE APOIO AO SEMIABERTO;PI;NA;52
+2021;UNIDADE DE APOIO PRISIONAL;PI;NA;36
+2021;CADEIA PÚBLICA DE ALTO PARANÁ – CPAP;PR;16;38
+2021;CADEIA PÚBLICA DE ALTÔNIA – CPALT;PR;16;39
+2021;CADEIA PUBLICA DE ANDIRA;PR;34;102
+2021;CADEIA PUBLICA DE APUCARANA;PR;NA;374
+2021;CADEIA PUBLICA DE ARAPONGAS;PR;127;256
+2021;CADEIA PUBLICA DE ARAPOTI;PR;36;64
+2021;CADEIA PÚBLICA DE ARAUCÁRIA - CPARAU;PR;25;41
+2021;CADEIA PUBLICA DE ASSAI;PR;42;125
+2021;CADEIA PÚBLICA DE ASSIS CHATEAUBRIAND - CPASSIS;PR;90;65
+2021;CADEIA PÚBLICA DE ASTORGA - CPAST;PR;0;84
+2021;CADEIA PÚBLICA DE BANDEIRANTES - CPBAND;PR;50;87
+2021;CADEIA PUBLICA DE CAMBARA;PR;29;114
+2021;CADEIA PÚBLICA DE CAMBÉ - CPCABE;PR;40;170
+2021;CADEIA PUBLICA DE CAMPO LARGO;PR;35;84
+2021;CADEIA PÚBLICA DE CAMPO MOURÃO - CPCAMP I;PR;68;112
+2021;CADEIA PÚBLICA DE CAMPO MOURÃO II - CPCAMP II;PR;NA;382
+2021;CADEIA PÚBLICA DE CARLÓPOLIS - CPCARL;PR;67;79
+2021;CADEIA PUBLICA DE CASCAVEL;PR;15;136
+2021;CADEIA PUBLICA DE CASTRO;PR;60;193
+2021;CADEIA PUBLICA DE CIANORTE;PR;76;222
+2021;CADEIA PÚBLICA DE CIDADE GAÚCHA– CPCIG;PR;12;32
+2021;CADEIA PÚBLICA DE COLOMBO - CMBO;PR;26;43
+2021;CADEIA PÚBLICA DE COLORADO – CPCOL;PR;51;112
+2021;CADEIA PÚBLICA DE CORBÉLIA - CPCORB;PR;23;43
+2021;CADEIA PUBLICA DE CORNELIO PROCOPIO;PR;264;283
+2021;CADEIA PUBLICA DE CURITIBA;PR;72;222
+2021;CADEIA PÚBLICA DE ENGENHEIRO BELTRÃO - CPEB;PR;17;51
+2021;CADEIA PÚBLICA DE FAXINAL - CPFAXI;PR;48;120
+2021;CADEIA PÚBLICA DE FRANCISCO BELTRÃO – CPBELT;PR;52;113
+2021;CADEIA PÚBLICA DE GOIOERÊ– CPGOI;PR;10;83
+2021;CADEIA PUBLICA DE GUAIRA;PR;NA;125
+2021;CADEIA PUBLICA DE GUARAPUAVA;PR;160;343
+2021;CADEIA PÚBLICA DE GUARATUBA - CPGTBA;PR;30;32
+2021;CADEIA PUBLICA DE IBAITI;PR;18;104
+2021;CADEIA PÚBLICA DE IBIPORÃ - CPIBIPORA;PR;40;152
+2021;CADEIA PÚBLICA DE IPORÃ– CPIPO;PR;28;42
+2021;CADEIA PÚBLICA DE IRATI – CPIRATI;PR;38;84
+2021;CADEIA PÚBLICA DE IVAIPORÃ - CPIVP;PR;60;138
+2021;CADEIA PUBLICA DE JACAREZINHO;PR;68;151
+2021;CADEIA PUBLICA DE JAGUARIAIVA;PR;125;192
+2021;CADEIA PÚBLICA DE JANDAIA DO SUL – CPJS;PR;25;12
+2021;CADEIA PUBLICA DE LARANJEIRAS DO SUL;PR;82;208
+2021;CADEIA PÚBLICA DE LOANDA – CPLOAN;PR;96;140
+2021;CADEIA PÚBLICA DE MANDAGUARI – CPMGI;PR;45;91
+2021;CADEIA PUBLICA DE MARECHAL CANDIDO RONDON;PR;28;80
+2021;CADEIA PÚBLICA DE MARIALVA - CPMVA;PR;40;66
+2021;CADEIA PUBLICA DE MARINGA;PR;28;114
+2021;CADEIA PUBLICA DE MEDIANEIRA;PR;90;70
+2021;CADEIA PÚBLICA DE NOVA ESPERANÇA - CPNE;PR;0;118
+2021;CADEIA PÚBLICA DE NOVA LONDRINA - CPNL;PR;29;56
+2021;CADEIA PÚBLICA DE ORTIGUEIRA - CPORTG;PR;57;88
+2021;CADEIA PUBLICA DE PALMAS;PR;79;86
+2021;CADEIA PÚBLICA DE PALOTINA - CPPALO;PR;5;21
+2021;CADEIA PUBLICA DE PARANAGUA;PR;24;56
+2021;CADEIA PUBLICA DE PARANAVAI;PR;116;116
+2021;CADEIA PUBLICA DE PATO BRANCO;PR;58;255
+2021;CADEIA PÚBLICA DE PITANGA - CPPITA;PR;NA;72
+2021;CADEIA PÚBLICA DE PONTA GROSSA HILDEBRANDO DE SOUZA - CPHSPG;PR;421;756
+2021;CADEIA PUBLICA DE PORECATU;PR;38;112
+2021;CADEIA PÚBLICA DE PRUDENTÓPOLIS - CPPRUDE;PR;25;62
+2021;CADEIA PÚBLICA DE QUEDAS DO IGUAÇU - CPQI;PR;8;52
+2021;CADEIA PÚBLICA DE RESERVA - CPRES;PR;43;52
+2021;CADEIA PUBLICA DE RIO BRANCO DO SUL;PR;45;170
+2021;CADEIA PUBLICA DE ROLANDIA;PR;77;197
+2021;CADEIA PUBLICA DE SANTO ANTONIO DA PLATINA;PR;21;83
+2021;CADEIA PÚBLICA DE SÃO MATEUS DO SUL - CPSMS;PR;32;82
+2021;CADEIA PUBLICA DE SARANDI;PR;50;175
+2021;CADEIA PUBLICA DE SENGES;PR;15;34
+2021;CADEIA PÚBLICA DE STO ANTÔNIO DO SUDOESTE - CPSAS;PR;25;54
+2021;CADEIA PUBLICA DE TELEMACO BORBA;PR;123;261
+2021;CADEIA PUBLICA DE TOLEDO;PR;104;192
+2021;CADEIA PUBLICA DE UMUARAMA;PR;68;240
+2021;CADEIA PUBLICA DE UNIAO DA VITORIA;PR;36;146
+2021;CADEIA PÚBLICA DE WENCESLAU BRAZ - CPWB;PR;42;84
+2021;CADEIA PUBLICA FEMININA DE LONDRINA;PR;160;185
+2021;CADEIA PÚBLICA LAUDEMIR NEVES - CPLN;PR;386;494
+2021;CADEIA PUBLICA MASCULINA DE LONDRINA;PR;NA;52
+2021;CADEIA PÚBLIDA DE DOIS VIZINHOS - CPDV;PR;40;66
+2021;CASA DE CUSTÓDIA DE CURITIBA - CCC;PR;492;755
+2021;CASA DE CUSTÓDIA DE LONDRINA - CCL;PR;480;650
+2021;CASA DE CUSTODIA DE MARINGA - CCM;PR;960;1165
+2021;CASA DE CUSTÓDIA DE PIRAQUARA - CCP;PR;323;1625
+2021;CASA DE CUSTÓDIA DE SÃO JOSÉ DOS PINHAIS - CCSJP;PR;NA;1099
+2021;CENTRAL DE MONITORAÇÃO ELETRÔNICA - CME - MONITORAMENTO ELETRÔNICO DOMICILIAR;PR;NA;11696
+2021;CENTRO DE INTEGRAÇÃO SOCIAL - CIS;PR;0;75
+2021;CENTRO DE REINTEGRAÇÃO SOCIAL DE LONDRINA - CRESLON;PR;NA;553
+2021;COLÔNIA PENAL AGROINDUSTRIAL DO ESTADO DO PARANA - CPAI;PR;NA;796
+2021;COLÔNIA PENAL INDUSTRIAL DE MARINGÁ - CPIM;PR;NA;336
+2021;COMPLEXO MÉDICO PENAL - CMP;PR;NA;711
+2021;PATRONATO CENTRAL DE CURITIBA - PCTA - DOMICILIAR;PR;NA;37681
+2021;PENITENCIÁRIA  ESTADUAL THIAGO BORGES DE CARVALHO - PETBC;PR;0;1031
+2021;PENITENCIÁRIA CENTRAL DO ESTADO - UNIDADE DE PROGRESSÃO - PCE-UP;PR;NA;325
+2021;PENITENCIÁRIA CENTRAL DO ESTADO II - UNIDADE DE SEGURANÇA - PCE II-US;PR;NA;1690
+2021;PENITENCIÁRIA ESTADUAL DE CRUZEIRO DO OESTE - PECO;PR;NA;1236
+2021;PENITENCIÁRIA ESTADUAL DE FOZ DO IGUAÇU - PEF;PR;NA;1023
+2021;PENITENCIÁRIA ESTADUAL DE FOZ DO IGUAÇU 2 - PEF II;PR;2;992
+2021;PENITENCIÁRIA ESTADUAL DE FRANCISCO BELTRÃO - PEFB;PR;0;1227
+2021;PENITENCIÁRIA ESTADUAL DE GUARAPUAVA - UNIDADE DE PROGRESSÃO - PEG-UP;PR;NA;256
+2021;PENITENCIÁRIA ESTADUAL DE LONDRINA - PEL;PR;NA;788
+2021;PENITENCIÁRIA ESTADUAL DE LONDRINA 2 - PEL II;PR;NA;1301
+2021;PENITENCIÁRIA ESTADUAL DE MARINGÁ - PEM;PR;0;525
+2021;PENITENCIÁRIA ESTADUAL DE PIRAQUARA - PEP;PR;NA;694
+2021;PENITENCIÁRIA ESTADUAL DE PIRAQUARA 2 - PEPII;PR;NA;1181
+2021;PENITENCIÁRIA ESTADUAL DE PONTA GROSSA - UNIDADE DE PROGRESSÃO - PEPG-UP;PR;0;154
+2021;PENITENCIÁRIA ESTADUAL DE PONTA GROSSA - UNIDADE DE SEGURANÇA - PEPG-US;PR;0;588
+2021;PENITENCIÁRIA FEMININA DE FOZ DO IGUAÇÚ - UNIDADE DE PROGRESSÃO - PFF-UP;PR;0;218
+2021;PENITENCIÁRIA FEMININA DO PARANÁ - PFP;PR;NA;370
+2021;PENITENCIÁRIA INDUSTRIAL DE GUARAPUAVA - PIG;PR;NA;477
+2021;PENITENCIÁRIA INDUSTRIAL MARCELO PINHEIRO - PIMP;PR;0;386
+2021;CADEIA PÚBLICA CONSTANTINO COKOTÓS - SEAP/CK;RJ;30;147
+2021;Cadeia Pública Cotrin Neto - SEAP/CN;RJ;1241;1273
+2021;Cadeia Pública Dalton Crespo de Castro - SEAP/DC;RJ;200;782
+2021;Cadeia Pública Franz de Castro Holzwarth - SEAP/FC;RJ;302;295
+2021;Cadeia Pública Hélio Gomes - SEAPHG;RJ;0;862
+2021;Cadeia Pública Inspetor José Antônio da Costa Barros - SEAP/JB;RJ;0;892
+2021;Cadeia Pública Inspetor Luís Fernandes Bandeira Duarte;RJ;72;523
+2021;Cadeia Pública ISAP Tiago Teles de Castro Domingues - SEAPTD;RJ;640;1159
+2021;Cadeia Pública Jorge Santana - SEAPJS;RJ;750;1132
+2021;Cadeia Pública José Frederico Marques - SEAPFM;RJ;604;389
+2021;Cadeia Pública Juíza de Direito Patrícia Acioli - SEAP/JP;RJ;616;1574
+2021;Cadeia Pública Milton Dias Moreira - SEAPMM;RJ;0;1759
+2021;Cadeia Pública Paulo Roberto Rocha - SEAP/PR;RJ;750;1113
+2021;Cadeia Pública Pedro Melo da Silva - SEAPPM;RJ;NA;1353
+2021;Cadeia Pública Pedrolino Werling de Oliveira - SEAPPO;RJ;152;73
+2021;Cadeia Pública Romeiro Neto - SEAPRN;RJ;578;1158
+2021;Casa do Albergado Crispim Ventino - SEAP/AC;RJ;210;148
+2021;CASA DO ALBERGADO CRISPIM VENTINO - SEAP/AC - DOMICILIAR;RJ;NA;1192
+2021;CENTRAL DE MONITORAMENTO - MONITORAMENTO ELETRONICO DOMICILIAR - SEAP/UNIME;RJ;NA;6714
+2021;Colônia Agrícola Marco Vergas Tavares de Mattos - SEAPAM;RJ;NA;157
+2021;Hospital de Custódia e Trat. Psiquiátrico Henrique Roxo - SEAPHR;RJ;NA;94
+2021;Hospital Dr. Hamilton Agostinho V. de Castro - SEAPHA;RJ;NA;54
+2021;Hospital Penal Psiquiátrico Roberto Medeiros - SEAP/RM;RJ;NA;117
+2021;Instituto Penal Benjamin de Moraes Filho - SEAP/BM;RJ;NA;1579
+2021;INSTITUTO PENAL CÂNDIDO MENDES - SEAP/CM - DOMICILIAR;RJ;0;333
+2021;Instituto Penal Edgard Costa - SEAPEC;RJ;NA;458
+2021;Instituto Penal Ismael Pereira Sirieiro - SEAPIS;RJ;0;929
+2021;Instituto Penal Oscar Stevenson - SEAPOS;RJ;0;517
+2021;Instituto Penal Plácido Sá Carvalho - SEAPPC;RJ;NA;3566
+2021;INSTITUTO PENAL SANTO EXPEDITO - SEAP/ISE;RJ;560;616
+2021;INSTITUTO PENAL SANTO EXPEDITO - SEAP/ISE - DOMICILIAR;RJ;33;33
+2021;Instituto Penal Vicente Piragibe - SEAPVP;RJ;NA;5085
+2021;Penitenciária Alfredo Trajan - SEAPAT;RJ;NA;1720
+2021;PENITENCIÁRIA BANDEIRA STAMPA - SEAP/BS - DOMICILIAR;RJ;NA;558
+2021;Penitenciária Coronel PM Francisco Spargoli Rocha - SEAP/FS;RJ;NA;69
+2021;Penitenciária Dr. Serrano Neves - SEAPSN;RJ;672;1072
+2021;Penitenciária Gabriel Ferreira Castilho - SEAP/GC;RJ;123;1072
+2021;Penitenciária Industrial Esmeraldino Bandeira - SEAPEB;RJ;NA;2328
+2021;Penitenciária Joaquim Ferreira de Souza - SEAPJF;RJ;200;329
+2021;Penitenciária Jonas Lopes de Carvalho - SEAPJL;RJ;1281;2489
+2021;Penitenciária Laércio da Costa Pelegrino - SEAPLP;RJ;48;43
+2021;Penitenciária Lemos Brito - SEAPLB;RJ;128;1022
+2021;Penitenciária Moniz Sodré - SEAPMS;RJ;NA;2223
+2021;Penitenciária Talavera Bruce - SEAP/TB;RJ;0;403
+2021;Presídio Ary Franco - SEAPAF;RJ;968;1347
+2021;PRESÍDIO CARLOS TINOCO DA FONSECA - SEAP/CF - DOMICILIAR;RJ;0;351
+2021;Presídio Carlos Tinoco da Fonseca - SEAPCF;RJ;384;1788
+2021;Presídio Diomedes Vinhosa Muniz - SEAP/VM;RJ;198;681
+2021;Presídio Elizabeth Sá Rego - SEAP/SR;RJ;NA;1385
+2021;Presídio Evaristo de Moraes - SEAPEM;RJ;1806;3205
+2021;Presídio João Carlos da Silva - SEAP/JC;RJ;884;1372
+2021;Presídio Nelson Hungria - SEAPNH;RJ;0;833
+2021;Presídio Nilza da Silva Santos - SEAPNS;RJ;60;194
+2021;Sanatório Penal - SEAP/SP;RJ;NA;49
+2021;Unidade Materno Infantil - SEAP/UMI;RJ;8;10
+2021;UNIDADE MATERNO INFANTIL - SEAP/UMI - DOMICILIAR;RJ;8;10
+2021;CADEIA PÚBLICA DESEMBARGADOR MANOEL ONOFRE DE SOUZA - Mossoró;RN;343;323
+2021;CADEIA PÚBLICA DINORÁ SIMAS LIMA DEODATO - CEARÁ-MIRIM;RN;682;1112
+2021;CADEIA PÚBLICA NOMINANDO GOMES DA SILVA - Nova Cruz;RN;168;170
+2021;CADEIA PÚBLICA PROF. RAIMUNDO NONATO FERNANDES - Natal;RN;249;301
+2021;CADEIA PÚBLICA PROMOTOR MANOEL ALVES PESSOA NETO - Caraúbas;RN;192;165
+2021;CENTRAL DE MONITORAMENTO ELETRÔNICO / DOMICILIAR;RN;NA;2999
+2021;CENTRAL DE RECEBIMENTO E TRIAGEM;RN;24;26
+2021;CENTRO DE DETENÇÃO PROVISÓRIA DE APODI;RN;72;62
+2021;CENTRO DE DETENÇÃO PROVISÓRIA DE PARNAMIRIM - Feminino;RN;48;79
+2021;CENTRO DE DETENÇÃO PROVISÓRIA DE PARNAMIRIM - Feminino - DOMICILIAR;RN;0;21
+2021;COMPLEXO PENAL AGRÍCOLA DR. MÁRIO NEGÓCIO - Mossoró;RN;NA;461
+2021;COMPLEXO PENAL AGRÍCOLA DR. MÁRIO NEGÓCIO - Mossoró - DOMICILIAR;RN;0;434
+2021;COMPLEXO PENAL DR. JOÃO CHAVES - FEM;RN;NA;117
+2021;COMPLEXO PENAL DR. JOÃO CHAVES - FEM - DOMICILIAR;RN;0;83
+2021;COMPLEXO PENAL DR. JOÃO CHAVES - MASC;RN;NA;238
+2021;COMPLEXO PENAL DR. JOÃO CHAVES - MASC - DOMICILIAR;RN;NA;923
+2021;COMPLEXO PENAL REGIONAL DE PAU DOS FERROS;RN;0;333
+2021;COMPLEXO PENAL REGIONAL DE PAU DOS FERROS - DOMICILIAR;RN;0;71
+2021;PENITENCIÁRIA Des. FRANCISCO PEREIRA DA NÓBREGA - Caicó;RN;0;483
+2021;PENITENCIÁRIA Des. FRANCISCO PEREIRA DA NÓBREGA - Caicó - DOMICILIAR;RN;0;21
+2021;PENITENCIÁRIA ESTADUAL DE PARNAMIRIM;RN;NA;634
+2021;PENITENCIÁRIA ESTADUAL DE PARNAMIRIM - DOMICILIAR;RN;0;260
+2021;PENITENCIÁRIA ESTADUAL DR. FRANCISCO NOGUEIRA FERNANDES - Nísia Floresta;RN;0;1702
+2021;PENITENCIÁRIA ESTADUAL ROGÉRIO COUTINHO MADRUGA - Nísia Floresta;RN;NA;657
+2021;UNIDADE PSIQUIÁTRICA DE CUSTÓDIA E TRATAMENTO;RN;NA;45
+2021;Associação de Proteção e Assistência aos Condenados;RO;0;69
+2021;CADEIA PÚBLICA DE ALTA FLORESTA;RO;NA;65
+2021;CADEIA PÚBLICA DE CEREJEIRAS;RO;31;157
+2021;CADEIA PÚBLICA DE COLORADO DO OESTE;RO;NA;85
+2021;CADEIA PÚBLICA DE COSTA MARQUES;RO;42;112
+2021;CADEIA PÚBLICA DE PRESIDENTE MÉDICI;RO;44;59
+2021;CADEIA PÚBLICA DE SANTA LUZIA;RO;NA;53
+2021;CADEIA PÚBLICA DE SÃO FRANCISCO DO GUAPORÉ;RO;41;105
+2021;CASA DE DETENÇÃO DE CACOAL;RO;60;387
+2021;CASA DE DETENÇÃO DE GUAJARÁ MIRIM;RO;161;268
+2021;CASA DE DETENÇÃO DE JI-PARANÁ;RO;100;117
+2021;CASA DE DETENÇÃO DE OURO PRETO;RO;NA;182
+2021;CASA DE DETENÇÃO DE PIMENTA BUENO;RO;105;497
+2021;CASA DE DETENÇÃO DE ROLIM DE MOURA;RO;36;28
+2021;CASA DE DETENÇÃO DE VILHENA;RO;72;82
+2021;CASA DE DETENÇÃO SÃO MIGUEL DO GUAPORE;RO;28;88
+2021;CASA DE PRISÃO ALBERGUE E SEMIABERTO DE JARÚ;RO;NA;216
+2021;CASA DE PRISÃO ALBERGUE FEMININO DE GUAJARÁ MIRIM;RO;8;19
+2021;CASA DE PRISÃO ALBERGUE MASCULINO DE  JI-PARANÁ - MONITORAMENTO/DOMICILIAR;RO;NA;298
+2021;CASA DE PRISÃO ALBERGUE MASCULINO DE CACOAL;RO;NA;132
+2021;CASA DE PRISÃO ALBERGUE MASCULINO DE GUAJARÁ MIRIM;RO;NA;48
+2021;CASA DE PRISÃO SEMIABERTO MASCULINO DE ROLIM DE MOURA;RO;NA;118
+2021;CASA DO ALBERGADO DE ARIQUEMES;RO;NA;133
+2021;CASA DO ALBERGADO DE VILHENA (COLONIA PENAL E PRESÍDIO FEMININO);RO;14;196
+2021;CASA DO EGRESSO DE VILHENA (PATRONATO) - DOMICILIAR;RO;0;1
+2021;CENTRO DE DETENÇÃO PROVISÓRIA;RO;472;500
+2021;CENTRO DE RESSOCIALIZAÇÃO CONE SUL;RO;NA;322
+2021;CENTRO DE RESSOCIALIZAÇÃO DE ALVORADA DO OESTE;RO;NA;94
+2021;CENTRO DE RESSOCIALIZAÇÃO DE ARIQUEMES;RO;NA;509
+2021;CENTRO DE RESSOCIALIZAÇÃO JONAS FERRETI;RO;32;197
+2021;CENTRO DE RESSOCIALIZAÇÃO MACHADINHO DO OESTE;RO;NA;237
+2021;CENTRO DE RESSOCIALIZAÇÃO SUELY MARIA MENDONÇA;RO;NA;120
+2021;CENTRO DE RESSOCIALIZAÇÃO VALE DO GUAPORÉ;RO;0;131
+2021;CENTRO REGIONAL DE RESSOCIALIZAÇÃO AUGUSTO SIMON KEMPE;RO;107;228
+2021;COLÔNIA AGRÍCOLA PENAL ÊNIO PINHEIRO DOS SANTOS CAPEP;RO;0;329
+2021;PENITENCIÁRIA DE MÉDIO PORTE PANDINHA;RO;NA;328
+2021;PENITENCIARIA ESTADUAL ARUANA;RO;NA;207
+2021;PENITENCIÁRIA ESTADUAL EDIVAN MARIANO ROSENDO PANDA;RO;NA;589
+2021;PENITENCIARIA ESTADUAL JORGE THIAGO AGUIAR AFONSO - 603;RO;0;642
+2021;PENITENCIARIA MILTON SOARES DE CARVALHO;RO;0;414
+2021;PENITENCIÁRIA REGIONAL DE NOVA MAMORÉ;RO;NA;90
+2021;PENITENCIÁRIA REGIONAL DE ROLIM DE MOURA;RO;NA;141
+2021;PENITENCIÁRIA REGIONAL DR. AGENOR MARTINS DE CARVALHO;RO;12;324
+2021;PRESÍDIO SEMIABERTO DE JI-PARANÁ;RO;0;166
+2021;UNIDADE DE INTERNAÇÃO MASCULINA MEDIDAS DE SEGURANÇA;RO;NA;14
+2021;UNIDADE DE MONITORAMENTO ELETRÔNICO - DOMICILIAR;RO;NA;1339
+2021;UNIDADE SEMIABERTO E ABERTO FEMININO E MASCULINO PORTO VELHO - DOMICILIAR;RO;0;2659
+2021;Cadeia Pública Feminina de Boa Vista;RR;56;311
+2021;"Cadeia Pública Feminina de Boa Vista ""Domiciliar""";RR;NA;78
+2021;Cadeia Pública Masculina de Boa Vista;RR;NA;848
+2021;"Casa do Albergado Dr.ªAracélia Souto Maior - "" Albergue Domiciliar""";RR;NA;959
+2021;"Central de Monitoração Eletrônica de Pessoas - ""Prisão Domiciliar""";RR;NA;135
+2021;Centro de Progressão Penitenciária;RR;NA;211
+2021;Penitenciária Agrícola de Monte Cristo;RR;596;1671
+2021;Cadeia Pública de Porto Alegre;RS;1824;3054
+2021;Centro de Custódia Hospitalar Charqueadas;RS;0;7
+2021;Centro de Custodia Hospitalar Vila Nova;RS;NA;55
+2021;Colônia Penal Agrícola;RS;0;172
+2021;Instituto Penal de Bagé;RS;0;90
+2021;Instituto Penal de Canoas;RS;NA;85
+2021;Instituto Penal de Charqueadas;RS;NA;144
+2021;Instituto Penal de Gravatai Santos e Medeiros;RS;NA;61
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da 2ª Região Penitenciária;RS;NA;250
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da 3ª Região Penitenciária;RS;NA;401
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da 4ª Região Penitenciária;RS;NA;490
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da 5ª Região Penitenciária;RS;NA;433
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da 6ª Região Penitenciária;RS;NA;397
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da 7ª Região Penitenciária;RS;NA;463
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da 8ª Região Penitenciária;RS;NA;594
+2021;Instituto Penal de Monitoramento Eletrônico Domiciliar da Região Metropolitana;RS;NA;2487
+2021;Instituto Penal de Montenegro;RS;NA;67
+2021;Instituto Penal de Novo Hamburgo;RS;NA;307
+2021;Instituto Penal de Passo Fundo;RS;NA;99
+2021;Instituto Penal de Santa Maria;RS;NA;80
+2021;Instituto Penal de Santo Ângelo;RS;NA;112
+2021;Instituto Penal de São Leopoldo;RS;NA;188
+2021;Instituto Penal de Uruguaiana;RS;NA;81
+2021;Instituto Penal Feminino de Porto Alegre;RS;0;77
+2021;Instituto Penal Ijuí;RS;NA;150
+2021;Instituto Penal Irmão Miguel Dario;RS;NA;110
+2021;Instituto Psiquiatrico Forense;RS;NA;191
+2021;Patronato Lima Drummond;RS;NA;73
+2021;Penitenciaria Alta Segurança charqueadas;RS;NA;194
+2021;Penitenciária Estadual de Arroio dos Ratos;RS;NA;649
+2021;Penitenciária Estadual de Bento Gonçalves;RS;NA;325
+2021;Penitenciária Estadual de Canoas I;RS;NA;375
+2021;Penitenciária Estadual de Canoas II;RS;NA;752
+2021;Penitenciária Estadual de Canoas III;RS;NA;734
+2021;Penitenciária Estadual de Canoas IV;RS;NA;747
+2021;Penitenciária Estadual de Caxias do Sul;RS;NA;1021
+2021;Penitenciária Estadual de Charqueadas;RS;NA;607
+2021;Penitenciária Estadual de Jacuí;RS;NA;2096
+2021;Penitenciária Estadual de Porto Alegre;RS;NA;601
+2021;Penitenciária Estadual de Rio Grande;RS;0;641
+2021;Penitenciária Estadual de Santana do Livramento;RS;132;237
+2021;PENITENCIÁRIA ESTADUAL DE SAPUCAIA DO SUL;RS;0;520
+2021;Penitenciária Estadual de Venâncio Aires;RS;0;538
+2021;Penitenciária Estadual Feminina  de Guaiba;RS;NA;353
+2021;Penitenciária Modulada  Estadual de Ijuí;RS;0;710
+2021;Penitenciária Modulada Estadual de  Charqueadas;RS;NA;1339
+2021;Penitenciária Modulada Estadual de Montenegro;RS;NA;1838
+2021;Penitenciária Modulada Estadual de Osório;RS;NA;1497
+2021;Penitenciária Modulada Estadual de Uruguaiana;RS;0;625
+2021;Penitenciáriia Estadual de Santa Maria;RS;NA;884
+2021;Presídio  Estadual de São Luiz Gonzaga;RS;66;307
+2021;Presidio Estadual de  Cachoeira Do Sul;RS;NA;205
+2021;Presidio Estadual de  Candelária;RS;NA;81
+2021;Presidio Estadual de  Encruzilhada Do Sul;RS;NA;74
+2021;Presidio Estadual de  Lavras do Sul;RS;NA;44
+2021;Presidio Estadual de  São Borja;RS;0;304
+2021;Presidio Estadual de  Sobradinho;RS;NA;154
+2021;Presídio Estadual de Agudo;RS;NA;76
+2021;Presidio Estadual de Alegrete;RS;NA;154
+2021;Presidio Estadual de Arroio Do Meio;RS;NA;55
+2021;Presídio Estadual de Caçapava do Sul;RS;NA;81
+2021;Presídio Estadual de Cacequi;RS;NA;34
+2021;Presídio Estadual de Camaquã;RS;0;313
+2021;Presídio Estadual de Canela;RS;NA;186
+2021;Presídio Estadual de Canguçu;RS;NA;75
+2021;Presídio Estadual de Carazinho;RS;NA;235
+2021;Presídio Estadual de Cerro Largo;RS;6;89
+2021;Presídio Estadual de Cruz Alta;RS;NA;217
+2021;Presidio Estadual de Dom Pedrito;RS;0;197
+2021;Presidio Estadual de Encantado;RS;50;89
+2021;Presídio Estadual de Erechim;RS;NA;452
+2021;Presídio Estadual de Espumoso;RS;16;97
+2021;Presídio Estadual de Frederico Westphalen;RS;0;228
+2021;Presídio Estadual de Getúlio Vargas;RS;56;158
+2021;Presídio Estadual de Guaporé;RS;NA;104
+2021;Presidio Estadual de Iraí;RS;NA;50
+2021;Presidio Estadual de Itaqui;RS;NA;83
+2021;Presídio Estadual de Jaguarão;RS;NA;71
+2021;Presídio Estadual de Jaguari;RS;NA;45
+2021;Presídio Estadual de Julio de Castilhos;RS;NA;88
+2021;Presídio Estadual de Lagoa Vermelha;RS;NA;227
+2021;Presídio Estadual de Lajeado;RS;NA;315
+2021;Presídio Estadual de Nova Prata;RS;NA;129
+2021;Presídio Estadual de Palmeira das Missões;RS;0;148
+2021;Presidio Estadual de Quaraí;RS;0;52
+2021;Presidio Estadual de Rosário do Sul;RS;0;164
+2021;Presídio Estadual de Santa Rosa;RS;NA;446
+2021;Presídio Estadual de Santiago;RS;NA;269
+2021;Presídio Estadual de Santo Cristo;RS;NA;72
+2021;Presídio Estadual de São Francisco de Assis;RS;NA;71
+2021;Presídio Estadual de São Francisco de Paula;RS;70;90
+2021;Presidio Estadual de São Gabriel;RS;NA;253
+2021;Presídio Estadual de São Jerônimo;RS;NA;18
+2021;Presídio Estadual de São Sepé;RS;0;75
+2021;Presídio Estadual de São Vicente do Sul;RS;NA;44
+2021;Presídio Estadual de Sarandi;RS;NA;212
+2021;Presídio Estadual de Soledade;RS;0;213
+2021;Presídio Estadual de Taquara;RS;NA;251
+2021;Presídio Estadual de Três Passos;RS;0;298
+2021;Presídio Estadual de Vacaria;RS;NA;274
+2021;Presídio Estadual Feminino de Lajeado;RS;NA;33
+2021;Presídio Estadual Feminino de Torres;RS;NA;76
+2021;Presídio Estadual Feminino Madre Pelletier;RS;NA;297
+2021;Presídio Estadual Santa Vitoria do Palmar;RS;NA;91
+2021;Presidio Regional de Bagé;RS;0;629
+2021;Presídio Regional de Caxias do Sul;RS;NA;478
+2021;Presídio Regional de Pelotas;RS;NA;662
+2021;Presídio Regional de Santa Cruz do Sul;RS;NA;337
+2021;Presídio Regional de Santa Maria;RS;NA;269
+2021;Presídio Regional de Santo Ângelo;RS;NA;299
+2021;Presídio Regional de Passo Fundo;RS;0;646
+2021;Casa do Albergado de Florianópolis;SC;80;45
+2021;Colonia Penal Agricola da Palhoça;SC;NA;608
+2021;GEMOP - Gerência de Monitoramento Eletrônico (Domiciliar);SC;NA;1920
+2021;Hospital de Custódia e Tratamento Psiquiátrico;SC;15;76
+2021;Penitenciária Agrícola de Chapecó;SC;NA;1279
+2021;Penitenciária da Região de Curitibanos;SC;NA;921
+2021;Penitenciária de Florianópolis;SC;565;1707
+2021;Penitenciária de São Pedro de Alcântara;SC;NA;1288
+2021;Penitenciária Feminina de Criciúma;SC;NA;315
+2021;Penitenciária Industrial de Blumenau;SC;0;1040
+2021;Penitenciária Industrial de Chapecó;SC;0;857
+2021;Penitenciária Industrial de Joinville;SC;NA;908
+2021;Penitenciária Industrial de São Cristóvão do Sul;SC;NA;838
+2021;Penitenciária Masculina de Criciúma - Penitenciária SUL;SC;772;881
+2021;Penitenciária Masculina de Itajaí;SC;NA;1526
+2021;Penitenciária Masculina de Tubarão;SC;NA;263
+2021;Presídio de Barra Velha;SC;74;107
+2021;Presídio de Brusque;SC;55;117
+2021;Presídio de Caçador;SC;50;186
+2021;Presídio de Campos Novos;SC;102;111
+2021;Presídio de Canoinhas;SC;109;149
+2021;Presídio de Imbituba;SC;115;154
+2021;Presídio de Indaial;SC;31;205
+2021;Presídio de Itapema;SC;51;131
+2021;Presídio de Laguna;SC;97;131
+2021;Presídio de Maravilha;SC;53;125
+2021;Presídio de Porto União;SC;18;158
+2021;Presídio de São Francisco do Sul;SC;100;231
+2021;Presídio de São José do Cedro;SC;85;121
+2021;Presídio de São Miguel do Oeste;SC;79;144
+2021;Presídio de Videira;SC;101;168
+2021;Presidio Feminino de Chapecó;SC;70;259
+2021;Presídio Feminino de Florianópolis;SC;100;117
+2021;Presidio Feminino de Itajai;SC;280;305
+2021;Presidio Feminino de Ituporanga;SC;62;81
+2021;Presídio Feminino de Tubarão;SC;52;93
+2021;Presidio Masculino de Florianópolis;SC;277;267
+2021;Presídio Masculino de Itajaí;SC;696;1067
+2021;Presídio Masculino de Lages;SC;344;489
+2021;Presídio Regional de Araranguá;SC;244;353
+2021;Presidio Regional de Biguaçu;SC;48;113
+2021;Presídio Regional de Blumenau;SC;473;749
+2021;Presídio Regional de Chapecó;SC;320;353
+2021;Presídio Regional de Concórdia;SC;83;239
+2021;Presídio Regional de Criciúma;SC;696;915
+2021;Presídio Regional de Jaraguá do Sul;SC;283;578
+2021;Presídio Regional de Joaçaba;SC;76;249
+2021;Presidio Regional de Joinville;SC;539;1125
+2021;Presídio Regional de Lages;SC;NA;282
+2021;Presídio Regional de Mafra;SC;106;226
+2021;Presídio Regional de Rio do Sul;SC;225;379
+2021;Presídio Regional de Tijucas;SC;155;286
+2021;Presídio Regional de Xanxerê;SC;139;246
+2021;Presídio Regional Masculino de Tubarão;SC;260;655
+2021;Cadeia Pública de Areia Branca;SE;490;490
+2021;Cadeia Pública de Estância Tabelião Luiz Filadelfo da Costa;SE;245;240
+2021;Cadeia Territorial de Nossa Senhora do Socorro;SE;160;183
+2021;Central de Monitoramento Eletrônico de Presos - Monitoramento Eletrônico Domiciliar;SE;NA;1315
+2021;Complexo Penitenciário Advogado Antônio Jacinto Filho;SE;410;543
+2021;Complexo Penitenciário Manoel Carvalho Neto;SE;720;2777
+2021;Presídio Feminino;SE;100;234
+2021;Presídio Regional Senador Leite Neto;SE;NA;311
+2021;Presídio Regional Tobias Barreto;SE;NA;540
+2021;Presídio Semiaberto de Areia Branca;SE;0;126
+2021;Unidade de Custódia Psiquiátrica;SE;NA;74
+2021;"CDP ""Dr. Félix Nobre de Campos"" de Taubaté";SP;844;1065
+2021;"CDP ""Dr. José Eduardo Mariz de Oliveira"" de Caraguatatuba";SP;847;1109
+2021;"CDP ""Dr. Luis Cesar Lacerda""  de São Vicente";SP;842;1070
+2021;CDP de Bauru;SP;844;805
+2021;CDP de Caiuá;SP;580;599
+2021;CDP de Capela do Alto;SP;847;1446
+2021;CDP de Cerqueira César;SP;847;787
+2021;CDP de Diadema;SP;613;884
+2021;CDP de Mogi das Cruzes;SP;844;986
+2021;CDP de Mogi das Cruzes - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;1
+2021;CDP de Praia Grande;SP;564;642
+2021;CDP de Ribeirão Preto;SP;586;555
+2021;CDP de Ribeirão Preto - MONITORAMENTO ELETRONICO - DOMICILIAR;SP;NA;1
+2021;CDP de Riolândia;SP;NA;1154
+2021;CDP de São José do Rio Preto;SP;844;978
+2021;CDP de São José dos Campos;SP;546;638
+2021;CDP de São José dos Campos - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;1
+2021;CDP de Serra Azul;SP;856;1014
+2021;CDP de Serra Azul - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;2
+2021;CDP de Suzano;SP;844;1111
+2021;CDP de Taiúva;SP;847;837
+2021;CDP de Taiúva - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;2
+2021;CDP Feminino de Franco da Rocha;SP;1008;685
+2021;CDP Feminino de Franco da Rocha -  MONITORAMENTO ELETRONICO - DOMICILIAR;SP;NA;2
+2021;"CDP I ""ASP Giovani Martins Rodrigues"" de Guarulhos";SP;844;1186
+2021;CDP I de Chácara Belém + APP;SP;853;1277
+2021;CDP I Osasco;SP;833;1189
+2021;CDP I PACAEMBU;SP;823;1238
+2021;CDP I Pinheiros;SP;521;815
+2021;"CDP II ""ASP Paulo Gilberto de Araújo"" da Chácara Belém + APP";SP;844;1246
+2021;"CDP II ""ASP Paulo Gilberto de Araújo"" da Chácara Belém + APP - MONITORAMENTO ELETRÔNICO - CELA FÍSICA";SP;NA;14
+2021;"CDP II ""ASP Paulo Gilberto de Araújo"" da Chácara Belém + APP - MONITORAMENTO ELETRONICO - DOMICILIAR";SP;0;1
+2021;CDP II Guarulhos;SP;841;866
+2021;CDP II Guarulhos - MONITORAMENTO ELETRONICO - DOMICILIAR;SP;NA;1
+2021;CDP II Osasco;SP;833;1209
+2021;CDP II PACAEMBU;SP;823;1241
+2021;CDP II Pinheiros;SP;793;960
+2021;CDP II Pinheiros - MONITORAMENTO ELETRONICO - DOMICILIAR;SP;NA;1
+2021;CDP III de Pinheiros;SP;572;752
+2021;CDP III Pinheiros - MONITORAMENTO ELETRONICO - DOMICILIAR;SP;NA;1
+2021;CDP Itapecerica da Serra + APP;SP;845;1258
+2021;CDP IV de Pinheiros;SP;566;589
+2021;CDP IV Pinheiros - MONITORAMENTO ELETRONICO - DOMICILIAR;SP;NA;2
+2021;CDP LAVINIA;SP;NA;1273
+2021;CDP Mauá;SP;630;932
+2021;CDP PAULO DE FARIA;SP;590;801
+2021;CDP Paulo de Faria - MONITORAMENTO ELETRONICO - DOMICILIAR;SP;NA;7
+2021;CDP Santo André;SP;534;838
+2021;CDP São Bernardo do Campo;SP;844;1060
+2021;CDP Vila Independência;SP;822;1088
+2021;Centro de  Ressocialização  Feminino de  Rio Claro + ARSA;SP;7;104
+2021;Centro de  Ressocialização de Itapetininga;SP;NA;231
+2021;Centro de  Ressocialização Masculino de Atibaia;SP;NA;187
+2021;Centro de  Ressocialização Masculino de Bragança Paulista + ARSA;SP;67;263
+2021;Centro de  Ressocialização Masculino de Sumaré + ARSA;SP;NA;203
+2021;Centro de Detenção Provisória Álvaro de Carvalho;SP;821;668
+2021;Centro de Detenção Provisória de Americana;SP;640;856
+2021;Centro de Detenção Provisória de Campinas;SP;822;1161
+2021;Centro de Detenção Provisória de Campinas - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;3
+2021;Centro de Detenção Provisória de Hortolândia;SP;844;1146
+2021;Centro de Detenção Provisória de Hortolândia - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;2
+2021;Centro de Detenção Provisória de Icém;SP;NA;534
+2021;Centro de Detenção Provisória de Itatinga;SP;847;853
+2021;Centro de Detenção Provisória de Limeira;SP;823;1401
+2021;Centro de Detenção Provisória de Piracicaba + APP;SP;514;805
+2021;Centro de Detenção Provisória de Piracicaba + APP - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;1
+2021;Centro de Detenção Provisória de Pontal;SP;847;811
+2021;Centro de Detenção Provisória de Sorocaba;SP;712;764
+2021;Centro de Detenção Provisória Jundiaí;SP;998;998
+2021;Centro de Detenção Provisória Jundiaí - MONITORAMENTO ELETRONICO - DOMICILIAR;SP;NA;1
+2021;Centro de Detenção Provisória l de Chácara Belém - CDPB - MONITORAMENTO ELETRÔNICO - CELA FÍSICA;SP;NA;32
+2021;Centro de Detenção Provisória l de Chácara Belém - CDPB - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;2
+2021;Centro de Detenção Provisória Nova Independência;SP;NA;1263
+2021;Centro de Progressão Penitenciária de Hortolândia;SP;NA;1962
+2021;Centro de Progressão Penitenciária de Jardinópolis;SP;NA;1951
+2021;Centro de Progressão Penitenciária de Jardinópolis - MONITORAMENTO ELETRÔNICO  - CELA FÍSICA;SP;NA;94
+2021;Centro de Progressão Penitenciária de Jardinópolis - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;8
+2021;Centro de Progressão Penitenciária de Porto Feliz;SP;NA;1256
+2021;"Centro de Progressão Penitenciária I ""Dr Alberto Brocchieri"" de Bauru";SP;NA;2549
+2021;"Centro de Progressão Penitenciária I ""Dr Alberto Brocchieri"" de Bauru - MONITORAMENTO ELETRÔNICO - CELA FÍSICA";SP;NA;60
+2021;"Centro de Progressão Penitenciária II ""Dr Eduardo de Oliveira Vianna"" de Bauru";SP;NA;2548
+2021;"Centro de Progressão Penitenciária II ""Dr Eduardo de Oliveira Vianna"" de Bauru - MONITORAMENTO ELETRÔNICO - CELA FÍSICA";SP;NA;29
+2021;"Centro de Progressão Penitenciária III ""Prof. Noé Azevedo"" de Bauru";SP;NA;392
+2021;"Centro de Progressão Penitenciária III ""Prof. Noé Azevedo"" de Bauru - MONITORAMENTO ELETRÔNICO - CELA FÍSICA";SP;NA;23
+2021;"Centro de Progressão Penitenciária III ""Prof. Noé Azevedo"" de Bauru - MONITORAMENTO ELETRÔNICO - DOMICILIAR";SP;NA;1
+2021;Centro de Progressão Penitenciária Masculino de São Vicente;SP;NA;859
+2021;"Centro de Readaptação Penitenciária "" Dr. José Isamael Pedrosa"" de Presidente Bernardes";SP;NA;37
+2021;"Centro de Ressocialização ""Dr João Eduardo Franco Perlati"" de Jaú + ARSA";SP;NA;218
+2021;"Centro de Ressocialização ""Dr Mauro de Macedo"" de Avaré + ARSA";SP;0;220
+2021;"Centro de Ressocialização ""Dt Manoel Carlos Muniz"" de Lins + ARSA";SP;NA;218
+2021;"Centro de Ressocialização ""Prefeito João Misságlia"" de Mogi Mirim - MONITORAMENTO ELETRÔNICO - CELA FÍSICA";SP;NA;40
+2021;Centro de Ressocialização de Araraquara + ARSA;SP;NA;212
+2021;Centro de Ressocialização de Marília;SP;NA;245
+2021;Centro de Ressocialização de Marília - MONITORAMENTO ELETRÔNICO - CELA FÍSICA;SP;NA;25
+2021;Centro de Ressocialização de Ourinhos + ARSA;SP;0;131
+2021;Centro de Ressocialização de Ourinhos + ARSA - MONITORAMENTO ELETRONICO - CELA FÍSICA;SP;NA;14
+2021;Centro de Ressocialização Feminino de Araraquara + ARSA;SP;7;99
+2021;Centro de Ressocialização Feminino de São José dos Campos + ARSA;SP;NA;172
+2021;"Centro Progressão Penitenciária ""Prof.Ataliba Nogueira"" de Campinas";SP;NA;2460
+2021;"CPP ""Dr Javert de Andrade"" de São José do Rio Preto";SP;0;2156
+2021;"CPP ""Dr Javert de Andrade"" de São José do Rio Preto - MONITORAMENTO ELETRÔNICO - CELA FÍSICA";SP;NA;40
+2021;"CPP ""Dr Javert de Andrade"" de São José do Rio Preto - MONITORAMENTO ELETRÔNICO - DOMICILIAR";SP;NA;1
+2021;"CPP ""Dr Rubens Aleixo Sendin"" de Mongaguá";SP;NA;2364
+2021;"CPP ""Dr. Edgard Magalhães Noronha"" de Tremembé";SP;NA;2934
+2021;"CPP ""Dr. Edgard Magalhães Noronha"" de Tremembé- MONITORAMENTO ELETRONICO - CELA FÍSICA";SP;NA;32
+2021;CPP de Pacaembu;SP;NA;1413
+2021;CPP de Valparaíso;SP;NA;1328
+2021;"CPP Feminino ""Dra. Marina Marigo Cardoso de Oliveira"" de Butantan";SP;NA;1
+2021;CPP Feminino de São Miguel Paulista;SP;NA;196
+2021;CPP Franco da Rocha;SP;0;2202
+2021;"CR ""Dr. Luis Gonzaga de Arruda Campos"" de Rio Claro + ARSA";SP;NA;85
+2021;"CR ""Prefeito João Missaglia"" de Mogi Mirim + ARSA";SP;NA;223
+2021;CR de Araçatuba + ARSA;SP;71;205
+2021;CR de Araçatuba + ARSA - MONITORAMENTO ELETRÔNICO - CELA FÍSICA;SP;NA;39
+2021;CR de Birigui + ARSA;SP;NA;216
+2021;CR de Limeira + ARSA;SP;70;258
+2021;CR de Mococa;SP;NA;222
+2021;CR de Presidente Prudente + ARSA;SP;71;209
+2021;CR de Presidente Prudente + ARSA - MONITORAMENTO ELETRÔNICO - CELA FÍSICA;SP;NA;45
+2021;"CR Feminino ""Carlos Sidnes de Souza Cantarelli"" de Piracicaba";SP;NA;62
+2021;CR Feminino de São José do Rio Preto + ARSA;SP;70;162
+2021;CR Feminino de São José do Rio Preto + ARSA - MONITORAMENTO ELETRÔNICO - CELA FÍSICA;SP;NA;3
+2021;"Hospital  de Custódia e Tratamento Psiquiátrico ""Prof. André Teixeira Lima"" de Franco da Rocha";SP;NA;622
+2021;"Hospital de Custódia e Tratamento Psiquiátrico ""Dr. Arnaldo Amado Ferreira""";SP;NA;390
+2021;Hospital de Custódia e Tratamento Psiquiátrico II de Franco da Rocha;SP;0;1
+2021;"Pen. Feminina I  ""Santa Maria Eufrásia Pelettier"" de Tremembé + APP";SP;108;398
+2021;Penit.  II de São Vicente +APP;SP;0;1875
+2021;"Penit. ""Dr. Geraldo de Andrade Vieira"" de São Vicente I + APP";SP;0;1828
+2021;"Penit. ""Dr. José Augusto César Salgado"" de Tremembé + APP";SP;0;465
+2021;"Penit. ""Dr. José Augusto César Salgado"" de Tremembé + APP - MONITORAMENTO ELETRÔNICO - CELA FÍSICA";SP;NA;1
+2021;"Penit. ""Dr. José Augusto César Salgado"" de Tremembé + APP - MONITORAMENTO ELETRÔNICO - DOMICILIAR";SP;NA;2
+2021;"Penit. ""Dr. Tarcizo Leonce Pinheiro Cintra"" de Tremembé + APP";SP;NA;2236
+2021;Penit. Feminina da Capital;SP;0;464
+2021;Penit. Feminina de Tupi Paulista + APP;SP;359;691
+2021;Penit. Feminina de Tupi Paulista + APP - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;1
+2021;Penit. Feminina II de Tremembé + APP;SP;NA;601
+2021;Penit. Feminina II de Tremembé + APP - MONITORAMENTO ELETRONICO - DOMICILIAR;SP;NA;2
+2021;"Penit. I ""Dr. Antônio de Queiróz Filho"" de Itirapina + ARSA";SP;NA;788
+2021;"Penit. I ""José Parada Neto"" de Guarulhos + ARSA";SP;NA;2098
+2021;"Penit. I ""Mário Moura Albuquerque"" de Franco da Rocha + APP";SP;NA;1761
+2021;"Penit. I ""Mário Moura Albuquerque"" de Franco da Rocha + APP - MONITORAMENTO ELETRONICO - DOMICILIAR";SP;NA;1
+2021;"Penit. I ""Nelson Vieira"" de Guareí";SP;NA;1488
+2021;Penit. II de Serra Azul;SP;NA;1512
+2021;"Penit. III ""ASP Paulo Guimarães"" de Lavínia";SP;NA;1409
+2021;Penit. III de Hortolândia;SP;0;1234
+2021;Penit. Parelheiros;SP;0;754
+2021;"Penitenciária ""Cabo PM Marcelo Pires da Silva"" de Itaí + APP";SP;0;1750
+2021;"Penitenciária ""Dr Walter Faria Pereira de Queiroz"" de Pirajuí I";SP;NA;600
+2021;"Penitenciária ""Dr. Antonio de Souza Neto"" de Sorocaba II + APP";SP;NA;1652
+2021;"Penitenciária ""Dr. Antonio de Souza Neto"" de Sorocaba II + APP - MONITORAMENTO ELETRÔNICO - CELA FÍSICA";SP;NA;46
+2021;"Penitenciária ""Dr. Danilo Pinheiro"" de Sorocaba I + ARSA";SP;0;928
+2021;"Penitenciária ""Dr. Sebastião Martins Silveira"" de Araraquara + ADP";SP;496;1967
+2021;"Penitenciária ""Gilmar Monteiro de Souza"" de Balbinos";SP;0;1393
+2021;"Penitenciária ""João Batista de Arruda Sampaio"" de Itirapina  II + APP";SP;NA;2402
+2021;"Penitenciária ""Joaquim de Sylos Cintra"" de Casa Branca";SP;NA;1510
+2021;"Penitenciária ""Luiz Gonzaga Vieira"" de Pirajuí II";SP;NA;1710
+2021;"Penitenciária ""Odete Leite de Campos Critter""de Hortolândia II";SP;NA;1512
+2021;"Penitenciária ""Odete Leite de Campos Critter""de Hortolândia II - MONITORAMENTO ELETRÔNICO - DOMICILIAR";SP;NA;1
+2021;"Penitenciária ""Orlando Brando Filinto"" de Iaras + APP";SP;NA;2711
+2021;"Penitenciária ""Osiris Souza e Silva"" de Getulina";SP;NA;1414
+2021;"Penitenciária ""Rodrigo dos Santos Freitas"" de Balbinos";SP;NA;1438
+2021;"Penitenciária ""Sargento PM Luiz Antonio de Souza"" de Reginópolis";SP;NA;1359
+2021;"Penitenciária ""Tenente PM José Alfredo Cintra Borin"" de Reginópolis";SP;NA;1496
+2021;"Penitenciária ""Valentim Alves da Silva"" de Álvaro de Carvalho + APP";SP;NA;1616
+2021;Penitenciária de Andradina;SP;0;1883
+2021;Penitenciária de Assis + ADP;SP;288;1289
+2021;Penitenciária de Avanhandava;SP;NA;1285
+2021;Penitenciária de Bernardino de Campos;SP;NA;1322
+2021;Penitenciária de Caiuá;SP;NA;1384
+2021;Penitenciária de Capela do Alto;SP;NA;1468
+2021;Penitenciária de Cerqueira César;SP;NA;1381
+2021;Penitenciária de Dracena;SP;NA;1257
+2021;Penitenciária de Feminina de Ribeirão Preto + APP;SP;NA;243
+2021;Penitenciária de Feminina de Ribeirão Preto + APP - MONITORAMENTO ELETRÔNICO DOMICILIAR;SP;NA;1
+2021;Penitenciária de Flórida Paulista;SP;NA;1329
+2021;Penitenciária de Florínea;SP;0;1359
+2021;Penitenciária de Franca;SP;NA;1495
+2021;Penitenciária de Franca - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;1
+2021;Penitenciária de Guareí II;SP;NA;1523
+2021;Penitenciária de Iperó + APP + ADP;SP;336;2903
+2021;Penitenciária de Irapuru;SP;NA;1240
+2021;Penitenciária de Junqueirópolis;SP;0;1459
+2021;Penitenciária de Lucélia + APP;SP;0;2621
+2021;Penitenciária de Mairinque;SP;NA;1484
+2021;Penitenciária de Marabá Paulista;SP;NA;1224
+2021;Penitenciária de Marília + ARSA;SP;NA;1389
+2021;Penitenciária de Marília + ARSA - MONITORAMENTO ELETRÔNICO - CELA FÍSICA;SP;NA;15
+2021;Penitenciária de Martinópolis;SP;NA;1383
+2021;Penitenciária de Osvaldo Cruz;SP;NA;1037
+2021;Penitenciária de Pacaembu;SP;0;1135
+2021;Penitenciária de Paraguaçu Paulista;SP;0;1166
+2021;Penitenciária de Piracicaba;SP;NA;1516
+2021;Penitenciária de Pracinha;SP;NA;1267
+2021;Penitenciária de Presidente Bernardes;SP;0;2152
+2021;Penitenciária de Presidente Bernardes - MONITORAMENTO ELETRÔNICO - CELA FÍSICA;SP;NA;5
+2021;Penitenciária de Presidente Prudente + ARSA;SP;NA;1504
+2021;Penitenciária de Presidente Prudente + ARSA - MONITORAMENTO ELETRÔNICO - CELA FÍSICA;SP;NA;7
+2021;Penitenciária de Presidente Prudente + ARSA - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;2
+2021;Penitenciária de Registro;SP;0;1406
+2021;Penitenciária de Ribeirão Preto + APP;SP;0;1713
+2021;Penitenciária de Riolândia;SP;0;1332
+2021;Penitenciária de Taquarituba;SP;NA;1383
+2021;Penitenciária de Tupi Paulista;SP;NA;1437
+2021;Penitenciária de Valparaiso;SP;0;1502
+2021;"Penitenciária Feminina ""Sandra Aparecida Lário Vianna"" de Pirajuí + APP";SP;NA;708
+2021;"Penitenciária Feminina ""Sandra Aparecida Lário Vianna"" de Pirajuí + APP - MONITORAMENTO ELETRONICO - DOMICILIAR";SP;NA;1
+2021;Penitenciária Feminina de Campinas;SP;NA;438
+2021;Penitenciária Feminina de Campinas - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;1
+2021;Penitenciária Feminina de Guariba + APP;SP;NA;780
+2021;Penitenciária Feminina de Guariba + APP - MONITORAMENTO ELETRONICO - DOMICILIAR;SP;NA;5
+2021;Penitenciária Feminina de Mogi Guaçu + APP;SP;NA;809
+2021;Penitenciária Feminina de Mogi Guaçu + APP - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;1
+2021;Penitenciária Feminina Sant'Ana;SP;0;1512
+2021;Penitenciária Feminina Votorantim + APP;SP;NA;815
+2021;"Penitenciária I ""Nestor Canoa""  de Mirandópolis + ARSA";SP;0;2723
+2021;"Penitenciária I ""Nestor Canoa""  de Mirandópolis + ARSA - MONITORAMENTO ELETRÔNICO - CELA FÍSICA";SP;NA;33
+2021;"Penitenciária I ""Paulo Luciano Campos"" de Avaré";SP;0;637
+2021;"Penitenciária I ""Zwinglio Ferreira"" de Presidente Venceslau + APP";SP;NA;375
+2021;Penitenciária I de Itapetininga + APP;SP;839;1739
+2021;Penitenciária I de Lavínia;SP;0;1438
+2021;Penitenciária I de Potim;SP;844;1564
+2021;Penitenciária I de Serra Azul;SP;NA;1495
+2021;"Penitenciária II ""ASP Lindolfo Terçariol Filho"" de Mirandópolis";SP;NA;2016
+2021;"Penitenciária II ""Nelson Marcondes do Amaral"" de Avaré";SP;0;1009
+2021;Penitenciária II de Itapetininga + APP;SP;NA;1411
+2021;Penitenciária II de Itapetininga + APP - MONITORAMENTO ELETRÔNICO - DOMICILIAR;SP;NA;2
+2021;Penitenciária II de Lavinia;SP;0;1421
+2021;Penitenciária II de Potim + APP;SP;0;1753
+2021;Penitenciária II de Pres. Venceslau;SP;0;562
+2021;"Pent. II ""Desembargador Adriano Marrey"" de Guarulhos";SP;NA;2248
+2021;"Pent. II ""Nilton Silva"" de Franco da Rocha";SP;NA;1549
+2021;Pent. III Franco da Rocha;SP;NA;1653
+2021;CENTRAL DE MONITORAMENTO ELETRÔNICO DE PESSOAS - MONITORAMENTO ELETRÔNICO DOMICILIAR;TO;NA;604
+2021;FAZENDA AGROPECUÁRIA PENAL DE CARIRI;TO;0;20
+2021;UNIDADE DE TRATAMENTO PENAL REGIONAL BARRA DA GROTA - ARAGUAÍNA;TO;0;465
+2021;UNIDADE PENAL DE ARAGUAÍNA;TO;80;225
+2021;UNIDADE PENAL DE AUGUSTINÓPOLIS;TO;150;111
+2021;UNIDADE PENAL DE BARROLÂNDIA;TO;0;67
+2021;UNIDADE PENAL DE COLINAS;TO;0;104
+2021;UNIDADE PENAL DE COLMÉIA;TO;10;38
+2021;UNIDADE PENAL DE FORMOSO DO ARAGUAIA;TO;54;44
+2021;UNIDADE PENAL DE GURUPI;TO;100;98
+2021;UNIDADE PENAL DE MIRACEMA;TO;50;110
+2021;UNIDADE PENAL DE NATIVIDADE;TO;0;27
+2021;UNIDADE PENAL DE PALMEIRÓPOLIS;TO;0;52
+2021;UNIDADE PENAL DE PORTO NACIONAL;TO;0;103
+2021;UNIDADE PENAL DE TAGUATINGA;TO;20;84
+2021;UNIDADE PENAL DE TOCANTINÓPOLIS;TO;34;51
+2021;UNIDADE PENAL FEMININA DE ANANÁS;TO;15;17
+2021;UNIDADE PENAL FEMININA DE MIRANORTE;TO;0;20
+2021;UNIDADE PENAL FEMININA DE PALMAS;TO;0;52
+2021;UNIDADE PENAL FEMININA DE TALISMÃ;TO;NA;30
+2021;UNIDADE PENAL REGIONAL DE ARAGUATINS;TO;40;85
+2021;UNIDADE PENAL REGIONAL DE ARRAIAS;TO;0;93
+2021;UNIDADE PENAL REGIONAL DE DIANÓPOLIS;TO;24;72
+2021;UNIDADE PENAL REGIONAL DE GUARAÍ;TO;40;143
+2021;UNIDADE PENAL REGIONAL DE PALMAS;TO;0;654
+2021;UNIDADE PENAL REGIONAL DE PARAÍSO;TO;NA;332
+2021;UNIDADE REGIONAL DE SEGURANÇA MÁXIMA DE CARIRI;TO;NA;431
+2021;Penitenciária Federal em Brasília;DF;0;32
+2021;Penitenciária Federal em Campo Grande;MS;NA;124
+2021;Penitenciária Federal em Catanduvas;PR;0;123
+2021;Penitenciária Federal em Mossoró;RN;NA;107
+2021;Penitenciária Federal em Porto Velho;RO;NA;124
